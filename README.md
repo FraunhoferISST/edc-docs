@@ -1,12 +1,9 @@
+# EDC Documentation
 
-# Website
+This repository contains the documentation framework for providing the documentation files of all EDC
+repositories as a [GitHub page](https://docs.github.com/en/pages).
+**The pages are deployed at <https://eclipse-dataspaceconnector.github.io/docs>.**
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+## Contributing
 
-command:
-#cd edc-docs
-#npm run build
-#npm run serve
-
-
-
+See [how to contribute](docs/submodule/Connector/CONTRIBUTING.md).

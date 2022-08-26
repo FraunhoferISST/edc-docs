@@ -16,11 +16,9 @@ and https://github.com/docsifyjs/docsify/issues/1139)
   - <a href="#/submodule/Connector/">Connector</a>
   - <a href="#/submodule/DataDashboard/">Data Dashboard</a>
   - <a href="#/submodule/FederatedCatalog/">Federated Catalog</a>
-  - <a href="#/submodule/GradlePlugins/">Gradle Plugins</a>
   - <a href="#/submodule/IdentityHub/">Identity Hub</a>
   - <a href="#/submodule/MinimumViableDataspace/">Minimum Viable Dataspace</a>
   - <a href="#/submodule/RegistrationService/">Registration Service</a>
-  - <a href="#/submodule/TrustFrameworkAdoption/">Trust Framework Adoption</a>
 
 - Documents
   - <a href="#/submodule/Collateral/">Collateral</a>

@@ -28,10 +28,6 @@ Steps to reproduce the behavior:
 ## Context Information
 _Add any other context about the problem here._
 
-<<<<<<< HEAD
-=======
-- Used version [e.g. EDC v1.0.0]
->>>>>>> 2bab874 (chore: provide initial files)
 - OS: [e.g. iOS, Windows]
 - ...
 
