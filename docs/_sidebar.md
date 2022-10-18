@@ -8,18 +8,21 @@ and https://github.com/docsifyjs/docsify/issues/1139)
 - <a href="#/README">Home</a>
 
 - Getting Started
-  - <a href="#/submodule/Connector/known_friends.md">Adoptions</a>
   - <a href="#/submodule/Connector/CONTRIBUTING.md">Contributing</a>
-  - <a href="#/hands-on.md">Hands-on</a>
+  - <a href="#/sections/hands-on.md">Hands-on</a>
 
 - Components
   - <a href="#/submodule/Connector/">Connector</a>
   - <a href="#/submodule/DataDashboard/">Data Dashboard</a>
   - <a href="#/submodule/FederatedCatalog/">Federated Catalog</a>
   - <a href="#/submodule/IdentityHub/">Identity Hub</a>
-  - <a href="#/submodule/MinimumViableDataspace/">Minimum Viable Dataspace</a>
   - <a href="#/submodule/RegistrationService/">Registration Service</a>
 
 - Documents
   - <a href="#/submodule/Collateral/">Collateral</a>
-  - <a href="#publications.md">Publications</a>
+  - <a href="#/sections/publications.md">Publications</a>
+
+- Adoption
+  - <a href="#/submodule/MinimumViableDataspace/">Minimum Viable Dataspace</a>
+  - <a href="#/sections/gaia-x.md">GAIA-X</a>
+  - <a href="#/submodule/Connector/known_friends.md">Known Friends</a>
