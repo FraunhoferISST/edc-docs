@@ -62,12 +62,12 @@ const config = {
         title: '',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/icon.png',
         },
         items: [
           {
             type: 'doc',
-            docId: 'home',
+            docId: 'README',
             position: 'left',
             label: 'Docs',
            // to: "sidebar.md"
@@ -94,7 +94,7 @@ const config = {
 
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} My Project,  built with Fraunhofer ISST.`,
       },
       prism: {
         theme: lightCodeTheme,
