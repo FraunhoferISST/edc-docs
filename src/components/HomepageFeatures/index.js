@@ -4,32 +4,34 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Data Space',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+          Data spaces allow organizations to securely share data with others.
+          They enable data cooperation in a multi-cloud federation by focusing on identity,
+          sovereignty, and interoperability.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Data space connector',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+          a connector component is used to participate in a data space and mainly
+          focuses on these aspects while ensuring data sovereignty
+          along the entire data supply and value chain.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Identity Provider',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          The International Data Spaces offer cross-company identity management according
+          to modern standards and with low organizational requirements.
       </>
     ),
   },

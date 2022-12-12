@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/Collateral" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/Connector" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/DataDashboard" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/FederatedCatalog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/GradlePlugins" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/IdentityHub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/MinimumViableDataspace" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/Publications" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/RegistrationService" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/docs/submodule/TrustFrameworkAdoption" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/edc-docs" vcs="Git" />
+  </component>
+</project>
