@@ -2,7 +2,7 @@
   "unversionedId": "submodule/Connector/README",
   "id": "submodule/Connector/README",
   "title": "README",
-  "description": "Eclipse Dataspace Connector",
+  "description": "EDC Connector",
   "source": "@site/docs/submodule/Connector/README.md",
   "sourceDirName": "submodule/Connector",
   "slug": "/submodule/Connector/",

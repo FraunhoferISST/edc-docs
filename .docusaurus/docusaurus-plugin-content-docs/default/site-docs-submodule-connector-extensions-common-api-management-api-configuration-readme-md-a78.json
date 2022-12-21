@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/api/management-api-configuration/README",
+  "id": "submodule/Connector/extensions/common/api/management-api-configuration/README",
+  "title": "Management API Configuration",
+  "description": "This module provides central configuration for all Management APIs, i.e. the ManagementApiConfiguration, which",
+  "source": "@site/docs/submodule/Connector/extensions/common/api/management-api-configuration/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/api/management-api-configuration",
+  "slug": "/submodule/Connector/extensions/common/api/management-api-configuration/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/api/management-api-configuration/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/api/management-api-configuration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

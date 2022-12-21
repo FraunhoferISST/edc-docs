@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/README",
+  "title": "Release Management of Dataspace Components",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-11-28-release-management",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-11-28-release-management/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

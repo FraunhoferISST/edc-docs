@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/README",
+  "title": "EDC Http Client",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-12-05-edc-http-client/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/coding-principles",
+  "id": "submodule/Connector/docs/developer/architecture/coding-principles",
+  "title": "Coding Principles and Style Guide",
+  "description": "I. Fail-fast and Explicit Configuration",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/coding-principles.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture",
+  "slug": "/submodule/Connector/docs/developer/architecture/coding-principles",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/coding-principles",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/coding-principles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

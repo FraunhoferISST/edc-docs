@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/README",
+  "title": "Transaction Synchronization",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-12-07-transaction-synchronization/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

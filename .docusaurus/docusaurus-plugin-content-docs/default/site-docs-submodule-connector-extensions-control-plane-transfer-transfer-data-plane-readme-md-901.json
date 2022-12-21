@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/README",
+  "id": "submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/README",
+  "title": "Transfer Data Plane",
+  "description": "This extension provides services for delegating data transfer to the Data Plane. Especially two types of data transfers are supported:",
+  "source": "@site/docs/submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/README.md",
+  "sourceDirName": "submodule/Connector/extensions/control-plane/transfer/transfer-data-plane",
+  "slug": "/submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/control-plane/transfer/transfer-data-plane/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

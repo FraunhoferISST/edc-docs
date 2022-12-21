@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/version-catalogs",
+  "id": "submodule/Connector/docs/developer/version-catalogs",
+  "title": "The EDC version catalog",
+  "description": "EDC provides a Version Catalog which contains all the",
+  "source": "@site/docs/submodule/Connector/docs/developer/version-catalogs.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/version-catalogs",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/version-catalogs",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/version-catalogs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

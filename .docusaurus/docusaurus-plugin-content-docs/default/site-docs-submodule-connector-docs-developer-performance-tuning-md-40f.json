@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/performance-tuning",
+  "id": "submodule/Connector/docs/developer/performance-tuning",
+  "title": "Performance Tuning",
+  "description": "Out of the box the EDC provides a set of default configurations that aim to find a good balance for performances.",
+  "source": "@site/docs/submodule/Connector/docs/developer/performance-tuning.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/performance-tuning",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/performance-tuning",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/performance-tuning.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
