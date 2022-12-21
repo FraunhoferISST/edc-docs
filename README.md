@@ -3,10 +3,15 @@
 This repository contains the documentation framework for providing the documentation files of all EDC
 repositories as a [GitHub page](https://docs.github.com/en/pages).
 
+<<<<<<< HEAD
 
 The pages are deployed from the `/docs` sub-directory to <https://eclipse-edc.github.io/docs>.
 
 
+=======
+The pages are deployed from the `/docs` sub-directory to <https://eclipse-edc.github.io/docs>.
+
+>>>>>>> 951f7054f541e8608196b2175ca7a41ca68fe822
 ## Local Deployment
 
 If you want to add content or change configurations, please refer to the [official Docsify documentation](https://docsify.js.org/).
@@ -14,7 +19,11 @@ If you want to add content or change configurations, please refer to the [offici
 For a local deployment, install [Node.js](https://nodejs.org/), check out this repository, and run Docsify:
 ```commandline
 <<<<<<< HEAD
+<<<<<<< HEAD
 $ git clone https://github.com/eclipse-dataspaceconnector/docs.git
+=======
+$ git clone https://github.com/eclipse-edc/docs.git
+>>>>>>> 951f7054f541e8608196b2175ca7a41ca68fe822
 =======
 $ git clone https://github.com/eclipse-edc/docs.git
 >>>>>>> 951f7054f541e8608196b2175ca7a41ca68fe822

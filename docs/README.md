@@ -4,7 +4,10 @@
 
 ## Introduction
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 951f7054f541e8608196b2175ca7a41ca68fe822
 Data spaces allow organizations to securely share data with others. They enable data cooperation in a multi-cloud
 federation by focusing on identity, trust, sovereignty, and interoperability.
 
@@ -88,16 +91,20 @@ exchange and extensibility to various shared service implementations (catalog, i
 through interfaces. Thereby, the EDC can support IDS(A)-based components like the DAPS (Identity), or Metadata Broker
 (Catalog) as well as other approaches like WEB-DID (Identity) or Federated Catalog (Catalog). All with the same core
 to enable organizations to use a single technology to participate in multiple data spaces/ecosystems/federations in
-
 parallel.
 
 ## Correlating projects
 
 **Please note**: Not every project may be mentioned here. If you want to add one, please feel free to open a PR
+<<<<<<< HEAD
 
 or provide us with information via an [adoption request](https://github.com/eclipse-edc/DataSpaceConnector/issues/new?assignees=&labels=adoption&template=adoption_request.md&title=Adoption+Request).
 
 
+=======
+or provide us with information via an [adoption request](https://github.com/eclipse-edc/DataSpaceConnector/issues/new?assignees=&labels=adoption&template=adoption_request.md&title=Adoption+Request).
+
+>>>>>>> 951f7054f541e8608196b2175ca7a41ca68fe822
 | Name       | Description |
 | :--------- | :---------- |
 | Gaia-X     | The EDC allows organizations to exchange data compliant to rules and policies of the Gaia-X AISBL according to the corresponding Trust Framework |
