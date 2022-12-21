@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+  "id": "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+  "title": "SQL Identity Hub store",
+  "description": "Provides SQL persistence for Identity Hub.",
+  "source": "@site/docs/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+  "sourceDirName": "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql",
+  "slug": "/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+  "permalink": "/edc-docs/docs/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

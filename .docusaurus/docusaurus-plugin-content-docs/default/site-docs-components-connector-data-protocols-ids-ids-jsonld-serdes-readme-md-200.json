@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/data-protocols/ids/ids-jsonld-serdes/README",
+  "id": "Components/Connector/data-protocols/ids/ids-jsonld-serdes/README",
+  "title": "IDS JSON-LD Serializer & Deserializer Library",
+  "description": "This library provides implementations for (de-)serialization of IDS Infomodel objects. The Jsonld",
+  "source": "@site/docs/Components/Connector/data-protocols/ids/ids-jsonld-serdes/README.md",
+  "sourceDirName": "Components/Connector/data-protocols/ids/ids-jsonld-serdes",
+  "slug": "/Components/Connector/data-protocols/ids/ids-jsonld-serdes/",
+  "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-jsonld-serdes/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/data-protocols/ids/ids-jsonld-serdes/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IDS Core",
+    "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-core/"
+  },
+  "next": {
+    "title": "IDS SPI",
+    "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-spi/"
+  }
+}

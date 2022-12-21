@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Documents/Publications/Identity Management/DID_EDC",
+  "id": "Documents/Publications/Identity Management/DID_EDC",
+  "title": "Decentralized Identifiers and the Eclipse Dataspace Connector",
+  "description": "Purpose and Target Audience",
+  "source": "@site/docs/Documents/Publications/Identity Management/DID_EDC.md",
+  "sourceDirName": "Documents/Publications/Identity Management",
+  "slug": "/Documents/Publications/Identity Management/DID_EDC",
+  "permalink": "/edc-docs/docs/Documents/Publications/Identity Management/DID_EDC",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Publications/Identity Management/DID_EDC.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "1.\tIntroduction: Dataspaces: A Foundation for Enterprise Digital Sovereignty",
+    "permalink": "/edc-docs/docs/Documents/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces"
+  },
+  "next": {
+    "title": "A User Journey to Dataspaces",
+    "permalink": "/edc-docs/docs/Documents/Publications/White paper/A User Journey to Dataspaces"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/CHANGELOG",
+  "id": "submodule/RegistrationService/CHANGELOG",
+  "title": "Changelog",
+  "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules",
+  "source": "@site/docs/submodule/RegistrationService/CHANGELOG.md",
+  "sourceDirName": "submodule/RegistrationService",
+  "slug": "/submodule/RegistrationService/CHANGELOG",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/CHANGELOG",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

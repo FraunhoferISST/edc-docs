@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/system-tests/README",
+  "id": "submodule/MinimumViableDataspace/system-tests/README",
+  "title": "System tests",
+  "description": "The system tests verify the end-to-end deployment of MVD, including:",
+  "source": "@site/docs/submodule/MinimumViableDataspace/system-tests/README.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/system-tests",
+  "slug": "/submodule/MinimumViableDataspace/system-tests/",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/system-tests/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/system-tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

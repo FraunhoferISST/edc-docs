@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/auth/auth-basic/README",
+  "id": "Components/Connector/extensions/common/auth/auth-basic/README",
+  "title": "Basic authentication",
+  "description": "This extension provides a AuthenticationService implementation for basic authentication. This module will be active",
+  "source": "@site/docs/Components/Connector/extensions/common/auth/auth-basic/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/auth/auth-basic",
+  "slug": "/Components/Connector/extensions/common/auth/auth-basic/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/auth/auth-basic/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/auth/auth-basic/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Connector Observability API",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/api/api-observability/"
+  },
+  "next": {
+    "title": "Token Based Authentication Service",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/auth/auth-tokenbased/"
+  }
+}

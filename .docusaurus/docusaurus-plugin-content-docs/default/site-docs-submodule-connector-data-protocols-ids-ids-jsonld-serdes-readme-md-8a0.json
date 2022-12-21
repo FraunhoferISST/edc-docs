@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/data-protocols/ids/ids-jsonld-serdes/README",
+  "id": "submodule/Connector/data-protocols/ids/ids-jsonld-serdes/README",
+  "title": "IDS JSON-LD Serializer & Deserializer Library",
+  "description": "This library provides implementations for (de-)serialization of IDS Infomodel objects. The Jsonld",
+  "source": "@site/docs/submodule/Connector/data-protocols/ids/ids-jsonld-serdes/README.md",
+  "sourceDirName": "submodule/Connector/data-protocols/ids/ids-jsonld-serdes",
+  "slug": "/submodule/Connector/data-protocols/ids/ids-jsonld-serdes/",
+  "permalink": "/edc-docs/docs/submodule/Connector/data-protocols/ids/ids-jsonld-serdes/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/data-protocols/ids/ids-jsonld-serdes/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

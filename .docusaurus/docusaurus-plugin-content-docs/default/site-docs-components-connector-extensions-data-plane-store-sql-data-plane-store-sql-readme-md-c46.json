@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README",
+  "id": "Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README",
+  "title": "SQL Data Plane Store",
+  "description": "Provides SQL persistence for data flow transfer state.",
+  "source": "@site/docs/Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README.md",
+  "sourceDirName": "Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql",
+  "slug": "/Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Plane HTTP extension",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-http/"
+  },
+  "next": {
+    "title": "DataPlane Selector Client",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane-selector/data-plane-selector-client/"
+  }
+}

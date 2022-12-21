@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/docs/templates/README",
+  "id": "submodule/RegistrationService/docs/templates/README",
+  "title": "Templates",
+  "description": "Find all provided documentation templates in this folder. Please note that the _italic text",
+  "source": "@site/docs/submodule/RegistrationService/docs/templates/README.md",
+  "sourceDirName": "submodule/RegistrationService/docs/templates",
+  "slug": "/submodule/RegistrationService/docs/templates/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/docs/templates/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/docs/templates/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/IdentityHub/docs/developer/decision-records/README",
+  "id": "submodule/IdentityHub/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "- 2022-06-08 Identity Hub",
+  "source": "@site/docs/submodule/IdentityHub/docs/developer/decision-records/README.md",
+  "sourceDirName": "submodule/IdentityHub/docs/developer/decision-records",
+  "slug": "/submodule/IdentityHub/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/IdentityHub/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

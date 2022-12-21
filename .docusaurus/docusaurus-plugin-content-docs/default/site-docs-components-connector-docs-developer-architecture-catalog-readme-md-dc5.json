@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/architecture/catalog/README",
+  "id": "Components/Connector/docs/developer/architecture/catalog/README",
+  "title": "Cataloging",
+  "description": "Provide data offers",
+  "source": "@site/docs/Components/Connector/docs/developer/architecture/catalog/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/architecture/catalog",
+  "slug": "/Components/Connector/docs/developer/architecture/catalog/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/catalog/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/architecture/catalog/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture Key Principles",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/architecture-principles"
+  },
+  "next": {
+    "title": "Configuration",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/configuration/"
+  }
+}

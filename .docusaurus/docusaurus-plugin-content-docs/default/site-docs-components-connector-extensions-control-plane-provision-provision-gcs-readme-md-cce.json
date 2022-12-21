@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/provision/provision-gcs/README",
+  "id": "Components/Connector/extensions/control-plane/provision/provision-gcs/README",
+  "title": "Configure and run the EDC",
+  "description": "Authentication",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/provision/provision-gcs/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/provision/provision-gcs",
+  "slug": "/Components/Connector/extensions/control-plane/provision/provision-gcs/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/provision/provision-gcs/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/provision/provision-gcs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Plane Transfer Sync",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/data-plane-transfer/data-plane-transfer-sync/"
+  },
+  "next": {
+    "title": "OAuth2 Provision",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/provision/provision-oauth2/"
+  }
+}

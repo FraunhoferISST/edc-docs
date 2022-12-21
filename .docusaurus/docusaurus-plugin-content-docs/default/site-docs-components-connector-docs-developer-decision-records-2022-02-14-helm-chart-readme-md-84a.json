@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/README",
+  "title": "Helm chart",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-02-14-helm-chart/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CodeQL",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-11-codeql/"
+  },
+  "next": {
+    "title": "Serverless transfers in DPF",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-01-serverless-transfers/"
+  }
+}

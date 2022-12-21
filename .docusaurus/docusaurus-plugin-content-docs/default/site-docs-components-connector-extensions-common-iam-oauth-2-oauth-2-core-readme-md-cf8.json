@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/iam/oauth2/oauth2-core/README",
+  "id": "Components/Connector/extensions/common/iam/oauth2/oauth2-core/README",
+  "title": "OAuth 2 Identity Service",
+  "description": "This extension provides an IdentityService implementation based on the OAuth2 protocol for authorization.",
+  "source": "@site/docs/Components/Connector/extensions/common/iam/oauth2/oauth2-core/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/iam/oauth2/oauth2-core",
+  "slug": "/Components/Connector/extensions/common/iam/oauth2/oauth2-core/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/oauth2/oauth2-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/iam/oauth2/oauth2-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/"
+  },
+  "next": {
+    "title": "Dynamic Attribute Provisioning Service (DAPS)",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/oauth2/oauth2-daps/"
+  }
+}

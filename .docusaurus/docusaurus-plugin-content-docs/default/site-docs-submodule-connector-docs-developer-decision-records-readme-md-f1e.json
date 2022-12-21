@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/README",
+  "id": "submodule/Connector/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "- 2022-02-03 Integration Testing",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records",
+  "slug": "/submodule/Connector/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

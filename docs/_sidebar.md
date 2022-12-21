@@ -21,6 +21,9 @@ and https://github.com/docsifyjs/docsify/issues/1139)
   - <a href="#/submodule/MinimumViableDataspace/">Minimum Viable Dataspace</a>
   - <a href="#/submodule/RegistrationService/">Registration Service</a>
 
+  - <a href="#/submodule/TrustFrameworkAdoption/">Trust Framework Adoption</a>
+
+
 - Documents
   - <a href="#/submodule/Collateral/">Collateral</a>
   - <a href="#publications.md">Publications</a>

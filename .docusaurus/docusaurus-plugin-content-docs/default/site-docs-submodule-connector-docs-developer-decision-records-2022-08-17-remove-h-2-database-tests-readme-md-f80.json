@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/README",
+  "title": "Remove H2 as test database",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-08-17-remove_h2_database_tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

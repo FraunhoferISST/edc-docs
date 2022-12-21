@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README",
+  "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README",
+  "title": "README",
+  "description": "This module contains the business logic code for the autodoc feature, i.e. the actual annotation processor.",
+  "source": "@site/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README.md",
+  "sourceDirName": "submodule/GradlePlugins/plugins/autodoc/autodoc-processor",
+  "slug": "/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/",
+  "permalink": "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

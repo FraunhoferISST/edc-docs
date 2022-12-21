@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/docs/developer/openapi",
+  "id": "submodule/RegistrationService/docs/developer/openapi",
+  "title": "Generating the OpenApi Spec",
+  "description": "It is possible to generate an OpenApi spec in the form of a *.yaml file by invoking a Gradle",
+  "source": "@site/docs/submodule/RegistrationService/docs/developer/openapi.md",
+  "sourceDirName": "submodule/RegistrationService/docs/developer",
+  "slug": "/submodule/RegistrationService/docs/developer/openapi",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/docs/developer/openapi",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/docs/developer/openapi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

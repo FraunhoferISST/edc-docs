@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README",
+  "id": "Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README",
+  "title": "CosmosDB implementation of `ContractDefinitionStore`",
+  "description": "This extension provides a persistent implementation of a the ContractDefinitionStore using a CosmosDB container.",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos",
+  "slug": "/Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CosmosDB implementation of AssetIndex",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/"
+  },
+  "next": {
+    "title": "CosmosDB implementation of `ContractNegotiationStore`",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/contract-negotiation-store-cosmos/"
+  }
+}

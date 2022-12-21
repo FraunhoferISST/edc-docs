@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "parallel": ">=0.1.0"
+  }
+}

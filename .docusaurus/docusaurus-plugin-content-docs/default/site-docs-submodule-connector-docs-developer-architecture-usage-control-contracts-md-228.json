@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/usage-control/contracts",
+  "id": "submodule/Connector/docs/developer/architecture/usage-control/contracts",
+  "title": "Contracts",
+  "description": "Offering",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/usage-control/contracts.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture/usage-control",
+  "slug": "/submodule/Connector/docs/developer/architecture/usage-control/contracts",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/usage-control/contracts",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/usage-control/contracts.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

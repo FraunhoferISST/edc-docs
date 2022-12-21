@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Documents/Publications/White paper/user_journey_images/readme",
+  "id": "Documents/Publications/White paper/user_journey_images/readme",
+  "title": "readme",
+  "description": "",
+  "source": "@site/docs/Documents/Publications/White paper/user_journey_images/readme.md",
+  "sourceDirName": "Documents/Publications/White paper/user_journey_images",
+  "slug": "/Documents/Publications/White paper/user_journey_images/",
+  "permalink": "/edc-docs/docs/Documents/Publications/White paper/user_journey_images/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Publications/White paper/user_journey_images/readme.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "A User Journey to Dataspaces",
+    "permalink": "/edc-docs/docs/Documents/Publications/White paper/A User Journey to Dataspaces"
+  },
+  "next": {
+    "title": "EDC Data Dashboard",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/"
+  }
+}

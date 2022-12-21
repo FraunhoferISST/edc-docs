@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/IdentityHub/client-cli/README",
+  "id": "submodule/IdentityHub/client-cli/README",
+  "title": "Command-line client",
+  "description": "The client is a Java JAR that provides access to an identity hub service via REST.",
+  "source": "@site/docs/submodule/IdentityHub/client-cli/README.md",
+  "sourceDirName": "submodule/IdentityHub/client-cli",
+  "slug": "/submodule/IdentityHub/client-cli/",
+  "permalink": "/edc-docs/docs/submodule/IdentityHub/client-cli/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/IdentityHub/client-cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README",
+  "title": "Automated Documentation Tooling",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

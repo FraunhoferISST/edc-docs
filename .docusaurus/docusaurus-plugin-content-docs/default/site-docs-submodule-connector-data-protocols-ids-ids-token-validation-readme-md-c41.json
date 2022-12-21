@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/data-protocols/ids/ids-token-validation/README",
+  "id": "submodule/Connector/data-protocols/ids/ids-token-validation/README",
+  "title": "IDS Token Validation",
+  "description": "Extends the default OAuth2 token validation with more specific IDS token validation rules.",
+  "source": "@site/docs/submodule/Connector/data-protocols/ids/ids-token-validation/README.md",
+  "sourceDirName": "submodule/Connector/data-protocols/ids/ids-token-validation",
+  "slug": "/submodule/Connector/data-protocols/ids/ids-token-validation/",
+  "permalink": "/edc-docs/docs/submodule/Connector/data-protocols/ids/ids-token-validation/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/data-protocols/ids/ids-token-validation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

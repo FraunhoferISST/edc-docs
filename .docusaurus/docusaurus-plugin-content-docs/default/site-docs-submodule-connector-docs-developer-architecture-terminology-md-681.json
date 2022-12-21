@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/terminology",
+  "id": "submodule/Connector/docs/developer/architecture/terminology",
+  "title": "Terminology",
+  "description": "| Name                                   | Description                                         |",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/terminology.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture",
+  "slug": "/submodule/Connector/docs/developer/architecture/terminology",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/terminology",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/terminology.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

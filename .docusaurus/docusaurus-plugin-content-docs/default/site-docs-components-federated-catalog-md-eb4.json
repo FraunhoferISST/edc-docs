@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Components/Federated Catalog",
+  "id": "Components/Federated Catalog",
+  "title": "Federated Catalog Cache",
+  "description": "This repository contains an implementation for a Federated Catalog intended for use in the EDC project.",
+  "source": "@site/docs/Components/Federated Catalog.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/Federated Catalog",
+  "permalink": "/edc-docs/docs/Components/Federated Catalog",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Federated Catalog.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EDC Data Dashboard",
+    "permalink": "/edc-docs/docs/Components/Data Deshboard"
+  },
+  "next": {
+    "title": "Gradle Plugins for EDC",
+    "permalink": "/edc-docs/docs/Components/Gradle Plugin"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/data-transfer/README",
+  "id": "submodule/Connector/docs/developer/architecture/data-transfer/README",
+  "title": "Data Flows Supported by the EDC",
+  "description": "|   |PushProvider initiates the data flow|PullConsumer initiates the data flow|",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/data-transfer/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture/data-transfer",
+  "slug": "/submodule/Connector/docs/developer/architecture/data-transfer/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/data-transfer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/data-transfer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

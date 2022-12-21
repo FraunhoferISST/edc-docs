@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/data-plane-aws-s3/README",
+  "id": "submodule/Connector/extensions/data-plane/data-plane-aws-s3/README",
+  "title": "README",
+  "description": "Aws S3 Data Plane module",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/data-plane-aws-s3/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/data-plane-aws-s3",
+  "slug": "/submodule/Connector/extensions/data-plane/data-plane-aws-s3/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/data-plane-aws-s3/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/data-plane-aws-s3/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

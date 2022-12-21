@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/DataDashboard/SUPPORT",
+  "id": "submodule/DataDashboard/SUPPORT",
+  "title": "TODO: The maintainer of this repo has not yet edited this file",
+  "description": "REPO OWNER: Do you want Customer Service & Support (CSS) support for this product/project?",
+  "source": "@site/docs/submodule/DataDashboard/SUPPORT.md",
+  "sourceDirName": "submodule/DataDashboard",
+  "slug": "/submodule/DataDashboard/SUPPORT",
+  "permalink": "/edc-docs/docs/submodule/DataDashboard/SUPPORT",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/DataDashboard/SUPPORT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

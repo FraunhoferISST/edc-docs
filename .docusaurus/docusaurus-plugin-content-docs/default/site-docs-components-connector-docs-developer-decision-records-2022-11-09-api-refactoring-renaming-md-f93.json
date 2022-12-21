@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming",
+  "id": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming",
+  "title": "Decision",
+  "description": "We need to make our API context more clear and well-defined.",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation"
+  },
+  "next": {
+    "title": "The EDC version catalog",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/version-catalogs"
+  }
+}

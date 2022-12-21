@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Getting Started/create-a-page",
+  "id": "Getting Started/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/Getting Started/create-a-page.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/create-a-page",
+  "permalink": "/edc-docs/docs/Getting Started/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/edc-docs/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/edc-docs/docs/Getting Started/create-a-document"
+  }
+}

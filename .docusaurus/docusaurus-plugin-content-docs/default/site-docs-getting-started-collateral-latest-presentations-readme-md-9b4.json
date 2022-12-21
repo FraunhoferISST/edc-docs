@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/Collateral/Latest Presentations/README",
+  "id": "Getting Started/Collateral/Latest Presentations/README",
+  "title": "Latest Presentations",
+  "description": "- 2022-04-26 Eclipse Dataspace Connector - Overview Deck",
+  "source": "@site/docs/Getting Started/Collateral/Latest Presentations/README.md",
+  "sourceDirName": "Getting Started/Collateral/Latest Presentations",
+  "slug": "/Getting Started/Collateral/Latest Presentations/",
+  "permalink": "/edc-docs/docs/Getting Started/Collateral/Latest Presentations/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/Collateral/Latest Presentations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Workshops",
+    "permalink": "/edc-docs/docs/Getting Started/Collateral/Events/Workshops/"
+  },
+  "next": {
+    "title": "Working Groups",
+    "permalink": "/edc-docs/docs/Getting Started/Collateral/Work Content/"
+  }
+}

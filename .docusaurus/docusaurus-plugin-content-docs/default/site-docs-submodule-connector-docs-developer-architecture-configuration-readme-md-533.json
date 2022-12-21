@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/configuration/README",
+  "id": "submodule/Connector/docs/developer/architecture/configuration/README",
+  "title": "Configuration",
+  "description": "It is possible to configure the Eclipse Dataspace Connector. All configuration are retrieved by their key from an",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/configuration/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture/configuration",
+  "slug": "/submodule/Connector/docs/developer/architecture/configuration/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/configuration/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/configuration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

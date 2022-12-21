@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/README",
+  "id": "Components/MinimumViableDataspace/README",
+  "title": "Minimum Viable Dataspace",
+  "description": "The Minimum Viable Dataspace (MVD) is a sample implementation of a dataspace that leverages the Eclipse Dataspace Connector (EDC). The main purpose is to demonstrate the capabilities of the EDC, make dataspace concepts tangible based on a specific implementation, and to serve as a starting point to implement a custom dataspace.",
+  "source": "@site/docs/Components/MinimumViableDataspace/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace",
+  "slug": "/Components/MinimumViableDataspace/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/CHANGELOG"
+  }
+}

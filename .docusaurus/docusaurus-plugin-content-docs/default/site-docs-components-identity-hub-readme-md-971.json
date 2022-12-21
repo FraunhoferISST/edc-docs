@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/IdentityHub/README",
+  "id": "Components/IdentityHub/README",
+  "title": "Identity Hub",
+  "description": "Temporary repository to get started with the Identity Hub for the MVD.",
+  "source": "@site/docs/Components/IdentityHub/README.md",
+  "sourceDirName": "Components/IdentityHub",
+  "slug": "/Components/IdentityHub/",
+  "permalink": "/edc-docs/docs/Components/IdentityHub/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/Components/Registration Service"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/CHANGELOG"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation",
+  "id": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation",
+  "title": "Decision",
+  "description": "We will move away from one comprehensive openapi.yaml file and move towards creating separate OpenAPI specifications",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/"
+  },
+  "next": {
+    "title": "Decision",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming"
+  }
+}

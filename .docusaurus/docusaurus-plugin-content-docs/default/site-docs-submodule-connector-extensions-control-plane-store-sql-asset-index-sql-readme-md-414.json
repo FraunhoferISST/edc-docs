@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/README",
+  "id": "submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/README",
+  "title": "SQL Asset",
+  "description": "Provides SQL persistence for assets.",
+  "source": "@site/docs/submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/README.md",
+  "sourceDirName": "submodule/Connector/extensions/control-plane/store/sql/asset-index-sql",
+  "slug": "/submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/control-plane/store/sql/asset-index-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

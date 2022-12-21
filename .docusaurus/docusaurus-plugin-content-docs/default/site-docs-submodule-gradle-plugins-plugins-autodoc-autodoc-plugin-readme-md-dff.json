@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+  "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+  "title": "README",
+  "description": "This module contains a gradle plugin the uses",
+  "source": "@site/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README.md",
+  "sourceDirName": "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin",
+  "slug": "/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/",
+  "permalink": "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

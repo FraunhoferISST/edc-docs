@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README",
+  "id": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README",
+  "title": "Decentralized Identity",
+  "description": "Decentralized identifiers (DIDs) enable verifiable, decentralized digital identity. DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities.",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/"
+  },
+  "next": {
+    "title": "Federated Catalog",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/"
+  }
+}

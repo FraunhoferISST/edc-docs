@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/http/jetty-core/README",
+  "id": "Components/Connector/extensions/common/http/jetty-core/README",
+  "title": "Jetty",
+  "description": "This extension provides a JettyService, a Servlet Context Container that can expose REST API on a Jersey based",
+  "source": "@site/docs/Components/Connector/extensions/common/http/jetty-core/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/http/jetty-core",
+  "slug": "/Components/Connector/extensions/common/http/jetty-core/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jetty-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/http/jetty-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jersey Micrometer extension",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jersey-micrometer/"
+  },
+  "next": {
+    "title": "Jetty Micrometer extension",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jetty-micrometer/"
+  }
+}

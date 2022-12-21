@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README",
+  "title": "Add creation and update timestamp",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

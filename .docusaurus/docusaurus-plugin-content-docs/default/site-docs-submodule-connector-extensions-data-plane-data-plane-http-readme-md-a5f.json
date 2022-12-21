@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/data-plane-http/README",
+  "id": "submodule/Connector/extensions/data-plane/data-plane-http/README",
+  "title": "Data Plane HTTP extension",
+  "description": "Background",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/data-plane-http/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/data-plane-http",
+  "slug": "/submodule/Connector/extensions/data-plane/data-plane-http/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/data-plane-http/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/data-plane-http/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

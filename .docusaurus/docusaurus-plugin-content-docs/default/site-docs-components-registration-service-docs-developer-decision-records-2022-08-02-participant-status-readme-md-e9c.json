@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README",
+  "id": "Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README",
+  "title": "Participant Status Codes",
+  "description": "Decision",
+  "source": "@site/docs/Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status",
+  "slug": "/Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Service authentication",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/"
+  },
+  "next": {
+    "title": "Membership Verifiable Credential",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/"
+  }
+}

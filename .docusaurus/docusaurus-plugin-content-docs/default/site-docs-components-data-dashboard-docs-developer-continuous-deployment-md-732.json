@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/docs/developer/continuous_deployment",
+  "id": "Components/DataDashboard/docs/developer/continuous_deployment",
+  "title": "continuous_deployment",
+  "description": "Continuous Deployment",
+  "source": "@site/docs/Components/DataDashboard/docs/developer/continuous_deployment.md",
+  "sourceDirName": "Components/DataDashboard/docs/developer",
+  "slug": "/Components/DataDashboard/docs/developer/continuous_deployment",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/docs/developer/continuous_deployment",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/docs/developer/continuous_deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TODO: The maintainer of this repo has not yet edited this file",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/SUPPORT"
+  },
+  "next": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/developer/decision-records/"
+  }
+}

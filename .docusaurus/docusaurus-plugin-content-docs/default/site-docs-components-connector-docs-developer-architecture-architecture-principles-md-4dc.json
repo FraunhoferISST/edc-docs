@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/architecture/architecture-principles",
+  "id": "Components/Connector/docs/developer/architecture/architecture-principles",
+  "title": "Architecture Key Principles",
+  "description": "I. Fail-fast and Explicit Configuration",
+  "source": "@site/docs/Components/Connector/docs/developer/architecture/architecture-principles.md",
+  "sourceDirName": "Components/Connector/docs/developer/architecture",
+  "slug": "/Components/Connector/docs/developer/architecture/architecture-principles",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/architecture-principles",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/architecture/architecture-principles.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Architecture",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/"
+  },
+  "next": {
+    "title": "Cataloging",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/catalog/"
+  }
+}

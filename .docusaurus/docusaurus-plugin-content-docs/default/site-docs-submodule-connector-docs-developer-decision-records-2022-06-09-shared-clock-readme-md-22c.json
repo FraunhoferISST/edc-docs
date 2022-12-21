@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README",
+  "title": "Shared clock",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

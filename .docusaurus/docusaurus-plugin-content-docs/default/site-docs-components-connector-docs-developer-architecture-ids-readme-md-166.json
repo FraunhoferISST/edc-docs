@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/architecture/ids/README",
+  "id": "Components/Connector/docs/developer/architecture/ids/README",
+  "title": "IDS Standard",
+  "description": "See implementation details here.",
+  "source": "@site/docs/Components/Connector/docs/developer/architecture/ids/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/architecture/ids",
+  "slug": "/Components/Connector/docs/developer/architecture/ids/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/ids/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/architecture/ids/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identity Management",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/identity-management/"
+  },
+  "next": {
+    "title": "Terminology",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/terminology"
+  }
+}

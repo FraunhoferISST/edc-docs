@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/GradlePlugins/docs/developer/autodoc",
+  "id": "submodule/GradlePlugins/docs/developer/autodoc",
+  "title": "The `autodoc` Gradle Plugin",
+  "description": "Introduction",
+  "source": "@site/docs/submodule/GradlePlugins/docs/developer/autodoc.md",
+  "sourceDirName": "submodule/GradlePlugins/docs/developer",
+  "slug": "/submodule/GradlePlugins/docs/developer/autodoc",
+  "permalink": "/edc-docs/docs/submodule/GradlePlugins/docs/developer/autodoc",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/GradlePlugins/docs/developer/autodoc.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

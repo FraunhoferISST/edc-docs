@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/extensions/store/sql/participant-store-sql/README",
+  "id": "Components/RegistrationService/extensions/store/sql/participant-store-sql/README",
+  "title": "SQL Participant store",
+  "description": "Provides SQL persistence for participants",
+  "source": "@site/docs/Components/RegistrationService/extensions/store/sql/participant-store-sql/README.md",
+  "sourceDirName": "Components/RegistrationService/extensions/store/sql/participant-store-sql",
+  "slug": "/Components/RegistrationService/extensions/store/sql/participant-store-sql/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/extensions/store/sql/participant-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/extensions/store/sql/participant-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/templates/decision-record"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/system-tests/"
+  }
+}

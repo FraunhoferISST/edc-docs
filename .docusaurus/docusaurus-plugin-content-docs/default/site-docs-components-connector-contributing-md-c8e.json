@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/CONTRIBUTING",
+  "id": "Components/Connector/CONTRIBUTING",
+  "title": "Contributing to the Project",
+  "description": "Thank you for your interest in contributing to",
+  "source": "@site/docs/Components/Connector/CONTRIBUTING.md",
+  "sourceDirName": "Components/Connector",
+  "slug": "/Components/Connector/CONTRIBUTING",
+  "permalink": "/edc-docs/docs/Components/Connector/CONTRIBUTING",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/"
+  },
+  "next": {
+    "title": "Notices for Eclipse Dataspace Connector",
+    "permalink": "/edc-docs/docs/Components/Connector/NOTICE"
+  }
+}

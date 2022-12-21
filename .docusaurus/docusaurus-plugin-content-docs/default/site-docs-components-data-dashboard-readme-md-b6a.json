@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/README",
+  "id": "Components/DataDashboard/README",
+  "title": "EDC Data Dashboard",
+  "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+  "source": "@site/docs/Components/DataDashboard/README.md",
+  "sourceDirName": "Components/DataDashboard",
+  "slug": "/Components/DataDashboard/",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Publications",
+    "permalink": "/edc-docs/docs/Documents/publications"
+  },
+  "next": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/CHANGELOG"
+  }
+}

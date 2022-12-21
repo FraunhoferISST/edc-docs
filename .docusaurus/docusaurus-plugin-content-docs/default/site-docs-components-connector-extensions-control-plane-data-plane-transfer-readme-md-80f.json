@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/data-plane-transfer/README",
+  "id": "Components/Connector/extensions/control-plane/data-plane-transfer/README",
+  "title": "Data Plane Transfer",
+  "description": "This module provides extensions for performing data transfer through the Data Plane. Each extension is designed to",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/data-plane-transfer/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/data-plane-transfer",
+  "slug": "/Components/Connector/extensions/control-plane/data-plane-transfer/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/data-plane-transfer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/data-plane-transfer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Management API Configuration",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/api/management-api/management-api-configuration/"
+  },
+  "next": {
+    "title": "Data Plane Transfer Client",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/data-plane-transfer/data-plane-transfer-client/"
+  }
+}

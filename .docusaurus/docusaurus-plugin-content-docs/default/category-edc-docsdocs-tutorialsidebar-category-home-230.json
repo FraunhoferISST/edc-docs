@@ -1,0 +1,16 @@
+{
+  "title": "home",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/home",
+  "permalink": "/edc-docs/docs/category/home",
+  "navigation": {
+    "previous": {
+      "title": "Tutorial Intro",
+      "permalink": "/edc-docs/docs/intro"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/edc-docs/docs/Getting Started/create-a-page"
+    }
+  }
+}

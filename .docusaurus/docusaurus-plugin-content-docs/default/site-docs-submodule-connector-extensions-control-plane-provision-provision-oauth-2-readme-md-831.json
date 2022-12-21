@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/control-plane/provision/provision-oauth2/README",
+  "id": "submodule/Connector/extensions/control-plane/provision/provision-oauth2/README",
+  "title": "OAuth2 Provision",
+  "description": "This extension can be used when there's a data endpoint that requires OAuth2 authentication through the",
+  "source": "@site/docs/submodule/Connector/extensions/control-plane/provision/provision-oauth2/README.md",
+  "sourceDirName": "submodule/Connector/extensions/control-plane/provision/provision-oauth2",
+  "slug": "/submodule/Connector/extensions/control-plane/provision/provision-oauth2/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/control-plane/provision/provision-oauth2/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/control-plane/provision/provision-oauth2/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

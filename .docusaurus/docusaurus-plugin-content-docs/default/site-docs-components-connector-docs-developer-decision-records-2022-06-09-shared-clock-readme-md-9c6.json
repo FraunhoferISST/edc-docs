@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README",
+  "title": "Shared clock",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-06-09-shared-clock/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Event framework",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-06-03-event-framework/"
+  },
+  "next": {
+    "title": "JSON Web Tokens for Decentralized Identity",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-06-19-json-web-token/"
+  }
+}

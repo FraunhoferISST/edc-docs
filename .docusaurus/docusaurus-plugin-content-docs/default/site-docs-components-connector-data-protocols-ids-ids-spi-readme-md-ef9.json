@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/data-protocols/ids/ids-spi/README",
+  "id": "Components/Connector/data-protocols/ids/ids-spi/README",
+  "title": "IDS SPI",
+  "description": "IDS Asset Property",
+  "source": "@site/docs/Components/Connector/data-protocols/ids/ids-spi/README.md",
+  "sourceDirName": "Components/Connector/data-protocols/ids/ids-spi",
+  "slug": "/Components/Connector/data-protocols/ids/ids-spi/",
+  "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-spi/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/data-protocols/ids/ids-spi/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IDS JSON-LD Serializer & Deserializer Library",
+    "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-jsonld-serdes/"
+  },
+  "next": {
+    "title": "IDS Token Validation",
+    "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-token-validation/"
+  }
+}

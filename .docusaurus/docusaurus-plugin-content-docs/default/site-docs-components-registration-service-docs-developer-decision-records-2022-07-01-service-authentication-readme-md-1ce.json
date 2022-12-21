@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+  "id": "Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+  "title": "Service authentication",
+  "description": "Decision",
+  "source": "@site/docs/Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication",
+  "slug": "/Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "HTTP Ports",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/"
+  },
+  "next": {
+    "title": "Participant Status Codes",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/"
+  }
+}

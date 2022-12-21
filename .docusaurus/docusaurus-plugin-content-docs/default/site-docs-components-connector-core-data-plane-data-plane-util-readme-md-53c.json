@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/core/data-plane/data-plane-util/README",
+  "id": "Components/Connector/core/data-plane/data-plane-util/README",
+  "title": "Data Plane Util",
+  "description": "Utility module for the data-plane",
+  "source": "@site/docs/Components/Connector/core/data-plane/data-plane-util/README.md",
+  "sourceDirName": "Components/Connector/core/data-plane/data-plane-util",
+  "slug": "/Components/Connector/core/data-plane/data-plane-util/",
+  "permalink": "/edc-docs/docs/Components/Connector/core/data-plane/data-plane-util/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/core/data-plane/data-plane-util/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Plane Framework Extension",
+    "permalink": "/edc-docs/docs/Components/Connector/core/data-plane/data-plane-framework/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/core/federated-catalog/docs/"
+  }
+}

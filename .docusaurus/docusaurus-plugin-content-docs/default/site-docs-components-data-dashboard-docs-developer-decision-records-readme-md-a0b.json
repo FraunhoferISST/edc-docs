@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/docs/developer/decision-records/README",
+  "id": "Components/DataDashboard/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "",
+  "source": "@site/docs/Components/DataDashboard/docs/developer/decision-records/README.md",
+  "sourceDirName": "Components/DataDashboard/docs/developer/decision-records",
+  "slug": "/Components/DataDashboard/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "continuous_deployment",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/developer/continuous_deployment"
+  },
+  "next": {
+    "title": "Templates",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/templates/"
+  }
+}

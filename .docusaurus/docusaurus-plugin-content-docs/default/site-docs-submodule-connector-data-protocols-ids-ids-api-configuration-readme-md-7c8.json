@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/data-protocols/ids/ids-api-configuration/README",
+  "id": "submodule/Connector/data-protocols/ids/ids-api-configuration/README",
+  "title": "IDS API Configuration",
+  "description": "This module provides a custom Jetty context for endpoints of the IDS API, thus allowing for custom",
+  "source": "@site/docs/submodule/Connector/data-protocols/ids/ids-api-configuration/README.md",
+  "sourceDirName": "submodule/Connector/data-protocols/ids/ids-api-configuration",
+  "slug": "/submodule/Connector/data-protocols/ids/ids-api-configuration/",
+  "permalink": "/edc-docs/docs/submodule/Connector/data-protocols/ids/ids-api-configuration/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/data-protocols/ids/ids-api-configuration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

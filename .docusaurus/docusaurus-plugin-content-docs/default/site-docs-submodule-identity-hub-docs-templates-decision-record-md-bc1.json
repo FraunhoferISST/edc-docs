@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/IdentityHub/docs/templates/decision-record",
+  "id": "submodule/IdentityHub/docs/templates/decision-record",
+  "title": "Title of the Decision Record",
+  "description": "Decision",
+  "source": "@site/docs/submodule/IdentityHub/docs/templates/decision-record.md",
+  "sourceDirName": "submodule/IdentityHub/docs/templates",
+  "slug": "/submodule/IdentityHub/docs/templates/decision-record",
+  "permalink": "/edc-docs/docs/submodule/IdentityHub/docs/templates/decision-record",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/IdentityHub/docs/templates/decision-record.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

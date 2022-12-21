@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/samples/04.0-file-transfer/README",
+  "id": "submodule/Connector/samples/04.0-file-transfer/README",
+  "title": "Perform a contract negotiation",
+  "description": "After successfully providing custom configuration properties to the EDC, we will perform a data transfer next: transmit",
+  "source": "@site/docs/submodule/Connector/samples/04.0-file-transfer/README.md",
+  "sourceDirName": "submodule/Connector/samples/04.0-file-transfer",
+  "slug": "/submodule/Connector/samples/04.0-file-transfer/",
+  "permalink": "/edc-docs/docs/submodule/Connector/samples/04.0-file-transfer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/samples/04.0-file-transfer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

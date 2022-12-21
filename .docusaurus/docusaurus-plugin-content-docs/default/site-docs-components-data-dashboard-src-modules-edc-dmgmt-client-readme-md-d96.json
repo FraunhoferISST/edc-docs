@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/src/modules/edc-dmgmt-client/README",
+  "id": "Components/DataDashboard/src/modules/edc-dmgmt-client/README",
+  "title": "README",
+  "description": "@",
+  "source": "@site/docs/Components/DataDashboard/src/modules/edc-dmgmt-client/README.md",
+  "sourceDirName": "Components/DataDashboard/src/modules/edc-dmgmt-client",
+  "slug": "/Components/DataDashboard/src/modules/edc-dmgmt-client/",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/src/modules/edc-dmgmt-client/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/src/modules/edc-dmgmt-client/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/templates/decision-record"
+  },
+  "next": {
+    "title": "Federated Catalog Cache",
+    "permalink": "/edc-docs/docs/Components/FederatedCatalog/"
+  }
+}

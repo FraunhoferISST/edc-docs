@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/FederatedCatalog/docs/templates/README",
+  "id": "submodule/FederatedCatalog/docs/templates/README",
+  "title": "Templates",
+  "description": "Find all provided documentation templates in this folder. Please note that the _italic text",
+  "source": "@site/docs/submodule/FederatedCatalog/docs/templates/README.md",
+  "sourceDirName": "submodule/FederatedCatalog/docs/templates",
+  "slug": "/submodule/FederatedCatalog/docs/templates/",
+  "permalink": "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/FederatedCatalog/docs/templates/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

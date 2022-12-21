@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/identity-management/README",
+  "id": "submodule/Connector/docs/developer/architecture/identity-management/README",
+  "title": "Identity Management",
+  "description": "Distributed identity",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/identity-management/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture/identity-management",
+  "slug": "/submodule/Connector/docs/developer/architecture/identity-management/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/identity-management/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/identity-management/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

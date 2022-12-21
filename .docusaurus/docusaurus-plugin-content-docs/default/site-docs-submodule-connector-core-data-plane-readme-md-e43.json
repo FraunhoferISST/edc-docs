@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/core/data-plane/README",
+  "id": "submodule/Connector/core/data-plane/README",
+  "title": "Data plane module",
+  "description": "Overview",
+  "source": "@site/docs/submodule/Connector/core/data-plane/README.md",
+  "sourceDirName": "submodule/Connector/core/data-plane",
+  "slug": "/submodule/Connector/core/data-plane/",
+  "permalink": "/edc-docs/docs/submodule/Connector/core/data-plane/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/core/data-plane/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

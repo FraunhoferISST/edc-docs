@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/README",
+  "id": "submodule/Connector/README",
+  "title": "README",
+  "description": "Eclipse Dataspace Connector",
+  "source": "@site/docs/submodule/Connector/README.md",
+  "sourceDirName": "submodule/Connector",
+  "slug": "/submodule/Connector/",
+  "permalink": "/edc-docs/docs/submodule/Connector/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

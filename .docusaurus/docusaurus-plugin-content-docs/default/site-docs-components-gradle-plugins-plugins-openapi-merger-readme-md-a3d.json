@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/plugins/openapi-merger/README",
+  "id": "Components/GradlePlugins/plugins/openapi-merger/README",
+  "title": "README",
+  "description": "This module contains a gradle plugin that allows to merge partial OpenAPI spec files into one file.",
+  "source": "@site/docs/Components/GradlePlugins/plugins/openapi-merger/README.md",
+  "sourceDirName": "Components/GradlePlugins/plugins/openapi-merger",
+  "slug": "/Components/GradlePlugins/plugins/openapi-merger/",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/openapi-merger/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/plugins/openapi-merger/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/module-names/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/test-summary/"
+  }
+}

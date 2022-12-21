@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/FederatedCatalog/spi/federated-catalog-spi/README",
+  "id": "submodule/FederatedCatalog/spi/federated-catalog-spi/README",
+  "title": "README",
+  "description": "This module contains extension points and interfaces specifically for the Federated Catalog feature.",
+  "source": "@site/docs/submodule/FederatedCatalog/spi/federated-catalog-spi/README.md",
+  "sourceDirName": "submodule/FederatedCatalog/spi/federated-catalog-spi",
+  "slug": "/submodule/FederatedCatalog/spi/federated-catalog-spi/",
+  "permalink": "/edc-docs/docs/submodule/FederatedCatalog/spi/federated-catalog-spi/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/FederatedCatalog/spi/federated-catalog-spi/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

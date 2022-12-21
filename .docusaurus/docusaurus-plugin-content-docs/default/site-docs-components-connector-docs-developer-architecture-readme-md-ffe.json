@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/architecture/README",
+  "id": "Components/Connector/docs/developer/architecture/README",
+  "title": "Architecture",
+  "description": "- Domain Model",
+  "source": "@site/docs/Components/Connector/docs/developer/architecture/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/architecture",
+  "slug": "/Components/Connector/docs/developer/architecture/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/architecture/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer Documentation",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/"
+  },
+  "next": {
+    "title": "Architecture Key Principles",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/architecture-principles"
+  }
+}

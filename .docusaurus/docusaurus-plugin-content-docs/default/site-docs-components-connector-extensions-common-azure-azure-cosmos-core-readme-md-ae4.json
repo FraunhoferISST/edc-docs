@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/azure/azure-cosmos-core/README",
+  "id": "Components/Connector/extensions/common/azure/azure-cosmos-core/README",
+  "title": "Storage implementations based on CosmosDB",
+  "description": "CosmosDB is a NoSQL database (formerly known as DocumentDB) that offers geo-replication, geo-distribution, several",
+  "source": "@site/docs/Components/Connector/extensions/common/azure/azure-cosmos-core/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/azure/azure-cosmos-core",
+  "slug": "/Components/Connector/extensions/common/azure/azure-cosmos-core/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-cosmos-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/azure/azure-cosmos-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "AWS Test",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/aws/aws-s3-test/"
+  },
+  "next": {
+    "title": "Azure Resource Manager module",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-resource-manager/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/launchers/README",
+  "id": "Components/Connector/launchers/README",
+  "title": "Launchers",
+  "description": "- Data Plane Server",
+  "source": "@site/docs/Components/Connector/launchers/README.md",
+  "sourceDirName": "Components/Connector/launchers",
+  "slug": "/Components/Connector/launchers/",
+  "permalink": "/edc-docs/docs/Components/Connector/launchers/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/launchers/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Known Friends of EDC",
+    "permalink": "/edc-docs/docs/Components/Connector/known_friends"
+  },
+  "next": {
+    "title": "Generic Connector Launcher",
+    "permalink": "/edc-docs/docs/Components/Connector/launchers/generic/"
+  }
+}

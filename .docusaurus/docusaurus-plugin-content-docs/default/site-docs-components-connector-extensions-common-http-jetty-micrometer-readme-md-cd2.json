@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/http/jetty-micrometer/README",
+  "id": "Components/Connector/extensions/common/http/jetty-micrometer/README",
+  "title": "Jetty Micrometer extension",
+  "description": "See developer documentation",
+  "source": "@site/docs/Components/Connector/extensions/common/http/jetty-micrometer/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/http/jetty-micrometer",
+  "slug": "/Components/Connector/extensions/common/http/jetty-micrometer/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jetty-micrometer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/http/jetty-micrometer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Jetty",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jetty-core/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/decentralized-identity/"
+  }
+}

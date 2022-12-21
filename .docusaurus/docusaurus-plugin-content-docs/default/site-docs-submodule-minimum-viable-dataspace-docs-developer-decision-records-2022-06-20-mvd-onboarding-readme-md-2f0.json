@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
+  "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
+  "title": "Participants onboarding in MVD",
+  "description": "This document outlines the infrastructure steps for the scenario of onboarding participants to the Minimum Viable Dataspace (MVD).",
+  "source": "@site/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding",
+  "slug": "/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/aws/aws-s3-core/README",
+  "id": "submodule/Connector/extensions/common/aws/aws-s3-core/README",
+  "title": "S3 Core",
+  "description": "This extension registers an AWS credentials provider that can be used by all the S3 related extensions.",
+  "source": "@site/docs/submodule/Connector/extensions/common/aws/aws-s3-core/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/aws/aws-s3-core",
+  "slug": "/submodule/Connector/extensions/common/aws/aws-s3-core/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/aws/aws-s3-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/aws/aws-s3-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/plugins/module-names/README",
+  "id": "Components/GradlePlugins/plugins/module-names/README",
+  "title": "README",
+  "description": "This module contains a gradle plugin that verifies that there are no two modules with the same name in a multi-module",
+  "source": "@site/docs/Components/GradlePlugins/plugins/module-names/README.md",
+  "sourceDirName": "Components/GradlePlugins/plugins/module-names",
+  "slug": "/Components/GradlePlugins/plugins/module-names/",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/module-names/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/plugins/module-names/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/edc-build/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/openapi-merger/"
+  }
+}

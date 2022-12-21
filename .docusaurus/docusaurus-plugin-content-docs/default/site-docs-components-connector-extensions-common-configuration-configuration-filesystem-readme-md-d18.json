@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/configuration/configuration-filesystem/README",
+  "id": "Components/Connector/extensions/common/configuration/configuration-filesystem/README",
+  "title": "File System Configuration",
+  "description": "",
+  "source": "@site/docs/Components/Connector/extensions/common/configuration/configuration-filesystem/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/configuration/configuration-filesystem",
+  "slug": "/Components/Connector/extensions/common/configuration/configuration-filesystem/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/configuration/configuration-filesystem/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/configuration/configuration-filesystem/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Azure Test",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-test/"
+  },
+  "next": {
+    "title": "CloudEvents HTTP",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/events/events-cloud-http/"
+  }
+}

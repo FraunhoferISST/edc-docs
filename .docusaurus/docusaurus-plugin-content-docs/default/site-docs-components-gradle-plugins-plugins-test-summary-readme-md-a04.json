@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/plugins/test-summary/README",
+  "id": "Components/GradlePlugins/plugins/test-summary/README",
+  "title": "README",
+  "description": "This module contains a gradle plugin that prints a summary about a JUnit test run to the console.",
+  "source": "@site/docs/Components/GradlePlugins/plugins/test-summary/README.md",
+  "sourceDirName": "Components/GradlePlugins/plugins/test-summary",
+  "slug": "/Components/GradlePlugins/plugins/test-summary/",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/test-summary/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/plugins/test-summary/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/openapi-merger/"
+  },
+  "next": {
+    "title": "Identity Hub",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/"
+  }
+}

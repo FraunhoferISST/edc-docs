@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/core/control-plane/transfer-core/README",
+  "id": "Components/Connector/core/control-plane/transfer-core/README",
+  "title": "Transfer",
+  "description": "Configuration",
+  "source": "@site/docs/Components/Connector/core/control-plane/transfer-core/README.md",
+  "sourceDirName": "Components/Connector/core/control-plane/transfer-core",
+  "slug": "/Components/Connector/core/control-plane/transfer-core/",
+  "permalink": "/edc-docs/docs/Components/Connector/core/control-plane/transfer-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/core/control-plane/transfer-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contract",
+    "permalink": "/edc-docs/docs/Components/Connector/core/control-plane/contract-core/"
+  },
+  "next": {
+    "title": "Data plane module",
+    "permalink": "/edc-docs/docs/Components/Connector/core/data-plane/"
+  }
+}

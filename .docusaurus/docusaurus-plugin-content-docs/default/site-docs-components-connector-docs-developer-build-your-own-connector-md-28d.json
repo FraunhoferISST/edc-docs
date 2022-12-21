@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/build-your-own-connector",
+  "id": "Components/Connector/docs/developer/build-your-own-connector",
+  "title": "Build your own connector",
+  "description": "EDC is a set of modules that, wedged together can build up different components to be used to create your dataspace or",
+  "source": "@site/docs/Components/Connector/docs/developer/build-your-own-connector.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/build-your-own-connector",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/build-your-own-connector",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/build-your-own-connector.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The `autodoc` Gradle plugin",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/autodoc"
+  },
+  "next": {
+    "title": "Cloud testing",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/cloud_testing"
+  }
+}

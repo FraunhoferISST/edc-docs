@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/client-cli/README",
+  "id": "Components/RegistrationService/client-cli/README",
+  "title": "Command-line client",
+  "description": "The client is a Java JAR that provides access to a registration service via REST.",
+  "source": "@site/docs/Components/RegistrationService/client-cli/README.md",
+  "sourceDirName": "Components/RegistrationService/client-cli",
+  "slug": "/Components/RegistrationService/client-cli/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/client-cli/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/client-cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/CHANGELOG"
+  },
+  "next": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/"
+  }
+}

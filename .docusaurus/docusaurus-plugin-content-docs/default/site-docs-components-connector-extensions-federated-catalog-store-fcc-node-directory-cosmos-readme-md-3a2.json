@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/README",
+  "id": "Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/README",
+  "title": "CosmosDB implementation of `FederatedCacheNodeDirectory`",
+  "description": "This extension provides a persistent implementation of a the FederatedCacheNodeDirectory using a CosmosDB container.",
+  "source": "@site/docs/Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/README.md",
+  "sourceDirName": "Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos",
+  "slug": "/Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DataPlane Selector Client",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane-selector/data-plane-selector-client/"
+  },
+  "next": {
+    "title": "Known Friends of EDC",
+    "permalink": "/edc-docs/docs/Components/Connector/known_friends"
+  }
+}

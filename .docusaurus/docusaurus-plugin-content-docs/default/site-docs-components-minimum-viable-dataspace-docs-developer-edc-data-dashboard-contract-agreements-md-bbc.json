@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
+  "id": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
+  "title": "Browsing Contract Agreements",
+  "description": "Overview",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Adding a Policy",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy"
+  },
+  "next": {
+    "title": "Initiating a Data Transfer",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer"
+  }
+}

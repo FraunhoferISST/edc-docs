@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/vault/vault-hashicorp/README",
+  "id": "submodule/Connector/extensions/common/vault/vault-hashicorp/README",
+  "title": "[HashiCorp Vault](https://www.vaultproject.io/) Extension",
+  "description": "Configuration",
+  "source": "@site/docs/submodule/Connector/extensions/common/vault/vault-hashicorp/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/vault/vault-hashicorp",
+  "slug": "/submodule/Connector/extensions/common/vault/vault-hashicorp/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/vault/vault-hashicorp/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/vault/vault-hashicorp/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

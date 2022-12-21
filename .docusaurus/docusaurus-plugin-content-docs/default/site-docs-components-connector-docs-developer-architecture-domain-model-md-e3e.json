@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/architecture/domain-model",
+  "id": "Components/Connector/docs/developer/architecture/domain-model",
+  "title": "Domain Model",
+  "description": "domain-model",
+  "source": "@site/docs/Components/Connector/docs/developer/architecture/domain-model.md",
+  "sourceDirName": "Components/Connector/docs/developer/architecture",
+  "slug": "/Components/Connector/docs/developer/architecture/domain-model",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/domain-model",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/architecture/domain-model.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Flows Supported by the EDC",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/data-transfer/"
+  },
+  "next": {
+    "title": "Identity Management",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/identity-management/"
+  }
+}

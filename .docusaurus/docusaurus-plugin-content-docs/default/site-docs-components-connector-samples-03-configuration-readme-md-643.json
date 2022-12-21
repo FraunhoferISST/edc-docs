@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/samples/configuration/README",
+  "id": "Components/Connector/samples/configuration/README",
+  "title": "Use the filesystem-based configuration",
+  "description": "So far we have not had any way to configure our system other than directly modifying code, which generally is not an",
+  "source": "@site/docs/Components/Connector/samples/03-configuration/README.md",
+  "sourceDirName": "Components/Connector/samples/03-configuration",
+  "slug": "/Components/Connector/samples/configuration/",
+  "permalink": "/edc-docs/docs/Components/Connector/samples/configuration/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/samples/03-configuration/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Write your first extension",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/health-endpoint/"
+  },
+  "next": {
+    "title": "Improve the file transfer",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/file-transfer-cloud/"
+  }
+}

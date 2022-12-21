@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+  "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+  "title": "Code Quality",
+  "description": "Decision",
+  "source": "@site/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README.md",
+  "sourceDirName": "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling",
+  "slug": "/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

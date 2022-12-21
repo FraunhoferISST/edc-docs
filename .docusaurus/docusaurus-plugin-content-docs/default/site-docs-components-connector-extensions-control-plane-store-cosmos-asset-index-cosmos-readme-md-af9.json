@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/README",
+  "id": "Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/README",
+  "title": "CosmosDB implementation of AssetIndex",
+  "description": "This extension provides a persistent implementation of an AssetIndex using a CosmosDB container.",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos",
+  "slug": "/Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/store/cosmos/asset-index-cosmos/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "OAuth2 Provision",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/provision/provision-oauth2/"
+  },
+  "next": {
+    "title": "CosmosDB implementation of `ContractDefinitionStore`",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/"
+  }
+}

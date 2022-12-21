@@ -1,0 +1,27 @@
+{
+  "unversionedId": "home/create-a-page",
+  "id": "home/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/home/create-a-page.md",
+  "sourceDirName": "home",
+  "slug": "/home/create-a-page",
+  "permalink": "/edc-docs/docs/home/create-a-page",
+  "draft": false,
+  "editUrl": "https://github.com/eclipse-dataspacecomponents/docs/tree/main/docs/docs/home/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "home",
+    "permalink": "/edc-docs/docs/category/home"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/edc-docs/docs/home/create-a-document"
+  }
+}

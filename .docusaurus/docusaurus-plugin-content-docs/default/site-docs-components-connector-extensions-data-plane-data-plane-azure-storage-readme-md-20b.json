@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/data-plane/data-plane-azure-storage/README",
+  "id": "Components/Connector/extensions/data-plane/data-plane-azure-storage/README",
+  "title": "README",
+  "description": "Azure storage Data Plane module",
+  "source": "@site/docs/Components/Connector/extensions/data-plane/data-plane-azure-storage/README.md",
+  "sourceDirName": "Components/Connector/extensions/data-plane/data-plane-azure-storage",
+  "slug": "/Components/Connector/extensions/data-plane/data-plane-azure-storage/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-azure-storage/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/data-plane/data-plane-azure-storage/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Azure Data Factory module",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-azure-data-factory/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-google-storage/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "id": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "title": "JaCoCo with Codecov",
+  "description": "Evaluation",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JaCoCo with Codacy",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy"
+  },
+  "next": {
+    "title": "Option 1: JaCoCo",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco"
+  }
+}

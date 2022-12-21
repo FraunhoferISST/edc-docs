@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/samples/04.2-modify-transferprocess/README",
+  "id": "submodule/Connector/samples/04.2-modify-transferprocess/README",
+  "title": "Modify a TransferProcess",
+  "description": "In the last samples (04.0 and 04.1) we saw how data can be transferred easily, what a TransferProcess is and how",
+  "source": "@site/docs/submodule/Connector/samples/04.2-modify-transferprocess/README.md",
+  "sourceDirName": "submodule/Connector/samples/04.2-modify-transferprocess",
+  "slug": "/submodule/Connector/samples/04.2-modify-transferprocess/",
+  "permalink": "/edc-docs/docs/submodule/Connector/samples/04.2-modify-transferprocess/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/samples/04.2-modify-transferprocess/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

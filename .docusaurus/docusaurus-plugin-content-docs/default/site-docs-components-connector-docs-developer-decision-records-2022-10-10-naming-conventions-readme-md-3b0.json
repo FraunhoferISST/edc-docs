@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README",
+  "title": "EDC Naming Conventions",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sql query streaming",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-09-29-sql-query-streaming/"
+  },
+  "next": {
+    "title": "Trust Framework Adoption Repository",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-20-trust-framework-adoption-repository/"
+  }
+}

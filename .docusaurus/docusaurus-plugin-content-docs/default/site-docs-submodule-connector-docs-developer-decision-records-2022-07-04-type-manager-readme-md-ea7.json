@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/README",
+  "title": "Type Manager Support for Serialization Configuration",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-07-04-type-manager/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

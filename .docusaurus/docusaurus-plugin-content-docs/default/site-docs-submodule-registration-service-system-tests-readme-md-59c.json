@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/system-tests/README",
+  "id": "submodule/RegistrationService/system-tests/README",
+  "title": "README",
+  "description": "System tests",
+  "source": "@site/docs/submodule/RegistrationService/system-tests/README.md",
+  "sourceDirName": "submodule/RegistrationService/system-tests",
+  "slug": "/submodule/RegistrationService/system-tests/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/system-tests/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/system-tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

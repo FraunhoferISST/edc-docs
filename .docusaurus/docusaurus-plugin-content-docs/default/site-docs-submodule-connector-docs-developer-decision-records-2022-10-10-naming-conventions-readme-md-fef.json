@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README",
+  "title": "EDC Naming Conventions",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-10-10-naming-conventions/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

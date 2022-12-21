@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco",
+  "id": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco",
+  "title": "Option 1: JaCoCo",
+  "description": "JaCoCo (Java Code Coverage) is a popular and mature open-source tool. It runs as a Java agent during test execution, to capture which lines are exercised during which test.",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JaCoCo with Codecov",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov"
+  },
+  "next": {
+    "title": "JaCoCo with Github Action",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action"
+  }
+}

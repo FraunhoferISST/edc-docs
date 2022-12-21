@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/README",
+  "title": "Event framework",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-06-03-event-framework/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

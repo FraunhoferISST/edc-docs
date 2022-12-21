@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/SECURITY",
+  "id": "Components/GradlePlugins/SECURITY",
+  "title": "Security Policy",
+  "description": "Eclipse Dataspace Connector (EDC) follows",
+  "source": "@site/docs/Components/GradlePlugins/SECURITY.md",
+  "sourceDirName": "Components/GradlePlugins",
+  "slug": "/Components/GradlePlugins/SECURITY",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/SECURITY",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Notices for Eclipse Dataspace Connector",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/NOTICE"
+  },
+  "next": {
+    "title": "The `autodoc` Gradle Plugin",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/docs/developer/autodoc"
+  }
+}

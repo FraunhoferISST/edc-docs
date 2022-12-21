@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/system-tests/README",
+  "id": "Components/RegistrationService/system-tests/README",
+  "title": "README",
+  "description": "System tests",
+  "source": "@site/docs/Components/RegistrationService/system-tests/README.md",
+  "sourceDirName": "Components/RegistrationService/system-tests",
+  "slug": "/Components/RegistrationService/system-tests/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/system-tests/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/system-tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL Participant store",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/extensions/store/sql/participant-store-sql/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/system-tests/resources/webdid/"
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "/edc-docs/markdown-page-ed8": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "f463fa6b"
+    },
+    "content": "393be207"
+  },
+  "/edc-docs/docs-3bc": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "e082c058"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/edc-docs/docs/-0c4": {
+    "__comp": "17896441",
+    "content": "23374ca6"
+  },
+  "/edc-docs/docs/404-668": {
+    "__comp": "17896441",
+    "content": "e3ac6acb"
+  },
+  "/edc-docs/docs/hands-on-d06": {
+    "__comp": "17896441",
+    "content": "905adbe1"
+  },
+  "/edc-docs/docs/publications-6bc": {
+    "__comp": "17896441",
+    "content": "0b46e8e7"
+  },
+  "/edc-docs/docs/submodule/Collateral/-782": {
+    "__comp": "17896441",
+    "content": "636376e4"
+  },
+  "/edc-docs/docs/submodule/Collateral/Events/-a32": {
+    "__comp": "17896441",
+    "content": "24ab260d"
+  },
+  "/edc-docs/docs/submodule/Collateral/Events/Conferences/-c19": {
+    "__comp": "17896441",
+    "content": "0f79e2fe"
+  },
+  "/edc-docs/docs/submodule/Collateral/Events/Hackathons/-8ae": {
+    "__comp": "17896441",
+    "content": "b0a7df7f"
+  },
+  "/edc-docs/docs/submodule/Collateral/Events/Workshops/-b64": {
+    "__comp": "17896441",
+    "content": "179c38e1"
+  },
+  "/edc-docs/docs/submodule/Collateral/Latest Presentations/-259": {
+    "__comp": "17896441",
+    "content": "959c99d4"
+  },
+  "/edc-docs/docs/submodule/Collateral/Work Content/-bde": {
+    "__comp": "17896441",
+    "content": "93318777"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/-e1a": {
+    "__comp": "17896441",
+    "content": "659d98db"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/CHANGELOG-68f": {
+    "__comp": "17896441",
+    "content": "65570cf9"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/CODE_OF_CONDUCT-43e": {
+    "__comp": "17896441",
+    "content": "4831232d"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/docs/developer/continuous_deployment-284": {
+    "__comp": "17896441",
+    "content": "b66166e7"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/docs/developer/decision-records/-ea7": {
+    "__comp": "17896441",
+    "content": "5077f899"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/docs/templates/-793": {
+    "__comp": "17896441",
+    "content": "a35d95e9"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/docs/templates/decision-record-01c": {
+    "__comp": "17896441",
+    "content": "333e1ec8"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/SECURITY-046": {
+    "__comp": "17896441",
+    "content": "1f1fe959"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/src/modules/edc-dmgmt-client/-0fa": {
+    "__comp": "17896441",
+    "content": "c5ae9dc5"
+  },
+  "/edc-docs/docs/submodule/DataDashboard/SUPPORT-e31": {
+    "__comp": "17896441",
+    "content": "cd2cba54"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/-aee": {
+    "__comp": "17896441",
+    "content": "4a1531fc"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/CONTRIBUTING-a7b": {
+    "__comp": "17896441",
+    "content": "58f48b8d"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/core/docs/-0a9": {
+    "__comp": "17896441",
+    "content": "b1ce0f94"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/core/docs/federated_catalog-d1b": {
+    "__comp": "17896441",
+    "content": "576f6824"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/core/federated-catalog/-f9c": {
+    "__comp": "17896441",
+    "content": "c05f0de4"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/docs/developer/decision-records/-a8d": {
+    "__comp": "17896441",
+    "content": "d5bafcd6"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/-d59": {
+    "__comp": "17896441",
+    "content": "990a9740"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/decision-record-475": {
+    "__comp": "17896441",
+    "content": "1d2fca55"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/extensions/store/fcc-node-directory-cosmos/-d02": {
+    "__comp": "17896441",
+    "content": "682b5fb3"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/NOTICE-400": {
+    "__comp": "17896441",
+    "content": "40d8915d"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/SECURITY-e20": {
+    "__comp": "17896441",
+    "content": "071d622c"
+  },
+  "/edc-docs/docs/submodule/FederatedCatalog/spi/federated-catalog-spi/-a14": {
+    "__comp": "17896441",
+    "content": "6944d3d7"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/-37d": {
+    "__comp": "17896441",
+    "content": "70887948"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/CONTRIBUTING-eb7": {
+    "__comp": "17896441",
+    "content": "85cb569b"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/docs/developer/autodoc-c6d": {
+    "__comp": "17896441",
+    "content": "c7bbb30d"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/NOTICE-ac4": {
+    "__comp": "17896441",
+    "content": "e402d718"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/-01d": {
+    "__comp": "17896441",
+    "content": "dff4d1dc"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/-09c": {
+    "__comp": "17896441",
+    "content": "9cb7c3af"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/edc-build/-23f": {
+    "__comp": "17896441",
+    "content": "932cb19b"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/module-names/-086": {
+    "__comp": "17896441",
+    "content": "b7c0f8d8"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/openapi-merger/-b3d": {
+    "__comp": "17896441",
+    "content": "2d0f864b"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/plugins/test-summary/-bd4": {
+    "__comp": "17896441",
+    "content": "16df7f9a"
+  },
+  "/edc-docs/docs/submodule/GradlePlugins/SECURITY-9de": {
+    "__comp": "17896441",
+    "content": "2add5037"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/-a01": {
+    "__comp": "17896441",
+    "content": "75138c83"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/CHANGELOG-419": {
+    "__comp": "17896441",
+    "content": "2b0d413e"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/client-cli/-f91": {
+    "__comp": "17896441",
+    "content": "c69ca27f"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/-72d": {
+    "__comp": "17896441",
+    "content": "a830f29e"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/-840": {
+    "__comp": "17896441",
+    "content": "56322a58"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/-46a": {
+    "__comp": "17896441",
+    "content": "40ee61f4"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/-ccc": {
+    "__comp": "17896441",
+    "content": "ce825fe0"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/-f34": {
+    "__comp": "17896441",
+    "content": "ae450502"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/developer/openapi-ebe": {
+    "__comp": "17896441",
+    "content": "a62978f4"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/templates/-c2b": {
+    "__comp": "17896441",
+    "content": "df1d98c1"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/docs/templates/decision-record-07a": {
+    "__comp": "17896441",
+    "content": "bc10949f"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/-a80": {
+    "__comp": "17896441",
+    "content": "6d480600"
+  },
+  "/edc-docs/docs/submodule/IdentityHub/system-tests/-64a": {
+    "__comp": "17896441",
+    "content": "1379658e"
+  },
+  "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture-eed": {
+    "__comp": "17896441",
+    "content": "84f2e3a9"
+  },
+  "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations-305": {
+    "__comp": "17896441",
+    "content": "3bfbd829"
+  },
+  "/edc-docs/docs/submodule/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces-d93": {
+    "__comp": "17896441",
+    "content": "10d55f9e"
+  },
+  "/edc-docs/docs/submodule/Publications/Identity Management/DID_EDC-55b": {
+    "__comp": "17896441",
+    "content": "93db91c6"
+  },
+  "/edc-docs/docs/submodule/Publications/White paper/A User Journey to Dataspaces-8c9": {
+    "__comp": "17896441",
+    "content": "66c8d212"
+  },
+  "/edc-docs/docs/submodule/Publications/White paper/user_journey_images/-f67": {
+    "__comp": "17896441",
+    "content": "b3102924"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/-5e4": {
+    "__comp": "17896441",
+    "content": "747729be"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/CHANGELOG-bc2": {
+    "__comp": "17896441",
+    "content": "8bdc65e3"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/client-cli/-46d": {
+    "__comp": "17896441",
+    "content": "8c3d9369"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/-eb3": {
+    "__comp": "17896441",
+    "content": "20b721fe"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-09-cli/-cc6": {
+    "__comp": "17896441",
+    "content": "c29ac7d3"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/-977": {
+    "__comp": "17896441",
+    "content": "ef0ec3f6"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/-1b2": {
+    "__comp": "17896441",
+    "content": "a7326356"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/-adc": {
+    "__comp": "17896441",
+    "content": "2112e1a2"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/-439": {
+    "__comp": "17896441",
+    "content": "9f50719f"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/-b3a": {
+    "__comp": "17896441",
+    "content": "3a015d3a"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/-55a": {
+    "__comp": "17896441",
+    "content": "1d59baf6"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/-41d": {
+    "__comp": "17896441",
+    "content": "a5573253"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/developer/openapi-adb": {
+    "__comp": "17896441",
+    "content": "744fa6d7"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/templates/-b3a": {
+    "__comp": "17896441",
+    "content": "e87c4b84"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/docs/templates/decision-record-aa2": {
+    "__comp": "17896441",
+    "content": "0221ea92"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/extensions/store/sql/participant-store-sql/-9cb": {
+    "__comp": "17896441",
+    "content": "ddc616d9"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/system-tests/-9ec": {
+    "__comp": "17896441",
+    "content": "59c57bf6"
+  },
+  "/edc-docs/docs/submodule/RegistrationService/system-tests/resources/webdid/-d92": {
+    "__comp": "17896441",
+    "content": "7f5838bf"
+  },
+  "/edc-docs/docs/submodule/TrustFrameworkAdoption/-6c7": {
+    "__comp": "17896441",
+    "content": "55a6ec5b"
+  },
+  "/edc-docs/docs/submodule/TrustFrameworkAdoption/CONTRIBUTING-9c0": {
+    "__comp": "17896441",
+    "content": "ec7b70b8"
+  },
+  "/edc-docs/docs/submodule/TrustFrameworkAdoption/extensions/common/trust-framework-policies/-c9b": {
+    "__comp": "17896441",
+    "content": "dd2c104d"
+  },
+  "/edc-docs/-e4f": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "f463fa6b"
+    },
+    "config": "5e9f5e1a"
+  }
+}

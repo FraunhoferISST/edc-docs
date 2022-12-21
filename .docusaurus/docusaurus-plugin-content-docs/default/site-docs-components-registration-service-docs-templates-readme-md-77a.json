@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/templates/README",
+  "id": "Components/RegistrationService/docs/templates/README",
+  "title": "Templates",
+  "description": "Find all provided documentation templates in this folder. Please note that the _italic text",
+  "source": "@site/docs/Components/RegistrationService/docs/templates/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/templates",
+  "slug": "/Components/RegistrationService/docs/templates/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/templates/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/templates/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generating the OpenApi Spec",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/openapi"
+  },
+  "next": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/templates/decision-record"
+  }
+}

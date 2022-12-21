@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+  "id": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+  "title": "Code Quality",
+  "description": "Decision",
+  "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README.md",
+  "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling",
+  "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/",
+  "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identity Hub - Self Description",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/"
+  },
+  "next": {
+    "title": "Generating the OpenApi Spec",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/openapi"
+  }
+}

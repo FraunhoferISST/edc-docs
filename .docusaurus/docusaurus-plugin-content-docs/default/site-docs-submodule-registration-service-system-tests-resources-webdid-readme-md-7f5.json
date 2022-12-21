@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/system-tests/resources/webdid/README",
+  "id": "submodule/RegistrationService/system-tests/resources/webdid/README",
+  "title": "README",
+  "description": "This directory contains multiple sample DID Documents used in docker-compose deployment.",
+  "source": "@site/docs/submodule/RegistrationService/system-tests/resources/webdid/README.md",
+  "sourceDirName": "submodule/RegistrationService/system-tests/resources/webdid",
+  "slug": "/submodule/RegistrationService/system-tests/resources/webdid/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/system-tests/resources/webdid/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/system-tests/resources/webdid/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

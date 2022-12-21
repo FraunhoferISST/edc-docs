@@ -1,0 +1,523 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Eclipse Dataspace Components",
+        "href": "/edc-docs/docs/",
+        "docId": "README"
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "items": [
+          {
+            "type": "link",
+            "label": "Hands-on",
+            "href": "/edc-docs/docs/hands-on",
+            "docId": "hands-on"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Components",
+        "items": [
+          {
+            "type": "link",
+            "label": "Data Dashboard",
+            "href": "/edc-docs/docs/submodule/DataDashboard/",
+            "docId": "submodule/DataDashboard/README"
+          },
+          {
+            "type": "link",
+            "label": "Federated Catalog",
+            "href": "/edc-docs/docs/submodule/FederatedCatalog/",
+            "docId": "submodule/FederatedCatalog/README"
+          },
+          {
+            "type": "link",
+            "label": "Gradle Plugins",
+            "href": "/edc-docs/docs/submodule/GradlePlugins/",
+            "docId": "submodule/GradlePlugins/README"
+          },
+          {
+            "type": "link",
+            "label": "Identity Hub",
+            "href": "/edc-docs/docs/submodule/IdentityHub/",
+            "docId": "submodule/IdentityHub/README"
+          },
+          {
+            "type": "link",
+            "label": "Registration Service",
+            "href": "/edc-docs/docs/submodule/RegistrationService/",
+            "docId": "submodule/RegistrationService/README"
+          },
+          {
+            "type": "link",
+            "label": "TrustFramework Adoption",
+            "href": "/edc-docs/docs/submodule/TrustFrameworkAdoption/",
+            "docId": "submodule/TrustFrameworkAdoption/README"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Documents",
+        "items": [
+          {
+            "type": "link",
+            "label": "Collateral",
+            "href": "/edc-docs/docs/submodule/Collateral/",
+            "docId": "submodule/Collateral/README"
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      }
+    ]
+  },
+  "docs": {
+    "404": {
+      "id": "404",
+      "title": "Page not found",
+      "description": "As this GitHub pages mainly link to markdown files of external repositories, this can have multiple reasons:"
+    },
+    "hands-on": {
+      "id": "hands-on",
+      "title": "Hands-on",
+      "description": "- Build and run a monolithic connector",
+      "sidebar": "tutorialSidebar"
+    },
+    "publications": {
+      "id": "publications",
+      "title": "Publications",
+      "description": "- Dataspaces"
+    },
+    "README": {
+      "id": "README",
+      "title": "Eclipse Dataspace Components",
+      "description": "Please note: All content of provided documentation reflects the current state of discussion.",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/Collateral/Events/Conferences/README": {
+      "id": "submodule/Collateral/Events/Conferences/README",
+      "title": "Conferences",
+      "description": "| YYYY-MM   | Name | Presentation | Download"
+    },
+    "submodule/Collateral/Events/Hackathons/README": {
+      "id": "submodule/Collateral/Events/Hackathons/README",
+      "title": "Hackathons",
+      "description": "| YYYY-MM   | Name | Presentation | Download"
+    },
+    "submodule/Collateral/Events/README": {
+      "id": "submodule/Collateral/Events/README",
+      "title": "Events",
+      "description": "You may take a look at the slides if you missed an event, or use the content if you want to do a"
+    },
+    "submodule/Collateral/Events/Workshops/README": {
+      "id": "submodule/Collateral/Events/Workshops/README",
+      "title": "Workshops",
+      "description": "| YYYY-MM   | Name | Presentation | Download"
+    },
+    "submodule/Collateral/Latest Presentations/README": {
+      "id": "submodule/Collateral/Latest Presentations/README",
+      "title": "Latest Presentations",
+      "description": "- 2022-04-26 Eclipse Dataspace Connector - Overview Deck"
+    },
+    "submodule/Collateral/README": {
+      "id": "submodule/Collateral/README",
+      "title": "Collateral",
+      "description": "This repository provides access to the latest presentations and events, and working materials that",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/Collateral/Work Content/README": {
+      "id": "submodule/Collateral/Work Content/README",
+      "title": "Working Groups",
+      "description": "- Usage Control"
+    },
+    "submodule/DataDashboard/CHANGELOG": {
+      "id": "submodule/DataDashboard/CHANGELOG",
+      "title": "Changelog",
+      "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules"
+    },
+    "submodule/DataDashboard/CODE_OF_CONDUCT": {
+      "id": "submodule/DataDashboard/CODE_OF_CONDUCT",
+      "title": "Microsoft Open Source Code of Conduct",
+      "description": "This project has adopted the Microsoft Open Source Code of Conduct."
+    },
+    "submodule/DataDashboard/docs/developer/continuous_deployment": {
+      "id": "submodule/DataDashboard/docs/developer/continuous_deployment",
+      "title": "continuous_deployment",
+      "description": "Continuous Deployment"
+    },
+    "submodule/DataDashboard/docs/developer/decision-records/README": {
+      "id": "submodule/DataDashboard/docs/developer/decision-records/README",
+      "title": "Decision Records",
+      "description": ""
+    },
+    "submodule/DataDashboard/docs/templates/decision-record": {
+      "id": "submodule/DataDashboard/docs/templates/decision-record",
+      "title": "Title of the Decision Record",
+      "description": "Decision"
+    },
+    "submodule/DataDashboard/docs/templates/README": {
+      "id": "submodule/DataDashboard/docs/templates/README",
+      "title": "Templates",
+      "description": "Find all provided documentation templates in this folder. Please note that the _italic text"
+    },
+    "submodule/DataDashboard/README": {
+      "id": "submodule/DataDashboard/README",
+      "title": "EDC Data Dashboard",
+      "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/DataDashboard/SECURITY": {
+      "id": "submodule/DataDashboard/SECURITY",
+      "title": "SECURITY",
+      "description": "Security"
+    },
+    "submodule/DataDashboard/src/modules/edc-dmgmt-client/README": {
+      "id": "submodule/DataDashboard/src/modules/edc-dmgmt-client/README",
+      "title": "README",
+      "description": "@"
+    },
+    "submodule/DataDashboard/SUPPORT": {
+      "id": "submodule/DataDashboard/SUPPORT",
+      "title": "TODO: The maintainer of this repo has not yet edited this file",
+      "description": "REPO OWNER: Do you want Customer Service & Support (CSS) support for this product/project?"
+    },
+    "submodule/FederatedCatalog/CONTRIBUTING": {
+      "id": "submodule/FederatedCatalog/CONTRIBUTING",
+      "title": "Contributing to the Project",
+      "description": "Thank you for your interest in contributing to this project. Please refer to"
+    },
+    "submodule/FederatedCatalog/core/docs/federated_catalog": {
+      "id": "submodule/FederatedCatalog/core/docs/federated_catalog",
+      "title": "federated_catalog",
+      "description": "General thoughts"
+    },
+    "submodule/FederatedCatalog/core/docs/README": {
+      "id": "submodule/FederatedCatalog/core/docs/README",
+      "title": "README",
+      "description": "The catalog extensions"
+    },
+    "submodule/FederatedCatalog/core/federated-catalog/README": {
+      "id": "submodule/FederatedCatalog/core/federated-catalog/README",
+      "title": "README",
+      "description": "This module contains implementations for the Federated Catalog Cache, which is a database that contains a snapshot of"
+    },
+    "submodule/FederatedCatalog/docs/developer/decision-records/README": {
+      "id": "submodule/FederatedCatalog/docs/developer/decision-records/README",
+      "title": "Decision Records",
+      "description": ""
+    },
+    "submodule/FederatedCatalog/docs/templates/decision-record": {
+      "id": "submodule/FederatedCatalog/docs/templates/decision-record",
+      "title": "Title of the Decision Record",
+      "description": "Decision"
+    },
+    "submodule/FederatedCatalog/docs/templates/README": {
+      "id": "submodule/FederatedCatalog/docs/templates/README",
+      "title": "Templates",
+      "description": "Find all provided documentation templates in this folder. Please note that the _italic text"
+    },
+    "submodule/FederatedCatalog/extensions/store/fcc-node-directory-cosmos/README": {
+      "id": "submodule/FederatedCatalog/extensions/store/fcc-node-directory-cosmos/README",
+      "title": "CosmosDB implementation of `FederatedCacheNodeDirectory`",
+      "description": "This extension provides a persistent implementation of a the FederatedCacheNodeDirectory using a CosmosDB container."
+    },
+    "submodule/FederatedCatalog/NOTICE": {
+      "id": "submodule/FederatedCatalog/NOTICE",
+      "title": "Notices for Eclipse Dataspace Connector",
+      "description": "This content is produced and maintained by the Eclipse Dash, Tools for"
+    },
+    "submodule/FederatedCatalog/README": {
+      "id": "submodule/FederatedCatalog/README",
+      "title": "Federated Catalog Cache",
+      "description": "This repository contains an implementation for a Federated Catalog intended for use in the EDC project.",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/FederatedCatalog/SECURITY": {
+      "id": "submodule/FederatedCatalog/SECURITY",
+      "title": "Security Policy",
+      "description": "Eclipse Dataspace Connector (EDC) follows"
+    },
+    "submodule/FederatedCatalog/spi/federated-catalog-spi/README": {
+      "id": "submodule/FederatedCatalog/spi/federated-catalog-spi/README",
+      "title": "README",
+      "description": "This module contains extension points and interfaces specifically for the Federated Catalog feature."
+    },
+    "submodule/GradlePlugins/CONTRIBUTING": {
+      "id": "submodule/GradlePlugins/CONTRIBUTING",
+      "title": "Contributing to the Project",
+      "description": "Thank you for your interest in contributing to this project. Please refer to"
+    },
+    "submodule/GradlePlugins/docs/developer/autodoc": {
+      "id": "submodule/GradlePlugins/docs/developer/autodoc",
+      "title": "The `autodoc` Gradle Plugin",
+      "description": "Introduction"
+    },
+    "submodule/GradlePlugins/NOTICE": {
+      "id": "submodule/GradlePlugins/NOTICE",
+      "title": "Notices for Eclipse Dataspace Connector",
+      "description": "This content is produced and maintained by the Eclipse Dash, Tools for"
+    },
+    "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README": {
+      "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+      "title": "README",
+      "description": "This module contains a gradle plugin the uses"
+    },
+    "submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README": {
+      "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README",
+      "title": "README",
+      "description": "This module contains the business logic code for the autodoc feature, i.e. the actual annotation processor."
+    },
+    "submodule/GradlePlugins/plugins/edc-build/README": {
+      "id": "submodule/GradlePlugins/plugins/edc-build/README",
+      "title": "README",
+      "description": "This module contains a Gradle Plugin, that acts as a \"meta-plugin\" of sorts, because it performs the following tasks:"
+    },
+    "submodule/GradlePlugins/plugins/module-names/README": {
+      "id": "submodule/GradlePlugins/plugins/module-names/README",
+      "title": "README",
+      "description": "This module contains a gradle plugin that verifies that there are no two modules with the same name in a multi-module"
+    },
+    "submodule/GradlePlugins/plugins/openapi-merger/README": {
+      "id": "submodule/GradlePlugins/plugins/openapi-merger/README",
+      "title": "README",
+      "description": "This module contains a gradle plugin that allows to merge partial OpenAPI spec files into one file."
+    },
+    "submodule/GradlePlugins/plugins/test-summary/README": {
+      "id": "submodule/GradlePlugins/plugins/test-summary/README",
+      "title": "README",
+      "description": "This module contains a gradle plugin that prints a summary about a JUnit test run to the console."
+    },
+    "submodule/GradlePlugins/README": {
+      "id": "submodule/GradlePlugins/README",
+      "title": "Gradle Plugins for EDC",
+      "description": "This repository contains various plugins for the EDC Gradle build. They are accessible through the Gradle Plugin Portal",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/GradlePlugins/SECURITY": {
+      "id": "submodule/GradlePlugins/SECURITY",
+      "title": "Security Policy",
+      "description": "Eclipse Dataspace Connector (EDC) follows"
+    },
+    "submodule/IdentityHub/CHANGELOG": {
+      "id": "submodule/IdentityHub/CHANGELOG",
+      "title": "Changelog",
+      "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules"
+    },
+    "submodule/IdentityHub/client-cli/README": {
+      "id": "submodule/IdentityHub/client-cli/README",
+      "title": "Command-line client",
+      "description": "The client is a Java JAR that provides access to an identity hub service via REST."
+    },
+    "submodule/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README": {
+      "id": "submodule/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README",
+      "title": "Identity Hub",
+      "description": "An identity hub is a credential storage and message relay system run by a dataspace participant. In particular, the identity hub will be used to securely deliver Verifiable Credentials from a dataspace issuer to a dataspace participant. The hub will also be used to provide Verifiable Presentations on behalf of a participant. The Identity Hub will not be used as a message relay system."
+    },
+    "submodule/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README": {
+      "id": "submodule/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+      "title": "Identity Hub - Get claims",
+      "description": "This document explains how we will get the claims of a participant, in order to apply access policies."
+    },
+    "submodule/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README": {
+      "id": "submodule/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README",
+      "title": "Identity Hub - Self Description",
+      "description": "This document explains how the Self-Description of a dataspace participant will be stored into the Identity Hub and retrieved from it."
+    },
+    "submodule/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README": {
+      "id": "submodule/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+      "title": "Code Quality",
+      "description": "Decision"
+    },
+    "submodule/IdentityHub/docs/developer/decision-records/README": {
+      "id": "submodule/IdentityHub/docs/developer/decision-records/README",
+      "title": "Decision Records",
+      "description": "- 2022-06-08 Identity Hub"
+    },
+    "submodule/IdentityHub/docs/developer/openapi": {
+      "id": "submodule/IdentityHub/docs/developer/openapi",
+      "title": "Generating the OpenApi Spec",
+      "description": "It is possible to generate an OpenAPI spec in the form of a *.yaml file by invoking a Gradle"
+    },
+    "submodule/IdentityHub/docs/templates/decision-record": {
+      "id": "submodule/IdentityHub/docs/templates/decision-record",
+      "title": "Title of the Decision Record",
+      "description": "Decision"
+    },
+    "submodule/IdentityHub/docs/templates/README": {
+      "id": "submodule/IdentityHub/docs/templates/README",
+      "title": "Templates",
+      "description": "Find all provided documentation templates in this folder. Please note that the _italic text"
+    },
+    "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README": {
+      "id": "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+      "title": "SQL Identity Hub store",
+      "description": "Provides SQL persistence for Identity Hub."
+    },
+    "submodule/IdentityHub/README": {
+      "id": "submodule/IdentityHub/README",
+      "title": "Identity Hub",
+      "description": "Temporary repository to get started with the Identity Hub for the MVD.",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/IdentityHub/system-tests/README": {
+      "id": "submodule/IdentityHub/system-tests/README",
+      "title": "README",
+      "description": "System tests"
+    },
+    "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture": {
+      "id": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+      "title": "Dataspace Context Model and Conceptual Architecture",
+      "description": "Overview"
+    },
+    "submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations": {
+      "id": "submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+      "title": "Dataspaces Vocabulary and Operations",
+      "description": "How to read this document"
+    },
+    "submodule/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces": {
+      "id": "submodule/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces",
+      "title": "1.\tIntroduction: Dataspaces: A Foundation for Enterprise Digital Sovereignty",
+      "description": "To realize a viable data economy, companies and organizations of all types and sizes around the world need to have full control over their data combined with the ability to share their data in a controllable and compliant way. They need an enterprise grade architecture and solution that puts them in control of their data while sharing with other stakeholders such as customers, supply chain, the public, and in certain scenarios even with their competitors."
+    },
+    "submodule/Publications/Identity Management/DID_EDC": {
+      "id": "submodule/Publications/Identity Management/DID_EDC",
+      "title": "Decentralized Identifiers and the Eclipse Dataspace Connector",
+      "description": "Purpose and Target Audience"
+    },
+    "submodule/Publications/White paper/A User Journey to Dataspaces": {
+      "id": "submodule/Publications/White paper/A User Journey to Dataspaces",
+      "title": "A User Journey to Dataspaces",
+      "description": "A User Journey to Data Spaces"
+    },
+    "submodule/Publications/White paper/user_journey_images/readme": {
+      "id": "submodule/Publications/White paper/user_journey_images/readme",
+      "title": "readme",
+      "description": ""
+    },
+    "submodule/RegistrationService/CHANGELOG": {
+      "id": "submodule/RegistrationService/CHANGELOG",
+      "title": "Changelog",
+      "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules"
+    },
+    "submodule/RegistrationService/client-cli/README": {
+      "id": "submodule/RegistrationService/client-cli/README",
+      "title": "Command-line client",
+      "description": "The client is a Java JAR that provides access to a registration service via REST."
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README",
+      "title": "Command-Line client",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/README",
+      "title": "Registration Service API",
+      "description": "Registration Service is a component of a Dataspace Authority."
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README",
+      "title": "State Machine",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/README",
+      "title": "HTTP Ports",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+      "title": "Service authentication",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README",
+      "title": "Participant Status Codes",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/README",
+      "title": "Membership Verifiable Credential",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+      "title": "Code Quality",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/developer/decision-records/README": {
+      "id": "submodule/RegistrationService/docs/developer/decision-records/README",
+      "title": "Decision Records",
+      "description": "- 2022-06-09 CLI"
+    },
+    "submodule/RegistrationService/docs/developer/openapi": {
+      "id": "submodule/RegistrationService/docs/developer/openapi",
+      "title": "Generating the OpenApi Spec",
+      "description": "It is possible to generate an OpenApi spec in the form of a *.yaml file by invoking a Gradle"
+    },
+    "submodule/RegistrationService/docs/templates/decision-record": {
+      "id": "submodule/RegistrationService/docs/templates/decision-record",
+      "title": "Title of the Decision Record",
+      "description": "Decision"
+    },
+    "submodule/RegistrationService/docs/templates/README": {
+      "id": "submodule/RegistrationService/docs/templates/README",
+      "title": "Templates",
+      "description": "Find all provided documentation templates in this folder. Please note that the _italic text"
+    },
+    "submodule/RegistrationService/extensions/store/sql/participant-store-sql/README": {
+      "id": "submodule/RegistrationService/extensions/store/sql/participant-store-sql/README",
+      "title": "SQL Participant store",
+      "description": "Provides SQL persistence for participants"
+    },
+    "submodule/RegistrationService/README": {
+      "id": "submodule/RegistrationService/README",
+      "title": "Registration Service",
+      "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "submodule/RegistrationService/system-tests/README": {
+      "id": "submodule/RegistrationService/system-tests/README",
+      "title": "README",
+      "description": "System tests"
+    },
+    "submodule/RegistrationService/system-tests/resources/webdid/README": {
+      "id": "submodule/RegistrationService/system-tests/resources/webdid/README",
+      "title": "README",
+      "description": "This directory contains multiple sample DID Documents used in docker-compose deployment."
+    },
+    "submodule/TrustFrameworkAdoption/CONTRIBUTING": {
+      "id": "submodule/TrustFrameworkAdoption/CONTRIBUTING",
+      "title": "Contributing to the Project",
+      "description": "Thank you for your interest in contributing to this project. Please refer to"
+    },
+    "submodule/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README": {
+      "id": "submodule/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+      "title": "Trust Framework Policy Extension",
+      "description": "This extension provides a way to register the evaluation functions referenced by the Policies into the Policy Engine. Each evaluation function"
+    },
+    "submodule/TrustFrameworkAdoption/README": {
+      "id": "submodule/TrustFrameworkAdoption/README",
+      "title": "Trust Framework Adoption",
+      "description": "This repository contains extensions and documentation for enforcing Trust Framework compliance into EDC components.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

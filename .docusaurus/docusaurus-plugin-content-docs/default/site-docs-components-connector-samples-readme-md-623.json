@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/samples/README",
+  "id": "Components/Connector/samples/README",
+  "title": "Samples",
+  "description": "Each sample provides a detailed documentation that guides you step by step and addresses major capabilities of the connector.",
+  "source": "@site/docs/Components/Connector/samples/README.md",
+  "sourceDirName": "Components/Connector/samples",
+  "slug": "/Components/Connector/samples/",
+  "permalink": "/edc-docs/docs/Components/Connector/samples/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/samples/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Etiquette for pull requests",
+    "permalink": "/edc-docs/docs/Components/Connector/pr_etiquette"
+  },
+  "next": {
+    "title": "Running a simple connector",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/basic-connector/"
+  }
+}

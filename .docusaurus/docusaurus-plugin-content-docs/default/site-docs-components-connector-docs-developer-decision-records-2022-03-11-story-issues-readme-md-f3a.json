@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/README",
+  "title": "Creating \"story\" issues",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-03-11-story-issues",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-03-11-story-issues/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Performance Testing with Gatling",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-02-performance-tests/"
+  },
+  "next": {
+    "title": "Cloud testing",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-14-cloud-testing/"
+  }
+}

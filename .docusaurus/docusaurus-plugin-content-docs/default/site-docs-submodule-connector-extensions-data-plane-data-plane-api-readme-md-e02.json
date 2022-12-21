@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/data-plane-api/README",
+  "id": "submodule/Connector/extensions/data-plane/data-plane-api/README",
+  "title": "Data Plane API",
+  "description": "This extension provides the interfaces and implementations for the Data Plane API, which are respectively:",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/data-plane-api/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/data-plane-api",
+  "slug": "/submodule/Connector/extensions/data-plane/data-plane-api/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/data-plane-api/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/data-plane-api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

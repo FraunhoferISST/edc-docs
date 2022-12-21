@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Collateral/Events/Conferences/README",
+  "id": "submodule/Collateral/Events/Conferences/README",
+  "title": "Conferences",
+  "description": "| YYYY-MM   | Name | Presentation | Download",
+  "source": "@site/docs/submodule/Collateral/Events/Conferences/README.md",
+  "sourceDirName": "submodule/Collateral/Events/Conferences",
+  "slug": "/submodule/Collateral/Events/Conferences/",
+  "permalink": "/edc-docs/docs/submodule/Collateral/Events/Conferences/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Collateral/Events/Conferences/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "submodule/TrustFrameworkAdoption/README",
+  "id": "submodule/TrustFrameworkAdoption/README",
+  "title": "Trust Framework Adoption",
+  "description": "This repository contains extensions and documentation for enforcing Trust Framework compliance into EDC components.",
+  "source": "@site/docs/submodule/TrustFrameworkAdoption/README.md",
+  "sourceDirName": "submodule/TrustFrameworkAdoption",
+  "slug": "/submodule/TrustFrameworkAdoption/",
+  "permalink": "/edc-docs/docs/submodule/TrustFrameworkAdoption/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/TrustFrameworkAdoption/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/submodule/RegistrationService/"
+  },
+  "next": {
+    "title": "Collateral",
+    "permalink": "/edc-docs/docs/submodule/Collateral/"
+  }
+}

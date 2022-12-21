@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/DataDashboard/SECURITY",
+  "id": "submodule/DataDashboard/SECURITY",
+  "title": "SECURITY",
+  "description": "Security",
+  "source": "@site/docs/submodule/DataDashboard/SECURITY.md",
+  "sourceDirName": "submodule/DataDashboard",
+  "slug": "/submodule/DataDashboard/SECURITY",
+  "permalink": "/edc-docs/docs/submodule/DataDashboard/SECURITY",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/DataDashboard/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

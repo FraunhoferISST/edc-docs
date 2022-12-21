@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/core/federated-catalog/docs/README",
+  "id": "submodule/Connector/core/federated-catalog/docs/README",
+  "title": "README",
+  "description": "The catalog extensions",
+  "source": "@site/docs/submodule/Connector/core/federated-catalog/docs/README.md",
+  "sourceDirName": "submodule/Connector/core/federated-catalog/docs",
+  "slug": "/submodule/Connector/core/federated-catalog/docs/",
+  "permalink": "/edc-docs/docs/submodule/Connector/core/federated-catalog/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/core/federated-catalog/docs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

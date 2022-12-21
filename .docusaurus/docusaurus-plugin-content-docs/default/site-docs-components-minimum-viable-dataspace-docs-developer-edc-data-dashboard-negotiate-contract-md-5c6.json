@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
+  "id": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
+  "title": "Negotiating a Contract",
+  "description": "Overview",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Initiating a Data Transfer",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer"
+  },
+  "next": {
+    "title": "Publish Assets",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset"
+  }
+}

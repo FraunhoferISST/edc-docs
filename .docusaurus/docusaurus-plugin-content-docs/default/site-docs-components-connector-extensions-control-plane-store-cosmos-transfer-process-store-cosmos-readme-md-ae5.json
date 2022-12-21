@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/README",
+  "id": "Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/README",
+  "title": "CosmosDB implementation of `TransferProcessStore`",
+  "description": "This extension provides a persistent implementation of a the TransferProcessStore using a CosmosDB container.",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos",
+  "slug": "/Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/store/cosmos/transfer-process-store-cosmos/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CosmosDB implementation of `PolicyStore`",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/cosmos/policy-definition-store-cosmos/"
+  },
+  "next": {
+    "title": "SQL Asset",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/asset-index-sql/"
+  }
+}

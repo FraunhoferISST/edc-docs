@@ -1,0 +1,1432 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/edc-docs/docs",
+          "tagsPath": "/edc-docs/docs/tags",
+          "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs",
+          "editUrlLocalized": "https://github.com/FraunhoferISST/edc-docs/tree/master/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Users\\ghosh\\IdeaProjects\\ISST Doc\\edc-docs\\edc-docs\\sidebars.js",
+          "contentPath": "C:\\Users\\ghosh\\IdeaProjects\\ISST Doc\\edc-docs\\edc-docs\\docs",
+          "contentPathLocalized": "C:\\Users\\ghosh\\IdeaProjects\\ISST Doc\\edc-docs\\edc-docs\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "Components/Data Deshboard",
+              "id": "Components/Data Deshboard",
+              "title": "EDC Data Dashboard",
+              "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+              "source": "@site/docs/Components/Data Deshboard.md",
+              "sourceDirName": "Components",
+              "slug": "/Components/Data Deshboard",
+              "permalink": "/edc-docs/docs/Components/Data Deshboard",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Data Deshboard.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Publications",
+                "permalink": "/edc-docs/docs/Documents/publications"
+              },
+              "next": {
+                "title": "Federated Catalog Cache",
+                "permalink": "/edc-docs/docs/Components/Federated Catalog"
+              }
+            },
+            {
+              "unversionedId": "Components/Federated Catalog",
+              "id": "Components/Federated Catalog",
+              "title": "Federated Catalog Cache",
+              "description": "This repository contains an implementation for a Federated Catalog intended for use in the EDC project.",
+              "source": "@site/docs/Components/Federated Catalog.md",
+              "sourceDirName": "Components",
+              "slug": "/Components/Federated Catalog",
+              "permalink": "/edc-docs/docs/Components/Federated Catalog",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Federated Catalog.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "EDC Data Dashboard",
+                "permalink": "/edc-docs/docs/Components/Data Deshboard"
+              },
+              "next": {
+                "title": "Gradle Plugins for EDC",
+                "permalink": "/edc-docs/docs/Components/Gradle Plugin"
+              }
+            },
+            {
+              "unversionedId": "Components/Gradle Plugin",
+              "id": "Components/Gradle Plugin",
+              "title": "Gradle Plugins for EDC",
+              "description": "This repository contains various plugins for the EDC Gradle build. They are accessible through the Gradle Plugin Portal",
+              "source": "@site/docs/Components/Gradle Plugin.md",
+              "sourceDirName": "Components",
+              "slug": "/Components/Gradle Plugin",
+              "permalink": "/edc-docs/docs/Components/Gradle Plugin",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Gradle Plugin.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Federated Catalog Cache",
+                "permalink": "/edc-docs/docs/Components/Federated Catalog"
+              },
+              "next": {
+                "title": "Registration Service",
+                "permalink": "/edc-docs/docs/Components/Registration Service"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/CHANGELOG",
+              "id": "Components/IdentityHub/CHANGELOG",
+              "title": "Changelog",
+              "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules",
+              "source": "@site/docs/Components/IdentityHub/CHANGELOG.md",
+              "sourceDirName": "Components/IdentityHub",
+              "slug": "/Components/IdentityHub/CHANGELOG",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/CHANGELOG",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/CHANGELOG.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identity Hub",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/"
+              },
+              "next": {
+                "title": "Command-line client",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/client-cli/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/client-cli/README",
+              "id": "Components/IdentityHub/client-cli/README",
+              "title": "Command-line client",
+              "description": "The client is a Java JAR that provides access to an identity hub service via REST.",
+              "source": "@site/docs/Components/IdentityHub/client-cli/README.md",
+              "sourceDirName": "Components/IdentityHub/client-cli",
+              "slug": "/Components/IdentityHub/client-cli/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/client-cli/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/client-cli/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Changelog",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/CHANGELOG"
+              },
+              "next": {
+                "title": "Decision Records",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README",
+              "id": "Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README",
+              "title": "Identity Hub",
+              "description": "An identity hub is a credential storage and message relay system run by a dataspace participant. In particular, the identity hub will be used to securely deliver Verifiable Credentials from a dataspace issuer to a dataspace participant. The hub will also be used to provide Verifiable Presentations on behalf of a participant. The Identity Hub will not be used as a message relay system.",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub",
+              "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Decision Records",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/"
+              },
+              "next": {
+                "title": "Identity Hub - Get claims",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+              "id": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+              "title": "Identity Hub - Get claims",
+              "description": "This document explains how we will get the claims of a participant, in order to apply access policies.",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims",
+              "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identity Hub",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/"
+              },
+              "next": {
+                "title": "Identity Hub - Self Description",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README",
+              "id": "Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README",
+              "title": "Identity Hub - Self Description",
+              "description": "This document explains how the Self-Description of a dataspace participant will be stored into the Identity Hub and retrieved from it.",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description",
+              "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identity Hub - Get claims",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/"
+              },
+              "next": {
+                "title": "Code Quality",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+              "id": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+              "title": "Code Quality",
+              "description": "Decision",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling",
+              "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Identity Hub - Self Description",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/"
+              },
+              "next": {
+                "title": "Generating the OpenApi Spec",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/openapi"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/decision-records/README",
+              "id": "Components/IdentityHub/docs/developer/decision-records/README",
+              "title": "Decision Records",
+              "description": "- 2022-06-08 Identity Hub",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer/decision-records",
+              "slug": "/Components/IdentityHub/docs/developer/decision-records/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Command-line client",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/client-cli/"
+              },
+              "next": {
+                "title": "Identity Hub",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/developer/openapi",
+              "id": "Components/IdentityHub/docs/developer/openapi",
+              "title": "Generating the OpenApi Spec",
+              "description": "It is possible to generate an OpenAPI spec in the form of a *.yaml file by invoking a Gradle",
+              "source": "@site/docs/Components/IdentityHub/docs/developer/openapi.md",
+              "sourceDirName": "Components/IdentityHub/docs/developer",
+              "slug": "/Components/IdentityHub/docs/developer/openapi",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/openapi",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/openapi.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Code Quality",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/"
+              },
+              "next": {
+                "title": "Templates",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/templates/decision-record",
+              "id": "Components/IdentityHub/docs/templates/decision-record",
+              "title": "Title of the Decision Record",
+              "description": "Decision",
+              "source": "@site/docs/Components/IdentityHub/docs/templates/decision-record.md",
+              "sourceDirName": "Components/IdentityHub/docs/templates",
+              "slug": "/Components/IdentityHub/docs/templates/decision-record",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/decision-record",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/templates/decision-record.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Templates",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/"
+              },
+              "next": {
+                "title": "SQL Identity Hub store",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/docs/templates/README",
+              "id": "Components/IdentityHub/docs/templates/README",
+              "title": "Templates",
+              "description": "Find all provided documentation templates in this folder. Please note that the _italic text",
+              "source": "@site/docs/Components/IdentityHub/docs/templates/README.md",
+              "sourceDirName": "Components/IdentityHub/docs/templates",
+              "slug": "/Components/IdentityHub/docs/templates/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/templates/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Generating the OpenApi Spec",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/openapi"
+              },
+              "next": {
+                "title": "Title of the Decision Record",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/decision-record"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+              "id": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+              "title": "SQL Identity Hub store",
+              "description": "Provides SQL persistence for Identity Hub.",
+              "source": "@site/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+              "sourceDirName": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql",
+              "slug": "/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Title of the Decision Record",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/decision-record"
+              },
+              "next": {
+                "title": "README",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/README",
+              "id": "Components/IdentityHub/README",
+              "title": "Identity Hub",
+              "description": "Temporary repository to get started with the Identity Hub for the MVD.",
+              "source": "@site/docs/Components/IdentityHub/README.md",
+              "sourceDirName": "Components/IdentityHub",
+              "slug": "/Components/IdentityHub/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Registration Service",
+                "permalink": "/edc-docs/docs/Components/Registration Service"
+              },
+              "next": {
+                "title": "Changelog",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/CHANGELOG"
+              }
+            },
+            {
+              "unversionedId": "Components/IdentityHub/system-tests/README",
+              "id": "Components/IdentityHub/system-tests/README",
+              "title": "README",
+              "description": "System tests",
+              "source": "@site/docs/Components/IdentityHub/system-tests/README.md",
+              "sourceDirName": "Components/IdentityHub/system-tests",
+              "slug": "/Components/IdentityHub/system-tests/",
+              "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/system-tests/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "SQL Identity Hub store",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/"
+              },
+              "next": {
+                "title": "Trust Framework Adoption",
+                "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/"
+              }
+            },
+            {
+              "unversionedId": "Components/Registration Service",
+              "id": "Components/Registration Service",
+              "title": "Registration Service",
+              "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+              "source": "@site/docs/Components/Registration Service.md",
+              "sourceDirName": "Components",
+              "slug": "/Components/Registration Service",
+              "permalink": "/edc-docs/docs/Components/Registration Service",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Registration Service.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 7,
+              "frontMatter": {
+                "sidebar_position": 7
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Gradle Plugins for EDC",
+                "permalink": "/edc-docs/docs/Components/Gradle Plugin"
+              },
+              "next": {
+                "title": "Identity Hub",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/"
+              }
+            },
+            {
+              "unversionedId": "Components/TrustFrameworkAdoption/CONTRIBUTING",
+              "id": "Components/TrustFrameworkAdoption/CONTRIBUTING",
+              "title": "Contributing to the Project",
+              "description": "Thank you for your interest in contributing to this project. Please refer to",
+              "source": "@site/docs/Components/TrustFrameworkAdoption/CONTRIBUTING.md",
+              "sourceDirName": "Components/TrustFrameworkAdoption",
+              "slug": "/Components/TrustFrameworkAdoption/CONTRIBUTING",
+              "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/CONTRIBUTING",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/TrustFrameworkAdoption/CONTRIBUTING.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Trust Framework Adoption",
+                "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/"
+              },
+              "next": {
+                "title": "Trust Framework Policy Extension",
+                "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/"
+              }
+            },
+            {
+              "unversionedId": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+              "id": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+              "title": "Trust Framework Policy Extension",
+              "description": "This extension provides a way to register the evaluation functions referenced by the Policies into the Policy Engine. Each evaluation function",
+              "source": "@site/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README.md",
+              "sourceDirName": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies",
+              "slug": "/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/",
+              "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing to the Project",
+                "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/CONTRIBUTING"
+              }
+            },
+            {
+              "unversionedId": "Components/TrustFrameworkAdoption/README",
+              "id": "Components/TrustFrameworkAdoption/README",
+              "title": "Trust Framework Adoption",
+              "description": "This repository contains extensions and documentation for enforcing Trust Framework compliance into EDC components.",
+              "source": "@site/docs/Components/TrustFrameworkAdoption/README.md",
+              "sourceDirName": "Components/TrustFrameworkAdoption",
+              "slug": "/Components/TrustFrameworkAdoption/",
+              "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/TrustFrameworkAdoption/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "README",
+                "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/"
+              },
+              "next": {
+                "title": "Contributing to the Project",
+                "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/CONTRIBUTING"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Events/Conferences/README",
+              "id": "Documents/Collateral/Events/Conferences/README",
+              "title": "Conferences",
+              "description": "| YYYY-MM   | Name | Presentation | Download",
+              "source": "@site/docs/Documents/Collateral/Events/Conferences/README.md",
+              "sourceDirName": "Documents/Collateral/Events/Conferences",
+              "slug": "/Documents/Collateral/Events/Conferences/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Events/Conferences/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/Conferences/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Events",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/"
+              },
+              "next": {
+                "title": "Hackathons",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Hackathons/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Events/Hackathons/README",
+              "id": "Documents/Collateral/Events/Hackathons/README",
+              "title": "Hackathons",
+              "description": "| YYYY-MM   | Name | Presentation | Download",
+              "source": "@site/docs/Documents/Collateral/Events/Hackathons/README.md",
+              "sourceDirName": "Documents/Collateral/Events/Hackathons",
+              "slug": "/Documents/Collateral/Events/Hackathons/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Events/Hackathons/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/Hackathons/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Conferences",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Conferences/"
+              },
+              "next": {
+                "title": "Workshops",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Workshops/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Events/README",
+              "id": "Documents/Collateral/Events/README",
+              "title": "Events",
+              "description": "You may take a look at the slides if you missed an event, or use the content if you want to do a",
+              "source": "@site/docs/Documents/Collateral/Events/README.md",
+              "sourceDirName": "Documents/Collateral/Events",
+              "slug": "/Documents/Collateral/Events/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Events/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Collateral",
+                "permalink": "/edc-docs/docs/Documents/Collateral/"
+              },
+              "next": {
+                "title": "Conferences",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Conferences/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Events/Workshops/README",
+              "id": "Documents/Collateral/Events/Workshops/README",
+              "title": "Workshops",
+              "description": "| YYYY-MM   | Name | Presentation | Download",
+              "source": "@site/docs/Documents/Collateral/Events/Workshops/README.md",
+              "sourceDirName": "Documents/Collateral/Events/Workshops",
+              "slug": "/Documents/Collateral/Events/Workshops/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Events/Workshops/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/Workshops/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Hackathons",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Hackathons/"
+              },
+              "next": {
+                "title": "Latest Presentations",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Latest Presentations/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Latest Presentations/README",
+              "id": "Documents/Collateral/Latest Presentations/README",
+              "title": "Latest Presentations",
+              "description": "- 2022-04-26 Eclipse Dataspace Connector - Overview Deck",
+              "source": "@site/docs/Documents/Collateral/Latest Presentations/README.md",
+              "sourceDirName": "Documents/Collateral/Latest Presentations",
+              "slug": "/Documents/Collateral/Latest Presentations/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Latest Presentations/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Latest Presentations/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Workshops",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/Workshops/"
+              },
+              "next": {
+                "title": "Working Groups",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Work Content/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/README",
+              "id": "Documents/Collateral/README",
+              "title": "Collateral",
+              "description": "This repository provides access to the latest presentations and events, and working materials that",
+              "source": "@site/docs/Documents/Collateral/README.md",
+              "sourceDirName": "Documents/Collateral",
+              "slug": "/Documents/Collateral/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Documents",
+                "permalink": "/edc-docs/docs/category/documents"
+              },
+              "next": {
+                "title": "Events",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Events/"
+              }
+            },
+            {
+              "unversionedId": "Documents/Collateral/Work Content/README",
+              "id": "Documents/Collateral/Work Content/README",
+              "title": "Working Groups",
+              "description": "- Usage Control",
+              "source": "@site/docs/Documents/Collateral/Work Content/README.md",
+              "sourceDirName": "Documents/Collateral/Work Content",
+              "slug": "/Documents/Collateral/Work Content/",
+              "permalink": "/edc-docs/docs/Documents/Collateral/Work Content/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Work Content/README.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Latest Presentations",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Latest Presentations/"
+              },
+              "next": {
+                "title": "Publications",
+                "permalink": "/edc-docs/docs/Documents/publications"
+              }
+            },
+            {
+              "unversionedId": "Documents/publications",
+              "id": "Documents/publications",
+              "title": "Publications",
+              "description": "- Dataspaces",
+              "source": "@site/docs/Documents/publications.md",
+              "sourceDirName": "Documents",
+              "slug": "/Documents/publications",
+              "permalink": "/edc-docs/docs/Documents/publications",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/publications.md",
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Working Groups",
+                "permalink": "/edc-docs/docs/Documents/Collateral/Work Content/"
+              },
+              "next": {
+                "title": "EDC Data Dashboard",
+                "permalink": "/edc-docs/docs/Components/Data Deshboard"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/CONTRIBUTING",
+              "id": "Getting Started/CONTRIBUTING",
+              "title": "Contributing to the Project",
+              "description": "Thank you for your interest in contributing to",
+              "source": "@site/docs/Getting Started/CONTRIBUTING.md",
+              "sourceDirName": "Getting Started",
+              "slug": "/Getting Started/CONTRIBUTING",
+              "permalink": "/edc-docs/docs/Getting Started/CONTRIBUTING",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/CONTRIBUTING.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Getting Started",
+                "permalink": "/edc-docs/docs/category/getting-started"
+              },
+              "next": {
+                "title": "Hands-on",
+                "permalink": "/edc-docs/docs/Getting Started/hands-on"
+              }
+            },
+            {
+              "unversionedId": "Getting Started/hands-on",
+              "id": "Getting Started/hands-on",
+              "title": "Hands-on",
+              "description": "- Build and run a monolithic connector)",
+              "source": "@site/docs/Getting Started/hands-on.md",
+              "sourceDirName": "Getting Started",
+              "slug": "/Getting Started/hands-on",
+              "permalink": "/edc-docs/docs/Getting Started/hands-on",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/hands-on.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Contributing to the Project",
+                "permalink": "/edc-docs/docs/Getting Started/CONTRIBUTING"
+              },
+              "next": {
+                "title": "Documents",
+                "permalink": "/edc-docs/docs/category/documents"
+              }
+            },
+            {
+              "unversionedId": "home",
+              "id": "home",
+              "title": "home",
+              "description": "Eclipse Dataspace Components",
+              "source": "@site/docs/home.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/edc-docs/docs/",
+              "draft": false,
+              "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/home.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Getting Started",
+                "permalink": "/edc-docs/docs/category/getting-started"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "home"
+              },
+              {
+                "type": "category",
+                "label": "Getting Started",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Getting Started/CONTRIBUTING"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Getting Started/hands-on"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "description": "5 minutes to learn the most important Docusaurus concepts.",
+                  "slug": "/category/getting-started",
+                  "permalink": "/edc-docs/docs/category/getting-started"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Documents",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Collateral",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "category",
+                        "label": "Events",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "doc",
+                            "label": "Conferences",
+                            "id": "Documents/Collateral/Events/Conferences/README"
+                          },
+                          {
+                            "type": "doc",
+                            "label": "Hackathons",
+                            "id": "Documents/Collateral/Events/Hackathons/README"
+                          },
+                          {
+                            "type": "doc",
+                            "label": "Workshops",
+                            "id": "Documents/Collateral/Events/Workshops/README"
+                          }
+                        ],
+                        "link": {
+                          "type": "doc",
+                          "id": "Documents/Collateral/Events/README"
+                        }
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Latest Presentations",
+                        "id": "Documents/Collateral/Latest Presentations/README"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Working Groups",
+                        "id": "Documents/Collateral/Work Content/README"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Documents/Collateral/README"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Documents/publications"
+                  }
+                ],
+                "link": {
+                  "type": "generated-index",
+                  "slug": "/category/documents",
+                  "permalink": "/edc-docs/docs/category/documents"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Components",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "Components/Data Deshboard"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Components/Federated Catalog"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Components/Gradle Plugin"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "Components/Registration Service"
+                  },
+                  {
+                    "type": "category",
+                    "label": "Identity Hub",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Components/IdentityHub/CHANGELOG"
+                      },
+                      {
+                        "type": "doc",
+                        "label": "Command-line client",
+                        "id": "Components/IdentityHub/client-cli/README"
+                      },
+                      {
+                        "type": "category",
+                        "label": "docs",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "developer",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "category",
+                                "label": "Decision Records",
+                                "collapsible": true,
+                                "collapsed": true,
+                                "items": [
+                                  {
+                                    "type": "doc",
+                                    "label": "Identity Hub",
+                                    "id": "Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README"
+                                  },
+                                  {
+                                    "type": "doc",
+                                    "label": "Identity Hub - Get claims",
+                                    "id": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README"
+                                  },
+                                  {
+                                    "type": "doc",
+                                    "label": "Identity Hub - Self Description",
+                                    "id": "Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README"
+                                  },
+                                  {
+                                    "type": "doc",
+                                    "label": "Code Quality",
+                                    "id": "Components/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README"
+                                  }
+                                ],
+                                "link": {
+                                  "type": "doc",
+                                  "id": "Components/IdentityHub/docs/developer/decision-records/README"
+                                }
+                              },
+                              {
+                                "type": "doc",
+                                "id": "Components/IdentityHub/docs/developer/openapi"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "category",
+                            "label": "Templates",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "id": "Components/IdentityHub/docs/templates/decision-record"
+                              }
+                            ],
+                            "link": {
+                              "type": "doc",
+                              "id": "Components/IdentityHub/docs/templates/README"
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "category",
+                        "label": "extensions",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "store",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "category",
+                                "label": "sql",
+                                "collapsible": true,
+                                "collapsed": true,
+                                "items": [
+                                  {
+                                    "type": "doc",
+                                    "label": "SQL Identity Hub store",
+                                    "id": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "type": "doc",
+                        "label": "README",
+                        "id": "Components/IdentityHub/system-tests/README"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Components/IdentityHub/README"
+                    }
+                  },
+                  {
+                    "type": "category",
+                    "label": "Trust Framework Adoption",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "Components/TrustFrameworkAdoption/CONTRIBUTING"
+                      },
+                      {
+                        "type": "category",
+                        "label": "extensions",
+                        "collapsible": true,
+                        "collapsed": true,
+                        "items": [
+                          {
+                            "type": "category",
+                            "label": "common",
+                            "collapsible": true,
+                            "collapsed": true,
+                            "items": [
+                              {
+                                "type": "doc",
+                                "label": "Trust Framework Policy Extension",
+                                "id": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "Components/TrustFrameworkAdoption/README"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [
+        {
+          "id": "welcome",
+          "metadata": {
+            "permalink": "/edc-docs/blog/welcome",
+            "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/blog/2021-08-26-welcome/index.md",
+            "source": "@site/blog/2021-08-26-welcome/index.md",
+            "title": "Welcome",
+            "description": "Docusaurus blogging features are powered by the blog plugin.",
+            "date": "2021-08-26T00:00:00.000Z",
+            "formattedDate": "August 26, 2021",
+            "tags": [
+              {
+                "label": "facebook",
+                "permalink": "/edc-docs/blog/tags/facebook"
+              },
+              {
+                "label": "hello",
+                "permalink": "/edc-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/edc-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.405,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              },
+              {
+                "name": "Yangshun Tay",
+                "title": "Front End Engineer @ Facebook",
+                "url": "https://github.com/yangshun",
+                "imageURL": "https://github.com/yangshun.png",
+                "key": "yangshun"
+              }
+            ],
+            "frontMatter": {
+              "slug": "welcome",
+              "title": "Welcome",
+              "authors": [
+                "slorber",
+                "yangshun"
+              ],
+              "tags": [
+                "facebook",
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "nextItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/edc-docs/blog/mdx-blog-post"
+            }
+          },
+          "content": "[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).\n\nSimply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
+        },
+        {
+          "id": "mdx-blog-post",
+          "metadata": {
+            "permalink": "/edc-docs/blog/mdx-blog-post",
+            "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/blog/2021-08-01-mdx-blog-post.mdx",
+            "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
+            "title": "MDX Blog Post",
+            "description": "Blog posts support Docusaurus Markdown features, such as MDX.",
+            "date": "2021-08-01T00:00:00.000Z",
+            "formattedDate": "August 1, 2021",
+            "tags": [
+              {
+                "label": "docusaurus",
+                "permalink": "/edc-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.175,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Sébastien Lorber",
+                "title": "Docusaurus maintainer",
+                "url": "https://sebastienlorber.com",
+                "imageURL": "https://github.com/slorber.png",
+                "key": "slorber"
+              }
+            ],
+            "frontMatter": {
+              "slug": "mdx-blog-post",
+              "title": "MDX Blog Post",
+              "authors": [
+                "slorber"
+              ],
+              "tags": [
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Welcome",
+              "permalink": "/edc-docs/blog/welcome"
+            },
+            "nextItem": {
+              "title": "Long Blog Post",
+              "permalink": "/edc-docs/blog/long-blog-post"
+            }
+          },
+          "content": "Blog posts support [Docusaurus Markdown features](https://docusaurus.io/docs/markdown-features), such as [MDX](https://mdxjs.com/).\n\n:::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
+        },
+        {
+          "id": "long-blog-post",
+          "metadata": {
+            "permalink": "/edc-docs/blog/long-blog-post",
+            "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/blog/2019-05-29-long-blog-post.md",
+            "source": "@site/blog/2019-05-29-long-blog-post.md",
+            "title": "Long Blog Post",
+            "description": "This is the summary of a very long blog post,",
+            "date": "2019-05-29T00:00:00.000Z",
+            "formattedDate": "May 29, 2019",
+            "tags": [
+              {
+                "label": "hello",
+                "permalink": "/edc-docs/blog/tags/hello"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/edc-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 2.05,
+            "hasTruncateMarker": true,
+            "authors": [
+              {
+                "name": "Endilie Yacop Sucipto",
+                "title": "Maintainer of Docusaurus",
+                "url": "https://github.com/endiliey",
+                "imageURL": "https://github.com/endiliey.png",
+                "key": "endi"
+              }
+            ],
+            "frontMatter": {
+              "slug": "long-blog-post",
+              "title": "Long Blog Post",
+              "authors": "endi",
+              "tags": [
+                "hello",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "MDX Blog Post",
+              "permalink": "/edc-docs/blog/mdx-blog-post"
+            },
+            "nextItem": {
+              "title": "First Blog Post",
+              "permalink": "/edc-docs/blog/first-blog-post"
+            }
+          },
+          "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        },
+        {
+          "id": "first-blog-post",
+          "metadata": {
+            "permalink": "/edc-docs/blog/first-blog-post",
+            "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/blog/2019-05-28-first-blog-post.md",
+            "source": "@site/blog/2019-05-28-first-blog-post.md",
+            "title": "First Blog Post",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet",
+            "date": "2019-05-28T00:00:00.000Z",
+            "formattedDate": "May 28, 2019",
+            "tags": [
+              {
+                "label": "hola",
+                "permalink": "/edc-docs/blog/tags/hola"
+              },
+              {
+                "label": "docusaurus",
+                "permalink": "/edc-docs/blog/tags/docusaurus"
+              }
+            ],
+            "readingTime": 0.12,
+            "hasTruncateMarker": false,
+            "authors": [
+              {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              }
+            ],
+            "frontMatter": {
+              "slug": "first-blog-post",
+              "title": "First Blog Post",
+              "authors": {
+                "name": "Gao Wei",
+                "title": "Docusaurus Core Team",
+                "url": "https://github.com/wgao19",
+                "image_url": "https://github.com/wgao19.png",
+                "imageURL": "https://github.com/wgao19.png"
+              },
+              "tags": [
+                "hola",
+                "docusaurus"
+              ]
+            },
+            "prevItem": {
+              "title": "Long Blog Post",
+              "permalink": "/edc-docs/blog/long-blog-post"
+            }
+          },
+          "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
+        }
+      ],
+      "blogListPaginated": [
+        {
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "metadata": {
+            "permalink": "/edc-docs/blog",
+            "page": 1,
+            "postsPerPage": 10,
+            "totalPages": 1,
+            "totalCount": 4,
+            "blogDescription": "Blog",
+            "blogTitle": "Blog"
+          }
+        }
+      ],
+      "blogTags": {
+        "/edc-docs/blog/tags/facebook": {
+          "label": "facebook",
+          "items": [
+            "welcome"
+          ],
+          "permalink": "/edc-docs/blog/tags/facebook",
+          "pages": [
+            {
+              "items": [
+                "welcome"
+              ],
+              "metadata": {
+                "permalink": "/edc-docs/blog/tags/facebook",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/edc-docs/blog/tags/hello": {
+          "label": "hello",
+          "items": [
+            "welcome",
+            "long-blog-post"
+          ],
+          "permalink": "/edc-docs/blog/tags/hello",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "long-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/edc-docs/blog/tags/hello",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 2,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/edc-docs/blog/tags/docusaurus": {
+          "label": "docusaurus",
+          "items": [
+            "welcome",
+            "mdx-blog-post",
+            "long-blog-post",
+            "first-blog-post"
+          ],
+          "permalink": "/edc-docs/blog/tags/docusaurus",
+          "pages": [
+            {
+              "items": [
+                "welcome",
+                "mdx-blog-post",
+                "long-blog-post",
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/edc-docs/blog/tags/docusaurus",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 4,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        },
+        "/edc-docs/blog/tags/hola": {
+          "label": "hola",
+          "items": [
+            "first-blog-post"
+          ],
+          "permalink": "/edc-docs/blog/tags/hola",
+          "pages": [
+            {
+              "items": [
+                "first-blog-post"
+              ],
+              "metadata": {
+                "permalink": "/edc-docs/blog/tags/hola",
+                "page": 1,
+                "postsPerPage": 10,
+                "totalPages": 1,
+                "totalCount": 1,
+                "blogDescription": "Blog",
+                "blogTitle": "Blog"
+              }
+            }
+          ]
+        }
+      },
+      "blogTagsListPath": "/edc-docs/blog/tags"
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": [
+      {
+        "type": "jsx",
+        "permalink": "/edc-docs/",
+        "source": "@site/src/pages/index.js"
+      },
+      {
+        "type": "mdx",
+        "permalink": "/edc-docs/markdown-page",
+        "source": "@site/src/pages/markdown-page.md",
+        "title": "Markdown page example",
+        "description": "You don't need React to write simple standalone pages.",
+        "frontMatter": {
+          "title": "Markdown page example"
+        }
+      }
+    ]
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

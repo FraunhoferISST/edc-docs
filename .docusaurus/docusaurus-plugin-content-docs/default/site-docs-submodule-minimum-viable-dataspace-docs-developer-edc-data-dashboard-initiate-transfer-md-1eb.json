@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "title": "Initiating a Data Transfer",
+  "description": "Overview",
+  "source": "@site/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard",
+  "slug": "/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

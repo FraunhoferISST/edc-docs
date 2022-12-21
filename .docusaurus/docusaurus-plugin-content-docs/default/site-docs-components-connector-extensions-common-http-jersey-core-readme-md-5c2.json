@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/http/jersey-core/README",
+  "id": "Components/Connector/extensions/common/http/jersey-core/README",
+  "title": "Jersey",
+  "description": "This extension provides a Jersey implementation for the WebService service.",
+  "source": "@site/docs/Components/Connector/extensions/common/http/jersey-core/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/http/jersey-core",
+  "slug": "/Components/Connector/extensions/common/http/jersey-core/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jersey-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/http/jersey-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CloudEvents HTTP",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/events/events-cloud-http/"
+  },
+  "next": {
+    "title": "Jersey Micrometer extension",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/http/jersey-micrometer/"
+  }
+}

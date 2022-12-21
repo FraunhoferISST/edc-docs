@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/styleguide",
+  "id": "submodule/Connector/styleguide",
+  "title": "Eclipse Dataspace Connector Code Style Guide",
+  "description": "In order to maintain a coherent code style throughout the project we ask every contributor to adhere to a few simple",
+  "source": "@site/docs/submodule/Connector/styleguide.md",
+  "sourceDirName": "submodule/Connector",
+  "slug": "/submodule/Connector/styleguide",
+  "permalink": "/edc-docs/docs/submodule/Connector/styleguide",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/styleguide.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

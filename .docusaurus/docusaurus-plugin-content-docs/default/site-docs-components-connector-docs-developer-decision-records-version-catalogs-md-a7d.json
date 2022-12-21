@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/version-catalogs",
+  "id": "Components/Connector/docs/developer/decision-records/version-catalogs",
+  "title": "The EDC version catalog",
+  "description": "EDC provides a Version Catalog which contains all the",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/version-catalogs.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records",
+  "slug": "/Components/Connector/docs/developer/decision-records/version-catalogs",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/version-catalogs",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/version-catalogs.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/renaming"
+  },
+  "next": {
+    "title": "Advanced dependency resolution: default provider methods",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/default_provider_methods"
+  }
+}

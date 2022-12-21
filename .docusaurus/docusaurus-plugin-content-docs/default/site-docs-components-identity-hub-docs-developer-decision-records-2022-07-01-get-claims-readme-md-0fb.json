@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+  "id": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+  "title": "Identity Hub - Get claims",
+  "description": "This document explains how we will get the claims of a participant, in order to apply access policies.",
+  "source": "@site/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README.md",
+  "sourceDirName": "Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims",
+  "slug": "/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/",
+  "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Identity Hub",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/"
+  },
+  "next": {
+    "title": "Identity Hub - Self Description",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/"
+  }
+}

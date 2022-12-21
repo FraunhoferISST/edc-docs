@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
+  "id": "Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
+  "title": "Continuous Deployment",
+  "description": "Overview",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/continuous-deployment",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Developer documentation",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/"
+  },
+  "next": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/"
+  }
+}

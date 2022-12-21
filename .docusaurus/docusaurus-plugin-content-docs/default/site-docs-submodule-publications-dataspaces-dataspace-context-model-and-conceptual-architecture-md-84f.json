@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+  "id": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+  "title": "Dataspace Context Model and Conceptual Architecture",
+  "description": "Overview",
+  "source": "@site/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture.md",
+  "sourceDirName": "submodule/Publications/Dataspaces",
+  "slug": "/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+  "permalink": "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

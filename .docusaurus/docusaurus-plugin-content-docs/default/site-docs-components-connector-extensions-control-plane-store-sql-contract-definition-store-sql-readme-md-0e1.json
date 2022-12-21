@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/README",
+  "id": "Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/README",
+  "title": "SQL Contract Definition",
+  "description": "Provides SQL persistence for contract definitions.",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql",
+  "slug": "/Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/store/sql/contract-definition-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL Asset",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/asset-index-sql/"
+  },
+  "next": {
+    "title": "SQL-based `ContractNegotiationStore` - technical proposal",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/contract-negotiation-store-sql/"
+  }
+}

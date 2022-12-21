@@ -1,0 +1,27 @@
+{
+  "unversionedId": "home/markdown-features",
+  "id": "home/markdown-features",
+  "title": "Markdown Features",
+  "description": "Docusaurus supports Markdown and a few additional features.",
+  "source": "@site/docs/home/markdown-features.mdx",
+  "sourceDirName": "home",
+  "slug": "/home/markdown-features",
+  "permalink": "/edc-docs/docs/home/markdown-features",
+  "draft": false,
+  "editUrl": "https://github.com/eclipse-dataspacecomponents/docs/tree/main/docs/docs/home/markdown-features.mdx",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Blog Post",
+    "permalink": "/edc-docs/docs/home/create-a-blog-post"
+  },
+  "next": {
+    "title": "Deploy your site",
+    "permalink": "/edc-docs/docs/home/deploy-your-site"
+  }
+}

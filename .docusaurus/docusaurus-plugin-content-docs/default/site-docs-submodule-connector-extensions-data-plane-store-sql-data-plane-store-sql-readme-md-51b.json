@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README",
+  "id": "submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README",
+  "title": "SQL Data Plane Store",
+  "description": "Provides SQL persistence for data flow transfer state.",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql",
+  "slug": "/submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/store/sql/data-plane-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

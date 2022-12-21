@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README",
+  "title": "Usage of Gradle Version Catalogs",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trust Framework Adoption Repository",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-20-trust-framework-adoption-repository/"
+  },
+  "next": {
+    "title": "Aggregate Service layer",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/"
+  }
+}

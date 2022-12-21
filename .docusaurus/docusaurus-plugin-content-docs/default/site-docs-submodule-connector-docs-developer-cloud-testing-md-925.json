@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/cloud_testing",
+  "id": "submodule/Connector/docs/developer/cloud_testing",
+  "title": "Cloud testing",
+  "description": "Usage",
+  "source": "@site/docs/submodule/Connector/docs/developer/cloud_testing.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/cloud_testing",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/cloud_testing",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/cloud_testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

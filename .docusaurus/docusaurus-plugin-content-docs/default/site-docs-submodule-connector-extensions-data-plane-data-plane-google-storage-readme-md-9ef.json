@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/data-plane-google-storage/README",
+  "id": "submodule/Connector/extensions/data-plane/data-plane-google-storage/README",
+  "title": "README",
+  "description": "Google cloud storage data plane module",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/data-plane-google-storage/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/data-plane-google-storage",
+  "slug": "/submodule/Connector/extensions/data-plane/data-plane-google-storage/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/data-plane-google-storage/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/data-plane-google-storage/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

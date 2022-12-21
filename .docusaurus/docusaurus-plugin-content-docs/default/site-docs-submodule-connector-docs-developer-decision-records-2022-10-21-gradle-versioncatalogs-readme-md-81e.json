@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README",
+  "title": "Usage of Gradle Version Catalogs",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

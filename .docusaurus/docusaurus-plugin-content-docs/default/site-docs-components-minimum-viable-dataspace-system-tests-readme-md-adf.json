@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/system-tests/README",
+  "id": "Components/MinimumViableDataspace/system-tests/README",
+  "title": "System tests",
+  "description": "The system tests verify the end-to-end deployment of MVD, including:",
+  "source": "@site/docs/Components/MinimumViableDataspace/system-tests/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/system-tests",
+  "slug": "/Components/MinimumViableDataspace/system-tests/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/system-tests/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/system-tests/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/templates/decision-record"
+  },
+  "next": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/"
+  }
+}

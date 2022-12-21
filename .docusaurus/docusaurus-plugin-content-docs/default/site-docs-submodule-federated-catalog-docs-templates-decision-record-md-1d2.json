@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/FederatedCatalog/docs/templates/decision-record",
+  "id": "submodule/FederatedCatalog/docs/templates/decision-record",
+  "title": "Title of the Decision Record",
+  "description": "Decision",
+  "source": "@site/docs/submodule/FederatedCatalog/docs/templates/decision-record.md",
+  "sourceDirName": "submodule/FederatedCatalog/docs/templates",
+  "slug": "/submodule/FederatedCatalog/docs/templates/decision-record",
+  "permalink": "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/decision-record",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/FederatedCatalog/docs/templates/decision-record.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

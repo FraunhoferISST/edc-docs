@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README",
+  "id": "submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README",
+  "title": "README",
+  "description": "Web DID Identity Provider Extension",
+  "source": "@site/docs/submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web",
+  "slug": "/submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

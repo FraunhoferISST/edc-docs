@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/data-plane/data-plane-api/README",
+  "id": "Components/Connector/extensions/data-plane/data-plane-api/README",
+  "title": "Data Plane API",
+  "description": "This extension provides the interfaces and implementations for the Data Plane API, which are respectively:",
+  "source": "@site/docs/Components/Connector/extensions/data-plane/data-plane-api/README.md",
+  "sourceDirName": "Components/Connector/extensions/data-plane/data-plane-api",
+  "slug": "/Components/Connector/extensions/data-plane/data-plane-api/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-api/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/data-plane/data-plane-api/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL-based `TransferProcessStore` - technical proposal",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/transfer-process-store-sql/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-aws-s3/"
+  }
+}

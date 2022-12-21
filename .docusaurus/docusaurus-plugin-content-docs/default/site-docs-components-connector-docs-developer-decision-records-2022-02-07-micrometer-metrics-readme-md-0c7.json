@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README",
+  "title": "Micrometer metrics",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Integration testing",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-03-integration-testing/"
+  },
+  "next": {
+    "title": "Tracing",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-07-tracing/"
+  }
+}

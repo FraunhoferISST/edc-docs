@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/sql_queries",
+  "id": "submodule/Connector/docs/developer/sql_queries",
+  "title": "Issuing dynamic queries in SQL data stores",
+  "description": "Introduction",
+  "source": "@site/docs/submodule/Connector/docs/developer/sql_queries.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/sql_queries",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/sql_queries",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/sql_queries.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

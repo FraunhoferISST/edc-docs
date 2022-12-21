@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy",
+  "id": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy",
+  "title": "JaCoCo with Codacy",
+  "description": "Codacy is an online service for both static code analysis and test code coverage analysis. It is free for Open Source projects.",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codacy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Code coverage",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/"
+  },
+  "next": {
+    "title": "JaCoCo with Codecov",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov"
+  }
+}

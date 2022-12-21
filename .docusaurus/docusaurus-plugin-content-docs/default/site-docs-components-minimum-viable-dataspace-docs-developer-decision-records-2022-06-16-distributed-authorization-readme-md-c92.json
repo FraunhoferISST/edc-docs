@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README",
+  "id": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README",
+  "title": "Distributed authorization sub-flow",
+  "description": "This sub-flow is used for a service to authenticate and authorize requests from a Dataspace Participant.",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/"
+  },
+  "next": {
+    "title": "Participants onboarding in MVD",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README",
+  "title": "Micrometer metrics",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-02-07-micrometer-metrics/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

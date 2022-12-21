@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/policy-engine",
+  "id": "Components/Connector/docs/developer/policy-engine",
+  "title": "Policy Engine",
+  "description": "Register policy functions",
+  "source": "@site/docs/Components/Connector/docs/developer/policy-engine.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/policy-engine",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/policy-engine",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/policy-engine.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generating the OpenApi Spec (*.yaml)",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/openapi"
+  },
+  "next": {
+    "title": "Release Approach",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/releases"
+  }
+}

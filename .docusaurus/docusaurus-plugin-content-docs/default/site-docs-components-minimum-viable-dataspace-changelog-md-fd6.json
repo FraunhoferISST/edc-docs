@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/CHANGELOG",
+  "id": "Components/MinimumViableDataspace/CHANGELOG",
+  "title": "Changelog",
+  "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules",
+  "source": "@site/docs/Components/MinimumViableDataspace/CHANGELOG.md",
+  "sourceDirName": "Components/MinimumViableDataspace",
+  "slug": "/Components/MinimumViableDataspace/CHANGELOG",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/CHANGELOG",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/CHANGELOG.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Minimum Viable Dataspace",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/"
+  },
+  "next": {
+    "title": "Vision Demonstrator Introduction",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction"
+  }
+}

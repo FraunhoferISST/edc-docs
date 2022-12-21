@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/configuration/configuration-filesystem/README",
+  "id": "submodule/Connector/extensions/common/configuration/configuration-filesystem/README",
+  "title": "File System Configuration",
+  "description": "",
+  "source": "@site/docs/submodule/Connector/extensions/common/configuration/configuration-filesystem/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/configuration/configuration-filesystem",
+  "slug": "/submodule/Connector/extensions/common/configuration/configuration-filesystem/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/configuration/configuration-filesystem/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/configuration/configuration-filesystem/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

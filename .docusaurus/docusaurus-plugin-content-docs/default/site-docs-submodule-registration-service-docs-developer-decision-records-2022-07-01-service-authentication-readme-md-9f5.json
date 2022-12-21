@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+  "id": "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+  "title": "Service authentication",
+  "description": "Decision",
+  "source": "@site/docs/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README.md",
+  "sourceDirName": "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication",
+  "slug": "/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

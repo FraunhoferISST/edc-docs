@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/TrustFrameworkAdoption/README",
+  "id": "Components/TrustFrameworkAdoption/README",
+  "title": "Trust Framework Adoption",
+  "description": "This repository contains extensions and documentation for enforcing Trust Framework compliance into EDC components.",
+  "source": "@site/docs/Components/TrustFrameworkAdoption/README.md",
+  "sourceDirName": "Components/TrustFrameworkAdoption",
+  "slug": "/Components/TrustFrameworkAdoption/",
+  "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/TrustFrameworkAdoption/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/"
+  },
+  "next": {
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/CONTRIBUTING"
+  }
+}

@@ -1,0 +1,373 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/edc-docs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/edc-docs/docs",
+          "mainDocId": "README",
+          "docs": [
+            {
+              "id": "404",
+              "path": "/edc-docs/docs/404"
+            },
+            {
+              "id": "hands-on",
+              "path": "/edc-docs/docs/hands-on",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "publications",
+              "path": "/edc-docs/docs/publications"
+            },
+            {
+              "id": "README",
+              "path": "/edc-docs/docs/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/Collateral/Events/Conferences/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Events/Conferences/"
+            },
+            {
+              "id": "submodule/Collateral/Events/Hackathons/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Events/Hackathons/"
+            },
+            {
+              "id": "submodule/Collateral/Events/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Events/"
+            },
+            {
+              "id": "submodule/Collateral/Events/Workshops/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Events/Workshops/"
+            },
+            {
+              "id": "submodule/Collateral/Latest Presentations/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Latest Presentations/"
+            },
+            {
+              "id": "submodule/Collateral/README",
+              "path": "/edc-docs/docs/submodule/Collateral/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/Collateral/Work Content/README",
+              "path": "/edc-docs/docs/submodule/Collateral/Work Content/"
+            },
+            {
+              "id": "submodule/DataDashboard/CHANGELOG",
+              "path": "/edc-docs/docs/submodule/DataDashboard/CHANGELOG"
+            },
+            {
+              "id": "submodule/DataDashboard/CODE_OF_CONDUCT",
+              "path": "/edc-docs/docs/submodule/DataDashboard/CODE_OF_CONDUCT"
+            },
+            {
+              "id": "submodule/DataDashboard/docs/developer/continuous_deployment",
+              "path": "/edc-docs/docs/submodule/DataDashboard/docs/developer/continuous_deployment"
+            },
+            {
+              "id": "submodule/DataDashboard/docs/developer/decision-records/README",
+              "path": "/edc-docs/docs/submodule/DataDashboard/docs/developer/decision-records/"
+            },
+            {
+              "id": "submodule/DataDashboard/docs/templates/decision-record",
+              "path": "/edc-docs/docs/submodule/DataDashboard/docs/templates/decision-record"
+            },
+            {
+              "id": "submodule/DataDashboard/docs/templates/README",
+              "path": "/edc-docs/docs/submodule/DataDashboard/docs/templates/"
+            },
+            {
+              "id": "submodule/DataDashboard/README",
+              "path": "/edc-docs/docs/submodule/DataDashboard/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/DataDashboard/SECURITY",
+              "path": "/edc-docs/docs/submodule/DataDashboard/SECURITY"
+            },
+            {
+              "id": "submodule/DataDashboard/src/modules/edc-dmgmt-client/README",
+              "path": "/edc-docs/docs/submodule/DataDashboard/src/modules/edc-dmgmt-client/"
+            },
+            {
+              "id": "submodule/DataDashboard/SUPPORT",
+              "path": "/edc-docs/docs/submodule/DataDashboard/SUPPORT"
+            },
+            {
+              "id": "submodule/FederatedCatalog/CONTRIBUTING",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/CONTRIBUTING"
+            },
+            {
+              "id": "submodule/FederatedCatalog/core/docs/federated_catalog",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/core/docs/federated_catalog"
+            },
+            {
+              "id": "submodule/FederatedCatalog/core/docs/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/core/docs/"
+            },
+            {
+              "id": "submodule/FederatedCatalog/core/federated-catalog/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/core/federated-catalog/"
+            },
+            {
+              "id": "submodule/FederatedCatalog/docs/developer/decision-records/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/docs/developer/decision-records/"
+            },
+            {
+              "id": "submodule/FederatedCatalog/docs/templates/decision-record",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/decision-record"
+            },
+            {
+              "id": "submodule/FederatedCatalog/docs/templates/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/docs/templates/"
+            },
+            {
+              "id": "submodule/FederatedCatalog/extensions/store/fcc-node-directory-cosmos/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/extensions/store/fcc-node-directory-cosmos/"
+            },
+            {
+              "id": "submodule/FederatedCatalog/NOTICE",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/NOTICE"
+            },
+            {
+              "id": "submodule/FederatedCatalog/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/FederatedCatalog/SECURITY",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/SECURITY"
+            },
+            {
+              "id": "submodule/FederatedCatalog/spi/federated-catalog-spi/README",
+              "path": "/edc-docs/docs/submodule/FederatedCatalog/spi/federated-catalog-spi/"
+            },
+            {
+              "id": "submodule/GradlePlugins/CONTRIBUTING",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/CONTRIBUTING"
+            },
+            {
+              "id": "submodule/GradlePlugins/docs/developer/autodoc",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/docs/developer/autodoc"
+            },
+            {
+              "id": "submodule/GradlePlugins/NOTICE",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/NOTICE"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-plugin/"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/autodoc/autodoc-processor/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/autodoc/autodoc-processor/"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/edc-build/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/edc-build/"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/module-names/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/module-names/"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/openapi-merger/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/openapi-merger/"
+            },
+            {
+              "id": "submodule/GradlePlugins/plugins/test-summary/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/plugins/test-summary/"
+            },
+            {
+              "id": "submodule/GradlePlugins/README",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/GradlePlugins/SECURITY",
+              "path": "/edc-docs/docs/submodule/GradlePlugins/SECURITY"
+            },
+            {
+              "id": "submodule/IdentityHub/CHANGELOG",
+              "path": "/edc-docs/docs/submodule/IdentityHub/CHANGELOG"
+            },
+            {
+              "id": "submodule/IdentityHub/client-cli/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/client-cli/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-06-08-identity-hub/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-07-01-get-claims/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-07-29-self-description/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/2022-08-12-code-quality-tooling/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/decision-records/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/decision-records/"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/developer/openapi",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/developer/openapi"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/templates/decision-record",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/templates/decision-record"
+            },
+            {
+              "id": "submodule/IdentityHub/docs/templates/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/docs/templates/"
+            },
+            {
+              "id": "submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/extensions/store/sql/identity-hub-store-sql/"
+            },
+            {
+              "id": "submodule/IdentityHub/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/IdentityHub/system-tests/README",
+              "path": "/edc-docs/docs/submodule/IdentityHub/system-tests/"
+            },
+            {
+              "id": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",
+              "path": "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture"
+            },
+            {
+              "id": "submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+              "path": "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations"
+            },
+            {
+              "id": "submodule/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces",
+              "path": "/edc-docs/docs/submodule/Publications/Dataspaces/Sovereign enterprise data sharing based on dataspaces"
+            },
+            {
+              "id": "submodule/Publications/Identity Management/DID_EDC",
+              "path": "/edc-docs/docs/submodule/Publications/Identity Management/DID_EDC"
+            },
+            {
+              "id": "submodule/Publications/White paper/A User Journey to Dataspaces",
+              "path": "/edc-docs/docs/submodule/Publications/White paper/A User Journey to Dataspaces"
+            },
+            {
+              "id": "submodule/Publications/White paper/user_journey_images/readme",
+              "path": "/edc-docs/docs/submodule/Publications/White paper/user_journey_images/"
+            },
+            {
+              "id": "submodule/RegistrationService/CHANGELOG",
+              "path": "/edc-docs/docs/submodule/RegistrationService/CHANGELOG"
+            },
+            {
+              "id": "submodule/RegistrationService/client-cli/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/client-cli/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-09-cli/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-07-01-service-authentication/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-02-participant-status/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-03-membership-credential/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/2022-08-15-code-quality-tooling/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/decision-records/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/decision-records/"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/developer/openapi",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/developer/openapi"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/templates/decision-record",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/templates/decision-record"
+            },
+            {
+              "id": "submodule/RegistrationService/docs/templates/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/docs/templates/"
+            },
+            {
+              "id": "submodule/RegistrationService/extensions/store/sql/participant-store-sql/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/extensions/store/sql/participant-store-sql/"
+            },
+            {
+              "id": "submodule/RegistrationService/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "submodule/RegistrationService/system-tests/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/system-tests/"
+            },
+            {
+              "id": "submodule/RegistrationService/system-tests/resources/webdid/README",
+              "path": "/edc-docs/docs/submodule/RegistrationService/system-tests/resources/webdid/"
+            },
+            {
+              "id": "submodule/TrustFrameworkAdoption/CONTRIBUTING",
+              "path": "/edc-docs/docs/submodule/TrustFrameworkAdoption/CONTRIBUTING"
+            },
+            {
+              "id": "submodule/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+              "path": "/edc-docs/docs/submodule/TrustFrameworkAdoption/extensions/common/trust-framework-policies/"
+            },
+            {
+              "id": "submodule/TrustFrameworkAdoption/README",
+              "path": "/edc-docs/docs/submodule/TrustFrameworkAdoption/",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/edc-docs/docs/",
+                "label": "README"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

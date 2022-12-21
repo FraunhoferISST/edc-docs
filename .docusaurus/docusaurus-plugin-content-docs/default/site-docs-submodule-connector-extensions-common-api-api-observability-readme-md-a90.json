@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/api/api-observability/README",
+  "id": "submodule/Connector/extensions/common/api/api-observability/README",
+  "title": "Connector Observability API",
+  "description": "This API exposes information about this runtime's health status by accessing the internal HealthCheckService. In order",
+  "source": "@site/docs/submodule/Connector/extensions/common/api/api-observability/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/api/api-observability",
+  "slug": "/submodule/Connector/extensions/common/api/api-observability/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/api/api-observability/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/api/api-observability/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

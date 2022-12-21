@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/core/data-plane/data-plane-framework/README",
+  "id": "submodule/Connector/core/data-plane/data-plane-framework/README",
+  "title": "Data Plane Framework Extension",
+  "description": "TODO",
+  "source": "@site/docs/submodule/Connector/core/data-plane/data-plane-framework/README.md",
+  "sourceDirName": "submodule/Connector/core/data-plane/data-plane-framework",
+  "slug": "/submodule/Connector/core/data-plane/data-plane-framework/",
+  "permalink": "/edc-docs/docs/submodule/Connector/core/data-plane/data-plane-framework/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/core/data-plane/data-plane-framework/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

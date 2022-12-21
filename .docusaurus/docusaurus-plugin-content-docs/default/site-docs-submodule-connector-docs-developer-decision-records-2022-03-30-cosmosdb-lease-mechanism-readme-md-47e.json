@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/README",
+  "title": "Cosmos DB lease mechanism",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

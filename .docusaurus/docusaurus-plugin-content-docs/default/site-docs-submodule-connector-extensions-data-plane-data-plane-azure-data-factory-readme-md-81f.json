@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/README",
+  "id": "submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/README",
+  "title": "Azure Data Factory module",
+  "description": "This module for the Data Plane Framework provides a transfer service for",
+  "source": "@site/docs/submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/README.md",
+  "sourceDirName": "submodule/Connector/extensions/data-plane/data-plane-azure-data-factory",
+  "slug": "/submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/data-plane/data-plane-azure-data-factory/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

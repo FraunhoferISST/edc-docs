@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/README",
+  "title": "README",
+  "description": "This decision record consists of two parts:",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Aggregate Service layer",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/"
+  },
+  "next": {
+    "title": "Decision",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/documentation"
+  }
+}

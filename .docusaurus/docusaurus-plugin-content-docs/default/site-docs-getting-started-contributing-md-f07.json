@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Getting Started/CONTRIBUTING",
+  "id": "Getting Started/CONTRIBUTING",
+  "title": "Contributing to the Project",
+  "description": "Thank you for your interest in contributing to",
+  "source": "@site/docs/Getting Started/CONTRIBUTING.md",
+  "sourceDirName": "Getting Started",
+  "slug": "/Getting Started/CONTRIBUTING",
+  "permalink": "/edc-docs/docs/Getting Started/CONTRIBUTING",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/CONTRIBUTING.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Getting Started",
+    "permalink": "/edc-docs/docs/category/getting-started"
+  },
+  "next": {
+    "title": "Hands-on",
+    "permalink": "/edc-docs/docs/Getting Started/hands-on"
+  }
+}

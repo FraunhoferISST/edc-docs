@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+  "id": "Components/GradlePlugins/plugins/autodoc/autodoc-plugin/README",
+  "title": "README",
+  "description": "This module contains a gradle plugin the uses",
+  "source": "@site/docs/Components/GradlePlugins/plugins/autodoc/autodoc-plugin/README.md",
+  "sourceDirName": "Components/GradlePlugins/plugins/autodoc/autodoc-plugin",
+  "slug": "/Components/GradlePlugins/plugins/autodoc/autodoc-plugin/",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/autodoc/autodoc-plugin/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/plugins/autodoc/autodoc-plugin/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The `autodoc` Gradle Plugin",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/docs/developer/autodoc"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/plugins/autodoc/autodoc-processor/"
+  }
+}

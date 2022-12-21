@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README",
+  "id": "Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README",
+  "title": "State Machine",
+  "description": "Decision",
+  "source": "@site/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine",
+  "slug": "/Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-15-state-machine/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Registration Service API",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/"
+  },
+  "next": {
+    "title": "HTTP Ports",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-29-http-ports/"
+  }
+}

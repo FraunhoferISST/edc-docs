@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/README",
+  "id": "submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/README",
+  "title": "SQL Pool Apache Commons Pool",
+  "description": "This extension registers named javax.sql.DataSources to",
+  "source": "@site/docs/submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons",
+  "slug": "/submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/sql/sql-pool/sql-pool-apache-commons/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

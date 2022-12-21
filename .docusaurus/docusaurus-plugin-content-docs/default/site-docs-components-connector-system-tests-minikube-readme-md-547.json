@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/system-tests/minikube/README",
+  "id": "Components/Connector/system-tests/minikube/README",
+  "title": "File transfer system tests",
+  "description": "This system test serves to validate both the connector runtime and the EDC Helm chart with an end-to-end flow.",
+  "source": "@site/docs/Components/Connector/system-tests/minikube/README.md",
+  "sourceDirName": "Components/Connector/system-tests/minikube",
+  "slug": "/Components/Connector/system-tests/minikube/",
+  "permalink": "/edc-docs/docs/Components/Connector/system-tests/minikube/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/system-tests/minikube/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "EndToEnd Transfer Test",
+    "permalink": "/edc-docs/docs/Components/Connector/system-tests/e2e-transfer-test/"
+  },
+  "next": {
+    "title": "EDC Data Dashboard",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/"
+  }
+}

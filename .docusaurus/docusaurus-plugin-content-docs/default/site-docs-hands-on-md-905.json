@@ -1,0 +1,24 @@
+{
+  "unversionedId": "hands-on",
+  "id": "hands-on",
+  "title": "Hands-on",
+  "description": "- Build and run a monolithic connector",
+  "source": "@site/docs/hands-on.md",
+  "sourceDirName": ".",
+  "slug": "/hands-on",
+  "permalink": "/edc-docs/docs/hands-on",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/hands-on.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Eclipse Dataspace Components",
+    "permalink": "/edc-docs/docs/"
+  },
+  "next": {
+    "title": "EDC Data Dashboard",
+    "permalink": "/edc-docs/docs/submodule/DataDashboard/"
+  }
+}

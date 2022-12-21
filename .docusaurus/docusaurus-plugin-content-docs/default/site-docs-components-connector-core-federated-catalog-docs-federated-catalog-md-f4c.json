@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/core/federated-catalog/docs/federated_catalog",
+  "id": "Components/Connector/core/federated-catalog/docs/federated_catalog",
+  "title": "federated_catalog",
+  "description": "General thoughts",
+  "source": "@site/docs/Components/Connector/core/federated-catalog/docs/federated_catalog.md",
+  "sourceDirName": "Components/Connector/core/federated-catalog/docs",
+  "slug": "/Components/Connector/core/federated-catalog/docs/federated_catalog",
+  "permalink": "/edc-docs/docs/Components/Connector/core/federated-catalog/docs/federated_catalog",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/core/federated-catalog/docs/federated_catalog.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/core/federated-catalog/docs/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/core/federated-catalog/federated-catalog-core/"
+  }
+}

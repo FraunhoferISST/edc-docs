@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README",
+  "title": "Add creation and update timestamp",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "TransferProcess new \"Provisioning Requested\" state",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/"
+  },
+  "next": {
+    "title": "Unify asynchronous code testing practices",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/"
+  }
+}

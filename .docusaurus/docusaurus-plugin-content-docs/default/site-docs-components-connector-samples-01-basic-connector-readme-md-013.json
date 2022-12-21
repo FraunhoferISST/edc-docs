@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/samples/basic-connector/README",
+  "id": "Components/Connector/samples/basic-connector/README",
+  "title": "Running a simple connector",
+  "description": "A runnable connector consists of a Runtime and a build file, in our case this is a build.gradle.kts.",
+  "source": "@site/docs/Components/Connector/samples/01-basic-connector/README.md",
+  "sourceDirName": "Components/Connector/samples/01-basic-connector",
+  "slug": "/Components/Connector/samples/basic-connector/",
+  "permalink": "/edc-docs/docs/Components/Connector/samples/basic-connector/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/samples/01-basic-connector/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Samples",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/"
+  },
+  "next": {
+    "title": "Write your first extension",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/health-endpoint/"
+  }
+}

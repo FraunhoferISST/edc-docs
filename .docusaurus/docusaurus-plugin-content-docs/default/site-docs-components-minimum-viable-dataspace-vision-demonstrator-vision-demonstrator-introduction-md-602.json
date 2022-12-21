@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "id": "Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "title": "Vision Demonstrator Introduction",
+  "description": "Vision Demonstrator",
+  "source": "@site/docs/Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction.md",
+  "sourceDirName": "Components/MinimumViableDataspace/Vision Demonstrator",
+  "slug": "/Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/CHANGELOG"
+  },
+  "next": {
+    "title": "Developer documentation",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/"
+  }
+}

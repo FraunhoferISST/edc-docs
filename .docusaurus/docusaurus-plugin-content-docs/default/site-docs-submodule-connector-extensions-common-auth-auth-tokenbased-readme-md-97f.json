@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/common/auth/auth-tokenbased/README",
+  "id": "submodule/Connector/extensions/common/auth/auth-tokenbased/README",
+  "title": "Token Based Authentication Service",
+  "description": "The token based authentication service extension is used to secure connector APIs. These APIs are not protected by the AuthenticationService by default. To find out how a specific API is protected please consult its documentation.",
+  "source": "@site/docs/submodule/Connector/extensions/common/auth/auth-tokenbased/README.md",
+  "sourceDirName": "submodule/Connector/extensions/common/auth/auth-tokenbased",
+  "slug": "/submodule/Connector/extensions/common/auth/auth-tokenbased/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/common/auth/auth-tokenbased/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/common/auth/auth-tokenbased/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README",
+  "title": "Swagger annotations",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Policy Scopes",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-15-policy-scopes/"
+  },
+  "next": {
+    "title": "Cosmos DB lease mechanism",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-03-30-cosmosdb-lease-mechanism/"
+  }
+}

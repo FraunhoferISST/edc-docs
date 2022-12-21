@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/pr_etiquette",
+  "id": "submodule/Connector/pr_etiquette",
+  "title": "Etiquette for pull requests",
+  "description": "As an author",
+  "source": "@site/docs/submodule/Connector/pr_etiquette.md",
+  "sourceDirName": "submodule/Connector",
+  "slug": "/submodule/Connector/pr_etiquette",
+  "permalink": "/edc-docs/docs/submodule/Connector/pr_etiquette",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/pr_etiquette.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

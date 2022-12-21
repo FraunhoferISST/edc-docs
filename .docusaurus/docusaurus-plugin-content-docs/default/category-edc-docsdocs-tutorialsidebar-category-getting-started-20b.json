@@ -1,0 +1,16 @@
+{
+  "title": "Getting Started",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/getting-started",
+  "permalink": "/edc-docs/docs/category/getting-started",
+  "navigation": {
+    "previous": {
+      "title": "home",
+      "permalink": "/edc-docs/docs/"
+    },
+    "next": {
+      "title": "Contributing to the Project",
+      "permalink": "/edc-docs/docs/Getting Started/CONTRIBUTING"
+    }
+  }
+}

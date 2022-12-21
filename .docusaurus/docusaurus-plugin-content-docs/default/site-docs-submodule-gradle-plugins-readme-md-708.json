@@ -1,0 +1,24 @@
+{
+  "unversionedId": "submodule/GradlePlugins/README",
+  "id": "submodule/GradlePlugins/README",
+  "title": "Gradle Plugins for EDC",
+  "description": "This repository contains various plugins for the EDC Gradle build. They are accessible through the Gradle Plugin Portal",
+  "source": "@site/docs/submodule/GradlePlugins/README.md",
+  "sourceDirName": "submodule/GradlePlugins",
+  "slug": "/submodule/GradlePlugins/",
+  "permalink": "/edc-docs/docs/submodule/GradlePlugins/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/GradlePlugins/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Federated Catalog Cache",
+    "permalink": "/edc-docs/docs/submodule/FederatedCatalog/"
+  },
+  "next": {
+    "title": "Identity Hub",
+    "permalink": "/edc-docs/docs/submodule/IdentityHub/"
+  }
+}

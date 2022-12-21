@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Documents/Collateral/Events/Conferences/README",
+  "id": "Documents/Collateral/Events/Conferences/README",
+  "title": "Conferences",
+  "description": "| YYYY-MM   | Name | Presentation | Download",
+  "source": "@site/docs/Documents/Collateral/Events/Conferences/README.md",
+  "sourceDirName": "Documents/Collateral/Events/Conferences",
+  "slug": "/Documents/Collateral/Events/Conferences/",
+  "permalink": "/edc-docs/docs/Documents/Collateral/Events/Conferences/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/Conferences/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/edc-docs/docs/Documents/Collateral/Events/"
+  },
+  "next": {
+    "title": "Hackathons",
+    "permalink": "/edc-docs/docs/Documents/Collateral/Events/Hackathons/"
+  }
+}

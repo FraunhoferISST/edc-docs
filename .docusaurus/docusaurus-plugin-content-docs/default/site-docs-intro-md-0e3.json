@@ -1,0 +1,20 @@
+{
+  "unversionedId": "intro",
+  "id": "intro",
+  "title": "Tutorial Intro",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/edc-docs/docs/intro",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trust Framework Policy Extension",
+    "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/testing",
+  "id": "Components/Connector/docs/developer/testing",
+  "title": "Writing Tests",
+  "description": "Adding EDC test fixtures",
+  "source": "@site/docs/Components/Connector/docs/developer/testing.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/testing",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/testing",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "State machine",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/state-machine"
+  },
+  "next": {
+    "title": "Templates",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/templates/"
+  }
+}

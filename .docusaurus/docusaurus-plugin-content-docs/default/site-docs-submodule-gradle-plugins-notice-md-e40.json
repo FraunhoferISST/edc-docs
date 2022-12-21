@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/GradlePlugins/NOTICE",
+  "id": "submodule/GradlePlugins/NOTICE",
+  "title": "Notices for Eclipse Dataspace Connector",
+  "description": "This content is produced and maintained by the Eclipse Dash, Tools for",
+  "source": "@site/docs/submodule/GradlePlugins/NOTICE.md",
+  "sourceDirName": "submodule/GradlePlugins",
+  "slug": "/submodule/GradlePlugins/NOTICE",
+  "permalink": "/edc-docs/docs/submodule/GradlePlugins/NOTICE",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/GradlePlugins/NOTICE.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

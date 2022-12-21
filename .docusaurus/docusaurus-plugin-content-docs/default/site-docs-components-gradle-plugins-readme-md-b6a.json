@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/GradlePlugins/README",
+  "id": "Components/GradlePlugins/README",
+  "title": "Gradle Plugins for EDC",
+  "description": "This repository contains various plugins for the EDC Gradle build. They are accessible through the Gradle Plugin Portal",
+  "source": "@site/docs/Components/GradlePlugins/README.md",
+  "sourceDirName": "Components/GradlePlugins",
+  "slug": "/Components/GradlePlugins/",
+  "permalink": "/edc-docs/docs/Components/GradlePlugins/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/GradlePlugins/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/FederatedCatalog/spi/federated-catalog-spi/"
+  },
+  "next": {
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/Components/GradlePlugins/CONTRIBUTING"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/README",
+  "title": "Aggregate Service layer",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-10-31-aggregate-service-layer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Usage of Gradle Version Catalogs",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-10-21-gradle-versioncatalogs/"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-11-09-api-refactoring/"
+  }
+}

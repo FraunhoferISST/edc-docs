@@ -1,0 +1,20 @@
+{
+  "unversionedId": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+  "id": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README",
+  "title": "Trust Framework Policy Extension",
+  "description": "This extension provides a way to register the evaluation functions referenced by the Policies into the Policy Engine. Each evaluation function",
+  "source": "@site/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README.md",
+  "sourceDirName": "Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies",
+  "slug": "/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/",
+  "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/TrustFrameworkAdoption/extensions/common/trust-framework-policies/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/Components/TrustFrameworkAdoption/CONTRIBUTING"
+  }
+}

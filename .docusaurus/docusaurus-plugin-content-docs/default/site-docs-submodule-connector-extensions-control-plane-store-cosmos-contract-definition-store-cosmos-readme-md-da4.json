@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README",
+  "id": "submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README",
+  "title": "CosmosDB implementation of `ContractDefinitionStore`",
+  "description": "This extension provides a persistent implementation of a the ContractDefinitionStore using a CosmosDB container.",
+  "source": "@site/docs/submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README.md",
+  "sourceDirName": "submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos",
+  "slug": "/submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/",
+  "permalink": "/edc-docs/docs/submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/extensions/control-plane/store/cosmos/contract-definition-store-cosmos/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+  "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
+  "title": "Code Quality",
+  "description": "Decision",
+  "source": "@site/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling",
+  "slug": "/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

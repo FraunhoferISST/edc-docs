@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Getting Started/Collateral/Work Content/README",
+  "id": "Getting Started/Collateral/Work Content/README",
+  "title": "Working Groups",
+  "description": "- Usage Control",
+  "source": "@site/docs/Getting Started/Collateral/Work Content/README.md",
+  "sourceDirName": "Getting Started/Collateral/Work Content",
+  "slug": "/Getting Started/Collateral/Work Content/",
+  "permalink": "/edc-docs/docs/Getting Started/Collateral/Work Content/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Getting Started/Collateral/Work Content/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Latest Presentations",
+    "permalink": "/edc-docs/docs/Getting Started/Collateral/Latest Presentations/"
+  },
+  "next": {
+    "title": "Tutorial - Extras",
+    "permalink": "/edc-docs/docs/category/tutorial---extras"
+  }
+}

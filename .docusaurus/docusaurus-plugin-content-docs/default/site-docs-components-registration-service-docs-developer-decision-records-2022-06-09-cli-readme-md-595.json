@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README",
+  "id": "Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README",
+  "title": "Command-Line client",
+  "description": "Decision",
+  "source": "@site/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli",
+  "slug": "/Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/"
+  },
+  "next": {
+    "title": "Registration Service API",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-13-registration-service-api/"
+  }
+}

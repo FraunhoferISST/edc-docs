@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/templates/launcher",
+  "id": "Components/Connector/docs/templates/launcher",
+  "title": "Name of the Launcher",
+  "description": "Briefly describe the purpose and scope of this launcher.",
+  "source": "@site/docs/Components/Connector/docs/templates/launcher.md",
+  "sourceDirName": "Components/Connector/docs/templates",
+  "slug": "/Components/Connector/docs/templates/launcher",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/templates/launcher",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/templates/launcher.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Title of the Extension",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/templates/extension"
+  },
+  "next": {
+    "title": "Extensions",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/"
+  }
+}

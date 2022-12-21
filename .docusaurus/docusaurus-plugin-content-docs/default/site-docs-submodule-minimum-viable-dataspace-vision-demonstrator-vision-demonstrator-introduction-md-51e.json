@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "id": "submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "title": "Vision Demonstrator Introduction",
+  "description": "Vision Demonstrator",
+  "source": "@site/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/Vision Demonstrator",
+  "slug": "/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

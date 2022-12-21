@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/data-protocols/ids/ids-core/README",
+  "id": "submodule/Connector/data-protocols/ids/ids-core/README",
+  "title": "IDS Core",
+  "description": "Included Extensions",
+  "source": "@site/docs/submodule/Connector/data-protocols/ids/ids-core/README.md",
+  "sourceDirName": "submodule/Connector/data-protocols/ids/ids-core",
+  "slug": "/submodule/Connector/data-protocols/ids/ids-core/",
+  "permalink": "/edc-docs/docs/submodule/Connector/data-protocols/ids/ids-core/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/data-protocols/ids/ids-core/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

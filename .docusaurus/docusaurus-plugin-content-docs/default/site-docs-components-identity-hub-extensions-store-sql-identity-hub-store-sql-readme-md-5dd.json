@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+  "id": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README",
+  "title": "SQL Identity Hub store",
+  "description": "Provides SQL persistence for Identity Hub.",
+  "source": "@site/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+  "sourceDirName": "Components/IdentityHub/extensions/store/sql/identity-hub-store-sql",
+  "slug": "/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+  "permalink": "/edc-docs/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/extensions/store/sql/identity-hub-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/templates/decision-record"
+  },
+  "next": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/system-tests/"
+  }
+}

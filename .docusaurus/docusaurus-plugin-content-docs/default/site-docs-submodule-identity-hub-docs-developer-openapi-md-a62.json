@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/IdentityHub/docs/developer/openapi",
+  "id": "submodule/IdentityHub/docs/developer/openapi",
+  "title": "Generating the OpenApi Spec",
+  "description": "It is possible to generate an OpenAPI spec in the form of a *.yaml file by invoking a Gradle",
+  "source": "@site/docs/submodule/IdentityHub/docs/developer/openapi.md",
+  "sourceDirName": "submodule/IdentityHub/docs/developer",
+  "slug": "/submodule/IdentityHub/docs/developer/openapi",
+  "permalink": "/edc-docs/docs/submodule/IdentityHub/docs/developer/openapi",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/IdentityHub/docs/developer/openapi.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

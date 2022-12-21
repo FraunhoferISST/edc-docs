@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "id": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "title": "Initiating a Data Transfer",
+  "description": "Overview",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/edc-data-dashboard",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Browsing Contract Agreements",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements"
+  },
+  "next": {
+    "title": "Negotiating a Contract",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/README",
+  "title": "TransferProcess new \"Provisioning Requested\" state",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-07-28-transfer-process-new-state/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom DTO validation on REST APIs",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-07-27-custom-dto-validation/"
+  },
+  "next": {
+    "title": "Add creation and update timestamp",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/"
+  }
+}

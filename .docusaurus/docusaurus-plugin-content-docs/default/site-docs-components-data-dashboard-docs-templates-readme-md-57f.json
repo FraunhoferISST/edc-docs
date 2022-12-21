@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/docs/templates/README",
+  "id": "Components/DataDashboard/docs/templates/README",
+  "title": "Templates",
+  "description": "Find all provided documentation templates in this folder. Please note that the _italic text",
+  "source": "@site/docs/Components/DataDashboard/docs/templates/README.md",
+  "sourceDirName": "Components/DataDashboard/docs/templates",
+  "slug": "/Components/DataDashboard/docs/templates/",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/docs/templates/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/docs/templates/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/developer/decision-records/"
+  },
+  "next": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/docs/templates/decision-record"
+  }
+}

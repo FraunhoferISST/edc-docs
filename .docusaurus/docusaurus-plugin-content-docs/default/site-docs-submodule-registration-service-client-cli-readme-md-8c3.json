@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/RegistrationService/client-cli/README",
+  "id": "submodule/RegistrationService/client-cli/README",
+  "title": "Command-line client",
+  "description": "The client is a Java JAR that provides access to a registration service via REST.",
+  "source": "@site/docs/submodule/RegistrationService/client-cli/README.md",
+  "sourceDirName": "submodule/RegistrationService/client-cli",
+  "slug": "/submodule/RegistrationService/client-cli/",
+  "permalink": "/edc-docs/docs/submodule/RegistrationService/client-cli/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/RegistrationService/client-cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

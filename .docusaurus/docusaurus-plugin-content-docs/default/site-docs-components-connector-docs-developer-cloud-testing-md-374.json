@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/cloud_testing",
+  "id": "Components/Connector/docs/developer/cloud_testing",
+  "title": "Cloud testing",
+  "description": "Usage",
+  "source": "@site/docs/Components/Connector/docs/developer/cloud_testing.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/cloud_testing",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/cloud_testing",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/cloud_testing.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Build your own connector",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/build-your-own-connector"
+  },
+  "next": {
+    "title": "Using the Command Queue",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/command-queue"
+  }
+}

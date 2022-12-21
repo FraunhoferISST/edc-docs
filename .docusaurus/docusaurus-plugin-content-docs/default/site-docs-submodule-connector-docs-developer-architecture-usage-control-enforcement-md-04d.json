@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/architecture/usage-control/enforcement",
+  "id": "submodule/Connector/docs/developer/architecture/usage-control/enforcement",
+  "title": "Enforcement",
+  "description": "Policy Functions",
+  "source": "@site/docs/submodule/Connector/docs/developer/architecture/usage-control/enforcement.md",
+  "sourceDirName": "submodule/Connector/docs/developer/architecture/usage-control",
+  "slug": "/submodule/Connector/docs/developer/architecture/usage-control/enforcement",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/architecture/usage-control/enforcement",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/architecture/usage-control/enforcement.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

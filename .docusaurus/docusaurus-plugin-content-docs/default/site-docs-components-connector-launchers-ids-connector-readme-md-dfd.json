@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/launchers/ids-connector/README",
+  "id": "Components/Connector/launchers/ids-connector/README",
+  "title": "IDS Connector Launcher",
+  "description": "This launcher includes all extensions that are required for an IDS Connector deployment. That",
+  "source": "@site/docs/Components/Connector/launchers/ids-connector/README.md",
+  "sourceDirName": "Components/Connector/launchers/ids-connector",
+  "slug": "/Components/Connector/launchers/ids-connector/",
+  "permalink": "/edc-docs/docs/Components/Connector/launchers/ids-connector/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/launchers/ids-connector/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generic Connector Launcher",
+    "permalink": "/edc-docs/docs/Components/Connector/launchers/generic/"
+  },
+  "next": {
+    "title": "Onboarding and first steps",
+    "permalink": "/edc-docs/docs/Components/Connector/onboarding"
+  }
+}

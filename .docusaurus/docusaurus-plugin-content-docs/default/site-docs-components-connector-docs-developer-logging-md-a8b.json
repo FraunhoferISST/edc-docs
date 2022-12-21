@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/logging",
+  "id": "Components/Connector/docs/developer/logging",
+  "title": "Logging",
+  "description": "A comprehensive and consistent way of logging is a crucial pillar for operability. Therefore, the following rules should be followed:",
+  "source": "@site/docs/Components/Connector/docs/developer/logging.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/logging",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/logging",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/logging.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Events",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/events"
+  },
+  "next": {
+    "title": "EDC extensions for instrumentation with Micrometer",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/metrics"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Collateral/Latest Presentations/README",
+  "id": "submodule/Collateral/Latest Presentations/README",
+  "title": "Latest Presentations",
+  "description": "- 2022-04-26 Eclipse Dataspace Connector - Overview Deck",
+  "source": "@site/docs/submodule/Collateral/Latest Presentations/README.md",
+  "sourceDirName": "submodule/Collateral/Latest Presentations",
+  "slug": "/submodule/Collateral/Latest Presentations/",
+  "permalink": "/edc-docs/docs/submodule/Collateral/Latest Presentations/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Collateral/Latest Presentations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

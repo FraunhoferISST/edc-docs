@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/azure/azure-resource-manager/README",
+  "id": "Components/Connector/extensions/common/azure/azure-resource-manager/README",
+  "title": "Azure Resource Manager module",
+  "description": "This module provides Azure Identity SDK and Azure Resource Manager SDK objects configured based on runtime settings:",
+  "source": "@site/docs/Components/Connector/extensions/common/azure/azure-resource-manager/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/azure/azure-resource-manager",
+  "slug": "/Components/Connector/extensions/common/azure/azure-resource-manager/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-resource-manager/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/azure/azure-resource-manager/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Storage implementations based on CosmosDB",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-cosmos-core/"
+  },
+  "next": {
+    "title": "Azure Test",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/azure/azure-test/"
+  }
+}

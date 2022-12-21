@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README",
+  "id": "Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README",
+  "title": "README",
+  "description": "Web DID Identity Provider Extension",
+  "source": "@site/docs/Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README.md",
+  "sourceDirName": "Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web",
+  "slug": "/Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/common/iam/decentralized-identity/identity-did-web/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/decentralized-identity/"
+  },
+  "next": {
+    "title": "OAuth 2 Identity Service",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/common/iam/oauth2/oauth2-core/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/events",
+  "id": "Components/Connector/docs/developer/events",
+  "title": "Events",
+  "description": "EDC provides an eventing system that permits to developers to write extensions that could react to events that are",
+  "source": "@site/docs/Components/Connector/docs/developer/events.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/events",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/events",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/events.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Technical concept DPF Selector",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/dpf_selector"
+  },
+  "next": {
+    "title": "Logging",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/logging"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/README",
+  "id": "Components/Connector/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "- 2022-02-03 Integration Testing",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records",
+  "slug": "/Components/Connector/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Custom validation framework",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/custom_validation"
+  },
+  "next": {
+    "title": "Integration testing",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-02-03-integration-testing/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/README",
+  "title": "CodeQL",
+  "description": "CodeQL is a semantic code analysis engine developed by GitHub to automate security checks. A database is extracted from source code that can be analysed with a powerful query language. Each single query can be thought of as a “check” or “rule” representing a distinct security vulnerability that is being searched for. There is an available set of standard CodeQL queries, written by GitHub researchers and community contributors, and custom ones can be written too. See Writing queries in the CodeQL docs for more information.",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-02-11-codeql",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-02-11-codeql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

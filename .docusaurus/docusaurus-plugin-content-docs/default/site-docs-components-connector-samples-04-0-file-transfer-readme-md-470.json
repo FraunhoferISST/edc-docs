@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/samples/04.0-file-transfer/README",
+  "id": "Components/Connector/samples/04.0-file-transfer/README",
+  "title": "Perform a contract negotiation",
+  "description": "After successfully providing custom configuration properties to the EDC, we will perform a data transfer next: transmit",
+  "source": "@site/docs/Components/Connector/samples/04.0-file-transfer/README.md",
+  "sourceDirName": "Components/Connector/samples/04.0-file-transfer",
+  "slug": "/Components/Connector/samples/04.0-file-transfer/",
+  "permalink": "/edc-docs/docs/Components/Connector/samples/04.0-file-transfer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/samples/04.0-file-transfer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Improve the file transfer",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/file-transfer-cloud/"
+  },
+  "next": {
+    "title": "Implement a simple transfer listener",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/04.1-file-transfer-listener/"
+  }
+}

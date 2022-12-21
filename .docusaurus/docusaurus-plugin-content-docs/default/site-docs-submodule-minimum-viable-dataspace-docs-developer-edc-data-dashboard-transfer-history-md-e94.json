@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
+  "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
+  "title": "Browsing the Transfer History",
+  "description": "Overview",
+  "source": "@site/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history.md",
+  "sourceDirName": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard",
+  "slug": "/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
+  "permalink": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

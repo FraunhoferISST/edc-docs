@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/README",
+  "title": "Unify asynchronous code testing practices",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Add creation and update timestamp",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-01-entity-timestamp/"
+  },
+  "next": {
+    "title": "Automated Documentation Tooling",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/FederatedCatalog/SECURITY",
+  "id": "submodule/FederatedCatalog/SECURITY",
+  "title": "Security Policy",
+  "description": "Eclipse Dataspace Connector (EDC) follows",
+  "source": "@site/docs/submodule/FederatedCatalog/SECURITY.md",
+  "sourceDirName": "submodule/FederatedCatalog",
+  "slug": "/submodule/FederatedCatalog/SECURITY",
+  "permalink": "/edc-docs/docs/submodule/FederatedCatalog/SECURITY",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/FederatedCatalog/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

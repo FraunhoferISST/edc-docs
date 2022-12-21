@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README",
+  "title": "Swagger annotations",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-03-15-swagger-annotations/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

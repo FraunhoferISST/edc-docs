@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/IdentityHub/client-cli/README",
+  "id": "Components/IdentityHub/client-cli/README",
+  "title": "Command-line client",
+  "description": "The client is a Java JAR that provides access to an identity hub service via REST.",
+  "source": "@site/docs/Components/IdentityHub/client-cli/README.md",
+  "sourceDirName": "Components/IdentityHub/client-cli",
+  "slug": "/Components/IdentityHub/client-cli/",
+  "permalink": "/edc-docs/docs/Components/IdentityHub/client-cli/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/IdentityHub/client-cli/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/CHANGELOG"
+  },
+  "next": {
+    "title": "Decision Records",
+    "permalink": "/edc-docs/docs/Components/IdentityHub/docs/developer/decision-records/"
+  }
+}

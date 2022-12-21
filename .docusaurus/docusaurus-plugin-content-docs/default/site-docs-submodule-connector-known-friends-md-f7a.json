@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/known_friends",
+  "id": "submodule/Connector/known_friends",
+  "title": "Known Friends of EDC",
+  "description": "To get to know how we define \"adoptions\" and see how to submit a feature, please take a look at our",
+  "source": "@site/docs/submodule/Connector/known_friends.md",
+  "sourceDirName": "submodule/Connector",
+  "slug": "/submodule/Connector/known_friends",
+  "permalink": "/edc-docs/docs/submodule/Connector/known_friends",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/known_friends.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

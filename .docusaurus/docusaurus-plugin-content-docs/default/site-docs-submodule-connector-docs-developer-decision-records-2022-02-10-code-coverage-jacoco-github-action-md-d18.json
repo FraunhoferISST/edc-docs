@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action",
+  "title": "JaCoCo with Github Action",
+  "description": "Code coverage coming from JaCoCo reports can be added to a PR using Github Action JaCoCo Report.",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/jacoco_github_action.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

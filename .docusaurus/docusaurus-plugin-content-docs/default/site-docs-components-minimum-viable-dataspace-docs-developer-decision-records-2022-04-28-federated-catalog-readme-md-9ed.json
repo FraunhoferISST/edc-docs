@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README",
+  "id": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README",
+  "title": "Federated Catalog",
+  "description": "Decision",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decentralized Identity",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/"
+  },
+  "next": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/"
+  }
+}

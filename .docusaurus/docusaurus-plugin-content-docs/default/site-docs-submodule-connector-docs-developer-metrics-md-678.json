@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/metrics",
+  "id": "submodule/Connector/docs/developer/metrics",
+  "title": "EDC extensions for instrumentation with Micrometer",
+  "description": "EDC provides extensions for instrumentation with the Micrometer metrics library to automatically collect metrics from the host system, JVM, and frameworks and libraries used in EDC (including OkHttp, Jetty, Jersey and ExecutorService).",
+  "source": "@site/docs/submodule/Connector/docs/developer/metrics.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/metrics",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/metrics",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/metrics.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

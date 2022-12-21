@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Documents/Publications/White paper/A User Journey to Dataspaces",
+  "id": "Documents/Publications/White paper/A User Journey to Dataspaces",
+  "title": "A User Journey to Dataspaces",
+  "description": "A User Journey to Data Spaces",
+  "source": "@site/docs/Documents/Publications/White paper/A User Journey to Dataspaces.md",
+  "sourceDirName": "Documents/Publications/White paper",
+  "slug": "/Documents/Publications/White paper/A User Journey to Dataspaces",
+  "permalink": "/edc-docs/docs/Documents/Publications/White paper/A User Journey to Dataspaces",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Publications/White paper/A User Journey to Dataspaces.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Decentralized Identifiers and the Eclipse Dataspace Connector",
+    "permalink": "/edc-docs/docs/Documents/Publications/Identity Management/DID_EDC"
+  },
+  "next": {
+    "title": "readme",
+    "permalink": "/edc-docs/docs/Documents/Publications/White paper/user_journey_images/"
+  }
+}

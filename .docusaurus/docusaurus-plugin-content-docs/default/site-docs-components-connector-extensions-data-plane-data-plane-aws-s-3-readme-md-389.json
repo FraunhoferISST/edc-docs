@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/data-plane/data-plane-aws-s3/README",
+  "id": "Components/Connector/extensions/data-plane/data-plane-aws-s3/README",
+  "title": "README",
+  "description": "Aws S3 Data Plane module",
+  "source": "@site/docs/Components/Connector/extensions/data-plane/data-plane-aws-s3/README.md",
+  "sourceDirName": "Components/Connector/extensions/data-plane/data-plane-aws-s3",
+  "slug": "/Components/Connector/extensions/data-plane/data-plane-aws-s3/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-aws-s3/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/data-plane/data-plane-aws-s3/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data Plane API",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-api/"
+  },
+  "next": {
+    "title": "Azure Data Factory module",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/data-plane/data-plane-azure-data-factory/"
+  }
+}

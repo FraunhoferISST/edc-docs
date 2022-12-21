@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/SECURITY",
+  "id": "Components/DataDashboard/SECURITY",
+  "title": "SECURITY",
+  "description": "Security",
+  "source": "@site/docs/Components/DataDashboard/SECURITY.md",
+  "sourceDirName": "Components/DataDashboard",
+  "slug": "/Components/DataDashboard/SECURITY",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/SECURITY",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/SECURITY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/CHANGELOG"
+  },
+  "next": {
+    "title": "TODO: The maintainer of this repo has not yet edited this file",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/SUPPORT"
+  }
+}

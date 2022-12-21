@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/decision-records/README",
+  "id": "Components/MinimumViableDataspace/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "- 2022-04-11 Decentralized Identity",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/decision-records/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/decision-records",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Continuous Deployment",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment"
+  },
+  "next": {
+    "title": "Decentralized Identity",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/"
+  }
+}

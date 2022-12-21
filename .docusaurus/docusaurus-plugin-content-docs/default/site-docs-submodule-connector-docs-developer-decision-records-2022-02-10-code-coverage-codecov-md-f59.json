@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "title": "JaCoCo with Codecov",
+  "description": "Evaluation",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-02-10-code-coverage/codecov.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

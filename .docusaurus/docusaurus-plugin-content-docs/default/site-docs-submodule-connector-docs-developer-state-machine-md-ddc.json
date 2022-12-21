@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/state-machine",
+  "id": "submodule/Connector/docs/developer/state-machine",
+  "title": "State machine",
+  "description": "EDC provides a lightweight framework to facilitate the development of persistent state machines.",
+  "source": "@site/docs/submodule/Connector/docs/developer/state-machine.md",
+  "sourceDirName": "submodule/Connector/docs/developer",
+  "slug": "/submodule/Connector/docs/developer/state-machine",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/state-machine",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/state-machine.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

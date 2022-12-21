@@ -1,0 +1,24 @@
+{
+  "unversionedId": "home",
+  "id": "home",
+  "title": "home",
+  "description": "Eclipse Dataspace Components",
+  "source": "@site/docs/home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/edc-docs/docs/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/home.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Page not found",
+    "permalink": "/edc-docs/docs/404"
+  }
+}

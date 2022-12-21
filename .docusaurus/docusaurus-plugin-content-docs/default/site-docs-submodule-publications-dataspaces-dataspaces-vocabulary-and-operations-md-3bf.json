@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+  "id": "submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+  "title": "Dataspaces Vocabulary and Operations",
+  "description": "How to read this document",
+  "source": "@site/docs/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations.md",
+  "sourceDirName": "submodule/Publications/Dataspaces",
+  "slug": "/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+  "permalink": "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Publications/Dataspaces/Dataspaces Vocabulary and Operations.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

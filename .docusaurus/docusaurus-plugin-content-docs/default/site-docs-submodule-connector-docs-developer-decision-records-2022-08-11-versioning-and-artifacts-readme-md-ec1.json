@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/README",
+  "id": "submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/README",
+  "title": "Versioning concept for MVD",
+  "description": "Decision",
+  "source": "@site/docs/submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/README.md",
+  "sourceDirName": "submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts",
+  "slug": "/submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/",
+  "permalink": "/edc-docs/docs/submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/docs/developer/decision-records/2022-08-11-versioning_and_artifacts/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README",
+  "id": "Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README",
+  "title": "Automated Documentation Tooling",
+  "description": "Decision",
+  "source": "@site/docs/Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README.md",
+  "sourceDirName": "Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation",
+  "slug": "/Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/decision-records/2022-08-04-documentation-automation/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Unify asynchronous code testing practices",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-04-async-code-testing-practices/"
+  },
+  "next": {
+    "title": "Title of the Decision Record",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/decision-records/2022-08-09-project-structure-review/"
+  }
+}

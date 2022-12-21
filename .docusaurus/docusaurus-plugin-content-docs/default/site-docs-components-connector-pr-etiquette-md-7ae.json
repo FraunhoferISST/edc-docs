@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/pr_etiquette",
+  "id": "Components/Connector/pr_etiquette",
+  "title": "Etiquette for pull requests",
+  "description": "As an author",
+  "source": "@site/docs/Components/Connector/pr_etiquette.md",
+  "sourceDirName": "Components/Connector",
+  "slug": "/Components/Connector/pr_etiquette",
+  "permalink": "/edc-docs/docs/Components/Connector/pr_etiquette",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/pr_etiquette.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Onboarding and first steps",
+    "permalink": "/edc-docs/docs/Components/Connector/onboarding"
+  },
+  "next": {
+    "title": "Samples",
+    "permalink": "/edc-docs/docs/Components/Connector/samples/"
+  }
+}

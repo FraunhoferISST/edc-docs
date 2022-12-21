@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Components/Gradle Plugin",
+  "id": "Components/Gradle Plugin",
+  "title": "Gradle Plugins for EDC",
+  "description": "This repository contains various plugins for the EDC Gradle build. They are accessible through the Gradle Plugin Portal",
+  "source": "@site/docs/Components/Gradle Plugin.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/Gradle Plugin",
+  "permalink": "/edc-docs/docs/Components/Gradle Plugin",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Gradle Plugin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Federated Catalog Cache",
+    "permalink": "/edc-docs/docs/Components/Federated Catalog"
+  },
+  "next": {
+    "title": "Registration Service",
+    "permalink": "/edc-docs/docs/Components/Registration Service"
+  }
+}

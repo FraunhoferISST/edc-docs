@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/FederatedCatalog/README",
+  "id": "Components/FederatedCatalog/README",
+  "title": "Federated Catalog Cache",
+  "description": "This repository contains an implementation for a Federated Catalog intended for use in the EDC project.",
+  "source": "@site/docs/Components/FederatedCatalog/README.md",
+  "sourceDirName": "Components/FederatedCatalog",
+  "slug": "/Components/FederatedCatalog/",
+  "permalink": "/edc-docs/docs/Components/FederatedCatalog/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/FederatedCatalog/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "README",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/src/modules/edc-dmgmt-client/"
+  },
+  "next": {
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/Components/FederatedCatalog/CONTRIBUTING"
+  }
+}

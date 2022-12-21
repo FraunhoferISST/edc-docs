@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Components/Data Deshboard",
+  "id": "Components/Data Deshboard",
+  "title": "EDC Data Dashboard",
+  "description": "Please note: This repository does not contain production-grade code and is only intended for demonstration purposes.",
+  "source": "@site/docs/Components/Data Deshboard.md",
+  "sourceDirName": "Components",
+  "slug": "/Components/Data Deshboard",
+  "permalink": "/edc-docs/docs/Components/Data Deshboard",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Data Deshboard.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Publications",
+    "permalink": "/edc-docs/docs/Documents/publications"
+  },
+  "next": {
+    "title": "Federated Catalog Cache",
+    "permalink": "/edc-docs/docs/Components/Federated Catalog"
+  }
+}

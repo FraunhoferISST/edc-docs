@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Documents/Collateral/Events/README",
+  "id": "Documents/Collateral/Events/README",
+  "title": "Events",
+  "description": "You may take a look at the slides if you missed an event, or use the content if you want to do a",
+  "source": "@site/docs/Documents/Collateral/Events/README.md",
+  "sourceDirName": "Documents/Collateral/Events",
+  "slug": "/Documents/Collateral/Events/",
+  "permalink": "/edc-docs/docs/Documents/Collateral/Events/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Documents/Collateral/Events/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Collateral",
+    "permalink": "/edc-docs/docs/Documents/Collateral/"
+  },
+  "next": {
+    "title": "Conferences",
+    "permalink": "/edc-docs/docs/Documents/Collateral/Events/Conferences/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/RegistrationService/docs/developer/decision-records/README",
+  "id": "Components/RegistrationService/docs/developer/decision-records/README",
+  "title": "Decision Records",
+  "description": "- 2022-06-09 CLI",
+  "source": "@site/docs/Components/RegistrationService/docs/developer/decision-records/README.md",
+  "sourceDirName": "Components/RegistrationService/docs/developer/decision-records",
+  "slug": "/Components/RegistrationService/docs/developer/decision-records/",
+  "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/RegistrationService/docs/developer/decision-records/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Command-line client",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/client-cli/"
+  },
+  "next": {
+    "title": "Command-Line client",
+    "permalink": "/edc-docs/docs/Components/RegistrationService/docs/developer/decision-records/2022-06-09-cli/"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/README",
+  "id": "Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/README",
+  "title": "SQL Policy Store",
+  "description": "Provides SQL persistence for policies.",
+  "source": "@site/docs/Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/README.md",
+  "sourceDirName": "Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql",
+  "slug": "/Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/",
+  "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/extensions/control-plane/store/sql/policy-definition-store-sql/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "SQL-based `ContractNegotiationStore` - technical proposal",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/contract-negotiation-store-sql/"
+  },
+  "next": {
+    "title": "SQL-based `TransferProcessStore` - technical proposal",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/control-plane/store/sql/transfer-process-store-sql/"
+  }
+}

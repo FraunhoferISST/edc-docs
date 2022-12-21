@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/known_friends",
+  "id": "Components/Connector/known_friends",
+  "title": "Known Friends of EDC",
+  "description": "To get to know how we define \"adoptions\" and see how to submit a feature, please take a look at our",
+  "source": "@site/docs/Components/Connector/known_friends.md",
+  "sourceDirName": "Components/Connector",
+  "slug": "/Components/Connector/known_friends",
+  "permalink": "/edc-docs/docs/Components/Connector/known_friends",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/known_friends.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "CosmosDB implementation of `FederatedCacheNodeDirectory`",
+    "permalink": "/edc-docs/docs/Components/Connector/extensions/federated-catalog/store/fcc-node-directory-cosmos/"
+  },
+  "next": {
+    "title": "Launchers",
+    "permalink": "/edc-docs/docs/Components/Connector/launchers/"
+  }
+}

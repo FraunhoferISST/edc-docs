@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/Connector/docs/developer/README",
+  "id": "Components/Connector/docs/developer/README",
+  "title": "Developer Documentation",
+  "description": "- Architecture",
+  "source": "@site/docs/Components/Connector/docs/developer/README.md",
+  "sourceDirName": "Components/Connector/docs/developer",
+  "slug": "/Components/Connector/docs/developer/",
+  "permalink": "/edc-docs/docs/Components/Connector/docs/developer/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/Connector/docs/developer/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "IDS Token Validation",
+    "permalink": "/edc-docs/docs/Components/Connector/data-protocols/ids/ids-token-validation/"
+  },
+  "next": {
+    "title": "Architecture",
+    "permalink": "/edc-docs/docs/Components/Connector/docs/developer/architecture/"
+  }
+}

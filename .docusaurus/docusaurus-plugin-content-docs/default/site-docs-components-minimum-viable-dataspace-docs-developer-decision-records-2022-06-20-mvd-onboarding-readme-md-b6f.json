@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
+  "id": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
+  "title": "Participants onboarding in MVD",
+  "description": "This document outlines the infrastructure steps for the scenario of onboarding participants to the Minimum Viable Dataspace (MVD).",
+  "source": "@site/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README.md",
+  "sourceDirName": "Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding",
+  "slug": "/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/",
+  "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Distributed authorization sub-flow",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/"
+  },
+  "next": {
+    "title": "Deployment of Azure Key Vault secrets",
+    "permalink": "/edc-docs/docs/Components/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/"
+  }
+}

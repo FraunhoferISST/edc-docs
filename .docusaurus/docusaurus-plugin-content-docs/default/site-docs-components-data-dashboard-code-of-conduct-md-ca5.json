@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Components/DataDashboard/CODE_OF_CONDUCT",
+  "id": "Components/DataDashboard/CODE_OF_CONDUCT",
+  "title": "Microsoft Open Source Code of Conduct",
+  "description": "This project has adopted the Microsoft Open Source Code of Conduct.",
+  "source": "@site/docs/Components/DataDashboard/CODE_OF_CONDUCT.md",
+  "sourceDirName": "Components/DataDashboard",
+  "slug": "/Components/DataDashboard/CODE_OF_CONDUCT",
+  "permalink": "/edc-docs/docs/Components/DataDashboard/CODE_OF_CONDUCT",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/Components/DataDashboard/CODE_OF_CONDUCT.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Changelog",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/CHANGELOG"
+  },
+  "next": {
+    "title": "SECURITY",
+    "permalink": "/edc-docs/docs/Components/DataDashboard/SECURITY"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "unversionedId": "submodule/Connector/core/data-plane/data-plane-util/README",
+  "id": "submodule/Connector/core/data-plane/data-plane-util/README",
+  "title": "Data Plane Util",
+  "description": "Utility module for the data-plane",
+  "source": "@site/docs/submodule/Connector/core/data-plane/data-plane-util/README.md",
+  "sourceDirName": "submodule/Connector/core/data-plane/data-plane-util",
+  "slug": "/submodule/Connector/core/data-plane/data-plane-util/",
+  "permalink": "/edc-docs/docs/submodule/Connector/core/data-plane/data-plane-util/",
+  "draft": false,
+  "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/core/data-plane/data-plane-util/README.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}
