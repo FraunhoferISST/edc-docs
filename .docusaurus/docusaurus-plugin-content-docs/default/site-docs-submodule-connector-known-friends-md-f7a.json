@@ -11,5 +11,14 @@
   "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/known_friends.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hands-on",
+    "permalink": "/edc-docs/docs/hands-on"
+  },
+  "next": {
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/submodule/Connector/CONTRIBUTING"
+  }
 }

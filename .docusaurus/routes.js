@@ -9,7 +9,7 @@ export default [
   },
   {
     path: '/edc-docs/docs',
-    component: ComponentCreator('/edc-docs/docs', '46b'),
+    component: ComponentCreator('/edc-docs/docs', 'e5d'),
     routes: [
       {
         path: '/edc-docs/docs/',
@@ -76,8 +76,9 @@ export default [
       },
       {
         path: '/edc-docs/docs/submodule/Connector/CONTRIBUTING',
-        component: ComponentCreator('/edc-docs/docs/submodule/Connector/CONTRIBUTING', '16e'),
-        exact: true
+        component: ComponentCreator('/edc-docs/docs/submodule/Connector/CONTRIBUTING', 'd6b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
       },
       {
         path: '/edc-docs/docs/submodule/Connector/contribution_categories',
@@ -841,8 +842,9 @@ export default [
       },
       {
         path: '/edc-docs/docs/submodule/Connector/known_friends',
-        component: ComponentCreator('/edc-docs/docs/submodule/Connector/known_friends', 'f77'),
-        exact: true
+        component: ComponentCreator('/edc-docs/docs/submodule/Connector/known_friends', 'fc4'),
+        exact: true,
+        sidebar: "tutorialSidebar"
       },
       {
         path: '/edc-docs/docs/submodule/Connector/launchers/',
@@ -1176,131 +1178,6 @@ export default [
       {
         path: '/edc-docs/docs/submodule/IdentityHub/system-tests/',
         component: ComponentCreator('/edc-docs/docs/submodule/IdentityHub/system-tests/', '64a'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/', '24b'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/CHANGELOG',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/CHANGELOG', '282'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/', '592'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment', '361'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/', '80f'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/', 'a1d'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/', 'eb3'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/', 'dfa'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/', 'fea'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/', '072'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/', 'c77'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/', 'dc3'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/', '974'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset', '827'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy', 'b2d'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements', '041'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer', '9c3'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract', 'd07'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset', '7b3'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history', '18d'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog', 'cda'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/', '8c9'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/decision-record',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/decision-record', '286'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/system-tests/',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/system-tests/', '9bb'),
-        exact: true
-      },
-      {
-        path: '/edc-docs/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction',
-        component: ComponentCreator('/edc-docs/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction', '8c7'),
         exact: true
       },
       {

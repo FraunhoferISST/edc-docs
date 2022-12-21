@@ -6,7 +6,7 @@
     },
     "content": "393be207"
   },
-  "/edc-docs/docs-46b": {
+  "/edc-docs/docs-e5d": {
     "__comp": "1be78505",
     "__context": {
       "plugin": "e082c058"
@@ -61,7 +61,7 @@
     "__comp": "17896441",
     "content": "1c5b175f"
   },
-  "/edc-docs/docs/submodule/Connector/CONTRIBUTING-16e": {
+  "/edc-docs/docs/submodule/Connector/CONTRIBUTING-d6b": {
     "__comp": "17896441",
     "content": "5f9d48a2"
   },
@@ -673,7 +673,7 @@
     "__comp": "17896441",
     "content": "51b42afe"
   },
-  "/edc-docs/docs/submodule/Connector/known_friends-f77": {
+  "/edc-docs/docs/submodule/Connector/known_friends-fc4": {
     "__comp": "17896441",
     "content": "f7ada3b0"
   },
@@ -940,106 +940,6 @@
   "/edc-docs/docs/submodule/IdentityHub/system-tests/-64a": {
     "__comp": "17896441",
     "content": "1379658e"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/-24b": {
-    "__comp": "17896441",
-    "content": "cb0799a6"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/CHANGELOG-282": {
-    "__comp": "17896441",
-    "content": "0de16ff6"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/-592": {
-    "__comp": "17896441",
-    "content": "641315a2"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment-361": {
-    "__comp": "17896441",
-    "content": "145ff73d"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/-80f": {
-    "__comp": "17896441",
-    "content": "0d70d29f"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/-a1d": {
-    "__comp": "17896441",
-    "content": "6a852c3e"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/-eb3": {
-    "__comp": "17896441",
-    "content": "68a5db0b"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/-dfa": {
-    "__comp": "17896441",
-    "content": "be1ea693"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/-fea": {
-    "__comp": "17896441",
-    "content": "0c829c6d"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/-072": {
-    "__comp": "17896441",
-    "content": "2f02e271"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/-c77": {
-    "__comp": "17896441",
-    "content": "0ce36761"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/-dc3": {
-    "__comp": "17896441",
-    "content": "a86138aa"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/-974": {
-    "__comp": "17896441",
-    "content": "0f39201b"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset-827": {
-    "__comp": "17896441",
-    "content": "758dd38e"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy-b2d": {
-    "__comp": "17896441",
-    "content": "87d9f949"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements-041": {
-    "__comp": "17896441",
-    "content": "088f80df"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer-9c3": {
-    "__comp": "17896441",
-    "content": "1eb18e4b"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract-d07": {
-    "__comp": "17896441",
-    "content": "98c89e5c"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset-7b3": {
-    "__comp": "17896441",
-    "content": "26c120ca"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history-18d": {
-    "__comp": "17896441",
-    "content": "e94499bb"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog-cda": {
-    "__comp": "17896441",
-    "content": "965b1fbe"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/-8c9": {
-    "__comp": "17896441",
-    "content": "72a23b41"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/decision-record-286": {
-    "__comp": "17896441",
-    "content": "69e6d32a"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/system-tests/-9bb": {
-    "__comp": "17896441",
-    "content": "40f60378"
-  },
-  "/edc-docs/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction-8c7": {
-    "__comp": "17896441",
-    "content": "51e2fdcf"
   },
   "/edc-docs/docs/submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture-eed": {
     "__comp": "17896441",

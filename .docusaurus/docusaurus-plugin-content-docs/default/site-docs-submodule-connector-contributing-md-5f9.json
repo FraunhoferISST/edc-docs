@@ -11,5 +11,14 @@
   "editUrl": "https://github.com/FraunhoferISST/edc-docs/tree/master/docs/submodule/Connector/CONTRIBUTING.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Known Friends of EDC",
+    "permalink": "/edc-docs/docs/submodule/Connector/known_friends"
+  },
+  "next": {
+    "title": "EDC Data Dashboard",
+    "permalink": "/edc-docs/docs/submodule/DataDashboard/"
+  }
 }

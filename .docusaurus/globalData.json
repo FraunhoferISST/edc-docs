@@ -59,7 +59,8 @@
             },
             {
               "id": "submodule/Connector/CONTRIBUTING",
-              "path": "/edc-docs/docs/submodule/Connector/CONTRIBUTING"
+              "path": "/edc-docs/docs/submodule/Connector/CONTRIBUTING",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "submodule/Connector/contribution_categories",
@@ -671,7 +672,8 @@
             },
             {
               "id": "submodule/Connector/known_friends",
-              "path": "/edc-docs/docs/submodule/Connector/known_friends"
+              "path": "/edc-docs/docs/submodule/Connector/known_friends",
+              "sidebar": "tutorialSidebar"
             },
             {
               "id": "submodule/Connector/launchers/generic/README",
@@ -944,106 +946,6 @@
             {
               "id": "submodule/IdentityHub/system-tests/README",
               "path": "/edc-docs/docs/submodule/IdentityHub/system-tests/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/CHANGELOG",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/CHANGELOG"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/decision-records/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/developer/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/developer/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/templates/decision-record",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/decision-record"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/docs/templates/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/docs/templates/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/system-tests/README",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/system-tests/"
-            },
-            {
-              "id": "submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
-              "path": "/edc-docs/docs/submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction"
             },
             {
               "id": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",

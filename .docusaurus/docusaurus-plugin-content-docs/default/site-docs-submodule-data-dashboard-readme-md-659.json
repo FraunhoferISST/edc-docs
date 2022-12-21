@@ -14,8 +14,8 @@
   "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Hands-on",
-    "permalink": "/edc-docs/docs/hands-on"
+    "title": "Contributing to the Project",
+    "permalink": "/edc-docs/docs/submodule/Connector/CONTRIBUTING"
   },
   "next": {
     "title": "Federated Catalog Cache",

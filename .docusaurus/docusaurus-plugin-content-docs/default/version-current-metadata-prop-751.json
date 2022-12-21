@@ -24,6 +24,18 @@
             "label": "Hands-on",
             "href": "/edc-docs/docs/hands-on",
             "docId": "hands-on"
+          },
+          {
+            "type": "link",
+            "label": "Adoptions",
+            "href": "/edc-docs/docs/submodule/Connector/known_friends",
+            "docId": "submodule/Connector/known_friends"
+          },
+          {
+            "type": "link",
+            "label": "Contributing",
+            "href": "/edc-docs/docs/submodule/Connector/CONTRIBUTING",
+            "docId": "submodule/Connector/CONTRIBUTING"
           }
         ],
         "collapsed": true,
@@ -151,7 +163,8 @@
     "submodule/Connector/CONTRIBUTING": {
       "id": "submodule/Connector/CONTRIBUTING",
       "title": "Contributing to the Project",
-      "description": "Thank you for your interest in contributing to"
+      "description": "Thank you for your interest in contributing to",
+      "sidebar": "tutorialSidebar"
     },
     "submodule/Connector/contribution_categories": {
       "id": "submodule/Connector/contribution_categories",
@@ -916,7 +929,8 @@
     "submodule/Connector/known_friends": {
       "id": "submodule/Connector/known_friends",
       "title": "Known Friends of EDC",
-      "description": "To get to know how we define \"adoptions\" and see how to submit a feature, please take a look at our"
+      "description": "To get to know how we define \"adoptions\" and see how to submit a feature, please take a look at our",
+      "sidebar": "tutorialSidebar"
     },
     "submodule/Connector/launchers/generic/README": {
       "id": "submodule/Connector/launchers/generic/README",
@@ -1256,131 +1270,6 @@
       "id": "submodule/IdentityHub/system-tests/README",
       "title": "README",
       "description": "System tests"
-    },
-    "submodule/MinimumViableDataspace/CHANGELOG": {
-      "id": "submodule/MinimumViableDataspace/CHANGELOG",
-      "title": "Changelog",
-      "description": "All notable changes to this project will be documented in this file - formatted and maintained according to the rules"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/continuous-deployment/continuous_deployment",
-      "title": "Continuous Deployment",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-11-decentralized-identity/README",
-      "title": "Decentralized Identity",
-      "description": "Decentralized identifiers (DIDs) enable verifiable, decentralized digital identity. DIDs have been designed so that they may be decoupled from centralized registries, identity providers, and certificate authorities."
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-04-28-federated-catalog/README",
-      "title": "Federated Catalog",
-      "description": "Decision"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-15-registration-service/README",
-      "title": "Registration Service",
-      "description": "Registration Service is a component of a Dataspace Authority. In the current version, the Dataspace Authority is centralized to support the Minimum Viable Dataspace (MVD). In future versions, the Authority could also be partly or fully decentralized."
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-16-distributed-authorization/README",
-      "title": "Distributed authorization sub-flow",
-      "description": "This sub-flow is used for a service to authenticate and authorize requests from a Dataspace Participant."
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-06-20-mvd-onboarding/README",
-      "title": "Participants onboarding in MVD",
-      "description": "This document outlines the infrastructure steps for the scenario of onboarding participants to the Minimum Viable Dataspace (MVD)."
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-07-19-cd-vault-secrets/README",
-      "title": "Deployment of Azure Key Vault secrets",
-      "description": "Decision"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-04-verifiable-credentials/README",
-      "title": "Deployment of Verifiable Credentials",
-      "description": "Decision"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/2022-08-15-code-quality-tooling/README",
-      "title": "Code Quality",
-      "description": "Decision"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/decision-records/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/decision-records/README",
-      "title": "Decision Records",
-      "description": "- 2022-04-11 Decentralized Identity"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-asset",
-      "title": "Add Asset",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/add-policy",
-      "title": "Adding a Policy",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/contract-agreements",
-      "title": "Browsing Contract Agreements",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/initiate-transfer",
-      "title": "Initiating a Data Transfer",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/negotiate-contract",
-      "title": "Negotiating a Contract",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/publish-asset",
-      "title": "Publish Assets",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/transfer-history",
-      "title": "Browsing the Transfer History",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/edc-data-dashboard/view-catalog",
-      "title": "View Catalog",
-      "description": "Overview"
-    },
-    "submodule/MinimumViableDataspace/docs/developer/README": {
-      "id": "submodule/MinimumViableDataspace/docs/developer/README",
-      "title": "Developer documentation",
-      "description": "Cloud environment setup"
-    },
-    "submodule/MinimumViableDataspace/docs/templates/decision-record": {
-      "id": "submodule/MinimumViableDataspace/docs/templates/decision-record",
-      "title": "Title of the Decision Record",
-      "description": "Decision"
-    },
-    "submodule/MinimumViableDataspace/docs/templates/README": {
-      "id": "submodule/MinimumViableDataspace/docs/templates/README",
-      "title": "Templates",
-      "description": "Find all provided documentation templates in this folder. Please note that the _italic text"
-    },
-    "submodule/MinimumViableDataspace/README": {
-      "id": "submodule/MinimumViableDataspace/README",
-      "title": "Minimum Viable Dataspace",
-      "description": "The Minimum Viable Dataspace (MVD) is a sample implementation of a dataspace that leverages the Eclipse Dataspace Connector (EDC). The main purpose is to demonstrate the capabilities of the EDC, make dataspace concepts tangible based on a specific implementation, and to serve as a starting point to implement a custom dataspace."
-    },
-    "submodule/MinimumViableDataspace/system-tests/README": {
-      "id": "submodule/MinimumViableDataspace/system-tests/README",
-      "title": "System tests",
-      "description": "The system tests verify the end-to-end deployment of MVD, including:"
-    },
-    "submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction": {
-      "id": "submodule/MinimumViableDataspace/Vision Demonstrator/Vision Demonstrator Introduction",
-      "title": "Vision Demonstrator Introduction",
-      "description": "Vision Demonstrator"
     },
     "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture": {
       "id": "submodule/Publications/Dataspaces/Dataspace Context Model and Conceptual Architecture",

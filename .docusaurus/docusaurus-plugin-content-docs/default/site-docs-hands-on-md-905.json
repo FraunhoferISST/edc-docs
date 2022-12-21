@@ -18,7 +18,7 @@
     "permalink": "/edc-docs/docs/"
   },
   "next": {
-    "title": "EDC Data Dashboard",
-    "permalink": "/edc-docs/docs/submodule/DataDashboard/"
+    "title": "Known Friends of EDC",
+    "permalink": "/edc-docs/docs/submodule/Connector/known_friends"
   }
 }

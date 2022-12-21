@@ -26,6 +26,16 @@ const sidebars = {
 
        items: [
          'hands-on',
+         {
+           type: 'doc',
+           id: 'submodule/Connector/known_friends',
+           label: 'Adoptions',
+         },
+         {
+           type: 'doc',
+           id: 'submodule/Connector/CONTRIBUTING',
+           label: 'Contributing',
+         },
 
        ],
      },
