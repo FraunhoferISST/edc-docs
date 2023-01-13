@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkedc_docs=self.webpackChunkedc_docs||[]).push([[7486],{73452:e=>{e.exports=JSON.parse('{"permalink":"/edc-docs/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
