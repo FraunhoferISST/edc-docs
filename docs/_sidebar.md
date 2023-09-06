@@ -5,7 +5,7 @@ free to add sections and subsections to this sidebar.)
 - [Home](/README)
 
 &nbsp;&nbsp;**Getting Started**
-- [Adoptions](/documentation/KNOWN_FRIENDS.md)
+- [Adoptions](/../KNOWN_FRIENDS.md)
 - [Contributing](/components/github/CONTRIBUTING.md)
 - [Hands-on](/hands-on.md)
 
