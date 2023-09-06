@@ -31,3 +31,6 @@
 [submodule "docs/components/github"]
 	path = docs/components/github
 	url = https://github.com/eclipse-edc/.github.git
+[submodule "docs/documentation"]
+	path = docs/documentation
+	url = https://github.com/eclipse-edc/docs.git
