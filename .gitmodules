@@ -1,33 +1,33 @@
-[submodule "docs/submodule/Collateral"]
-	path = docs/submodule/Collateral
+[submodule "docs/documents/collateral"]
+	path = docs/documents/collateral
 	url = https://github.com/eclipse-edc/Collateral.git
-[submodule "docs/submodule/Connector"]
-	path = docs/submodule/Connector
-	url = https://github.com/eclipse-edc/DataSpaceConnector.git
-[submodule "docs/submodule/DataDashboard"]
-	path = docs/submodule/DataDashboard
-	url = https://github.com/eclipse-edc/DataDashboard.git
-[submodule "docs/submodule/FederatedCatalog"]
-	path = docs/submodule/FederatedCatalog
-	url = https://github.com/eclipse-edc/FederatedCatalog.git
-[submodule "docs/submodule/IdentityHub"]
-	path = docs/submodule/IdentityHub
-	url = https://github.com/eclipse-edc/IdentityHub.git
-[submodule "docs/submodule/MinimumViableDataspace"]
-	path = docs/submodule/MinimumViableDataspace
-	url = https://github.com/eclipse-edc/MinimumViableDataspace.git
-[submodule "docs/submodule/Publications"]
-	path = docs/submodule/Publications
+[submodule "docs/documents/publications"]
+	path = docs/documents/publications
 	url = https://github.com/eclipse-edc/Publications.git
-[submodule "docs/submodule/RegistrationService"]
-	path = docs/submodule/RegistrationService
+[submodule "docs/components/connector"]
+	path = docs/components/connector
+	url = https://github.com/eclipse-edc/Connector.git
+[submodule "docs/components/data-dashboard"]
+	path = docs/components/data-dashboard
+	url = https://github.com/eclipse-edc/DataDashboard.git
+[submodule "docs/components/federated-catalog"]
+	path = docs/components/federated-catalog
+	url = https://github.com/eclipse-edc/FederatedCatalog.git
+[submodule "docs/components/identity-hub"]
+	path = docs/components/identity-hub
+	url = https://github.com/eclipse-edc/IdentityHub.git
+[submodule "docs/components/mvd"]
+	path = docs/components/mvd
+	url = https://github.com/eclipse-edc/MinimumViableDataspace.git
+[submodule "docs/components/registration-service"]
+	path = docs/components/registration-service
 	url = https://github.com/eclipse-edc/RegistrationService.git
-[submodule "docs/submodule/GradlePlugins"]
-	path = docs/submodule/GradlePlugins
+[submodule "docs/components/gradle-plugins"]
+	path = docs/components/gradle-plugins
 	url = https://github.com/eclipse-edc/GradlePlugins.git
-[submodule "docs/submodule/TrustFrameworkAdoption"]
-	path = docs/submodule/TrustFrameworkAdoption
+[submodule "docs/components/trust-framework-adoption"]
+	path = docs/components/trust-framework-adoption
 	url = https://github.com/eclipse-edc/TrustFrameworkAdoption.git
-[submodule "docs/submodule/GitHub"]
-	path = docs/submodule/GitHub
+[submodule "docs/components/github"]
+	path = docs/components/github
 	url = https://github.com/eclipse-edc/.github.git

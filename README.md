@@ -19,4 +19,4 @@ $ docsify serve docs
 
 ## Contributing
 
-See [how to contribute](docs/submodule/GitHub/CONTRIBUTING.md).
+See [how to contribute](docs/components/github/CONTRIBUTING.md).

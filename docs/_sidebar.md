@@ -5,48 +5,48 @@ free to add sections and subsections to this sidebar.)
 - [Home](/README)
 
 &nbsp;&nbsp;**Getting Started**
-- [Adoptions](/submodule/GitHub/KNOWN_FRIENDS.md)
-- [Contributing](/submodule/GitHub/CONTRIBUTING.md)
+- [Adoptions](/components/github/KNOWN_FRIENDS.md)
+- [Contributing](/components/github/CONTRIBUTING.md)
 - [Hands-on](/hands-on.md)
 
 &nbsp;&nbsp;**Components**
 
-- [Connector](/submodule/Connector/)
-  - [Documentation](/submodule/Connector/docs/developer/)
-  - [Decision Records](/submodule/Connector/docs/developer/decision-records/)
+- [Connector](/components/connector/)
+  - [Documentation](/components/connector/docs/developer/)
+  - [Decision Records](/components/connector/docs/developer/decision-records/)
 
-- [Data Dashboard](/submodule/DataDashboard/)
-  - [Documentation](/submodule/DataDashboard/docs/developer/)
-  - [Decision Records](/submodule/DataDashboard/docs/developer/decision-records/)
+- [Data Dashboard](/components/data-dashboard/)
+  - [Documentation](/components/data-dashboard/docs/developer/)
+  - [Decision Records](/components/data-dashboard/docs/developer/decision-records/)
 
-- [Federated Catalog](/submodule/FederatedCatalog/)
-  - [Documentation](/submodule/FederatedCatalog/docs/developer/)
-  - [Decision Records](/submodule/FederatedCatalog/docs/developer/decision-records/)
+- [Federated Catalog](/components/federated-catalog/)
+  - [Documentation](/components/federated-catalog/docs/developer/)
+  - [Decision Records](/components/federated-catalog/docs/developer/decision-records/)
 
-- [Gradle Plugins](/submodule/GradlePlugins/)
-  - [Documentation](/submodule/GradlePlugins/docs/developer/)
-  - [Decision Records](/submodule/GradlePlugins/docs/developer/decision-records/)
+- [Gradle Plugins](/components/gradle-plugins/)
+  - [Documentation](/components/gradle-plugins/docs/developer/)
+  - [Decision Records](/components/gradle-plugins/docs/developer/decision-records/)
 
-- [Identity Hub](/submodule/IdentityHub/)
-  - [Documentation](/submodule/IdentityHub/docs/developer/)
-  - [Decision Records](/submodule/IdentityHub/docs/developer/decision-records/)
+- [Identity Hub](/components/identity-hub/)
+  - [Documentation](/components/identity-hub/docs/developer/)
+  - [Decision Records](/components/identity-hub/docs/developer/decision-records/)
 
-- [Minimum Viable Dataspace](/submodule/MinimumViableDataspace/)
-  - [Documentation](/submodule/MinimumViableDataspace/docs/developer/)
-  - [Decision Records](/submodule/MinimumViableDataspace/docs/developer/decision-records/)
+- [Minimum Viable Dataspace](/components/mvd/)
+  - [Documentation](/components/mvd/docs/developer/)
+  - [Decision Records](/components/mvd/docs/developer/decision-records/)
 
-- [Registration Service](/submodule/RegistrationService/)
-  - [Documentation](/submodule/RegistrationService/docs/developer/)
-  - [Decision Records](/submodule/RegistrationService/docs/developer/decision-records/)
+- [Registration Service](/components/registration-service/)
+  - [Documentation](/components/registration-service/docs/developer/)
+  - [Decision Records](/components/registration-service/docs/developer/decision-records/)
 
-- [Trust Framework Adoption](/submodule/TrustFrameworkAdoption/)
-  - [Documentation](/submodule/TrustFrameworkAdoption/docs/developer/)
-  - [Decision Records](/submodule/TrustFrameworkAdoption/docs/developer/decision-records/)
+- [Trust Framework Adoption](/components/trust-framework-adoption/)
+  - [Documentation](/components/trust-framework-adoption/docs/developer/)
+  - [Decision Records](/components/trust-framework-adoption/docs/developer/decision-records/)
 
 &nbsp;&nbsp;**Documents**
 
-- [Collateral](/submodule/Collateral/)
-  - [Events](/submodule/Collateral/Events/)
-  - [Latest Presentations](/submodule/Collateral/Latest%20Presentations/)
-  - [Work Content](/submodule/Collateral/Work%20Content/)
+- [Collateral](/documents/collateral/)
+  - [Events](/documents/collateral/Events/)
+  - [Latest Presentations](/documents/collateral/Latest%20Presentations/)
+  - [Work Content](/documents/collateral/Work%20Content/)
 - [Publications](/publications.md)
